@@ -1,14 +1,16 @@
 from django.db import models
 
+from softdelete.models import BaseModel
 
-class Category(models.Model):
+
+class Category(BaseModel):
     name = models.CharField(max_length=100)
 
     def __str__(self):
         return self.name
 
 
-class Post(models.Model):
+class Post(BaseModel):
     title = models.CharField(max_length=200)
     content = models.TextField()
     category = models.ForeignKey(
@@ -20,7 +22,7 @@ class Post(models.Model):
         return self.title
 
 
-class Comment(models.Model):
+class Comment(BaseModel):
     post = models.ForeignKey(
         Post, related_name='comments', on_delete=models.CASCADE)
     author = models.CharField(max_length=100)
