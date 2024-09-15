@@ -1,0 +1,146 @@
+2024-09-15 19:02:14,571 - INFO - Watching for file changes with StatReloader
+2024-09-15 19:04:10,291 - INFO - /home/saulojustiniano/www/classeven/boost-code/boost_code/settings.py changed, reloading.
+2024-09-15 19:04:10,702 - INFO - Watching for file changes with StatReloader
+2024-09-15 19:04:34,581 - INFO - /home/saulojustiniano/www/classeven/boost-code/boost_code/settings.py changed, reloading.
+2024-09-15 19:04:34,960 - INFO - Watching for file changes with StatReloader
+2024-09-15 19:04:52,622 - INFO - /home/saulojustiniano/www/classeven/boost-code/boost_code/settings.py changed, reloading.
+2024-09-15 19:04:53,037 - INFO - Watching for file changes with StatReloader
+2024-09-15 19:05:39,199 - INFO - /home/saulojustiniano/www/classeven/boost-code/boost_code/settings.py changed, reloading.
+2024-09-15 19:05:39,613 - INFO - Watching for file changes with StatReloader
+2024-09-15 19:05:41,862 - INFO - /home/saulojustiniano/www/classeven/boost-code/boost_code/settings.py changed, reloading.
+2024-09-15 19:05:42,243 - INFO - Watching for file changes with StatReloader
+2024-09-15 19:09:47,565 - INFO - Middleware: Interceptando requisição
+2024-09-15 19:09:47,568 - INFO - Novo Nova Categoria
+2024-09-15 19:09:47,570 - INFO - Middleware: Interceptando resposta
+2024-09-15 19:09:47,882 - INFO - Middleware: Interceptando requisição
+2024-09-15 19:09:47,882 - INFO - Middleware: Interceptando resposta
+2024-09-15 19:09:47,883 - WARNING - Unauthorized: /api/category/
+2024-09-15 19:09:48,182 - INFO - Middleware: Interceptando requisição
+2024-09-15 19:09:48,185 - INFO - Middleware: Interceptando resposta
+2024-09-15 19:09:48,473 - INFO - Middleware: Interceptando requisição
+2024-09-15 19:09:48,475 - INFO - Middleware: Interceptando resposta
+2024-09-15 19:09:48,762 - INFO - Middleware: Interceptando requisição
+2024-09-15 19:09:48,765 - INFO - Middleware: Interceptando resposta
+2024-09-15 19:09:50,306 - INFO - Middleware: Interceptando requisição
+2024-09-15 19:09:50,309 - INFO - Middleware: Interceptando resposta
+2024-09-15 19:09:50,309 - WARNING - Bad Request: /api/post/
+2024-09-15 19:09:50,606 - INFO - Middleware: Interceptando requisição
+2024-09-15 19:09:50,606 - INFO - Middleware: Interceptando resposta
+2024-09-15 19:09:50,606 - WARNING - Unauthorized: /api/post/
+2024-09-15 19:12:29,292 - INFO - Middleware: Interceptando requisição
+2024-09-15 19:12:29,295 - INFO - Novo Nova Categoria
+2024-09-15 19:12:29,297 - INFO - Middleware: Interceptando resposta
+2024-09-15 19:12:29,597 - INFO - Middleware: Interceptando requisição
+2024-09-15 19:12:29,598 - INFO - Middleware: Interceptando resposta
+2024-09-15 19:12:29,598 - WARNING - Unauthorized: /api/category/
+2024-09-15 19:12:29,896 - INFO - Middleware: Interceptando requisição
+2024-09-15 19:12:29,899 - INFO - Middleware: Interceptando resposta
+2024-09-15 19:12:30,206 - INFO - Middleware: Interceptando requisição
+2024-09-15 19:12:30,209 - INFO - Middleware: Interceptando resposta
+2024-09-15 19:12:30,520 - INFO - Middleware: Interceptando requisição
+2024-09-15 19:12:30,524 - INFO - Middleware: Interceptando resposta
+2024-09-15 19:12:32,045 - INFO - Middleware: Interceptando requisição
+2024-09-15 19:12:32,049 - INFO - Middleware: Interceptando resposta
+2024-09-15 19:12:32,049 - WARNING - Bad Request: /api/post/
+2024-09-15 19:12:32,360 - INFO - Middleware: Interceptando requisição
+2024-09-15 19:12:32,360 - INFO - Middleware: Interceptando resposta
+2024-09-15 19:12:32,360 - WARNING - Unauthorized: /api/post/
+2024-09-15 19:17:24,702 - INFO - Middleware: Interceptando requisição
+2024-09-15 19:17:24,704 - INFO - Novo Nova Categoria
+2024-09-15 19:17:24,706 - INFO - Middleware: Interceptando resposta
+2024-09-15 19:17:25,181 - INFO - Middleware: Interceptando requisição
+2024-09-15 19:17:25,182 - INFO - Middleware: Interceptando resposta
+2024-09-15 19:17:25,182 - WARNING - Unauthorized: /api/category/
+2024-09-15 19:17:25,650 - INFO - Middleware: Interceptando requisição
+2024-09-15 19:17:25,653 - INFO - Middleware: Interceptando resposta
+2024-09-15 19:17:25,942 - INFO - Middleware: Interceptando requisição
+2024-09-15 19:17:25,945 - INFO - Middleware: Interceptando resposta
+2024-09-15 19:17:26,290 - INFO - Middleware: Interceptando requisição
+2024-09-15 19:17:26,294 - INFO - Middleware: Interceptando resposta
+2024-09-15 19:17:26,603 - INFO - Middleware: Interceptando requisição
+2024-09-15 19:17:26,607 - INFO - Novo 1
+2024-09-15 19:17:26,609 - INFO - Middleware: Interceptando resposta
+2024-09-15 19:17:26,913 - INFO - Middleware: Interceptando requisição
+2024-09-15 19:17:26,916 - INFO - Middleware: Interceptando resposta
+2024-09-15 19:17:27,206 - INFO - Middleware: Interceptando requisição
+2024-09-15 19:17:27,209 - INFO - Middleware: Interceptando resposta
+2024-09-15 19:17:27,501 - INFO - Middleware: Interceptando requisição
+2024-09-15 19:17:27,505 - INFO - Middleware: Interceptando resposta
+2024-09-15 19:17:27,813 - INFO - Middleware: Interceptando requisição
+2024-09-15 19:17:27,816 - INFO - Novo Novo Post
+2024-09-15 19:17:27,818 - INFO - Middleware: Interceptando resposta
+2024-09-15 19:17:28,114 - INFO - Middleware: Interceptando requisição
+2024-09-15 19:17:28,114 - INFO - Middleware: Interceptando resposta
+2024-09-15 19:17:28,115 - WARNING - Unauthorized: /api/post/
+2024-09-15 19:17:28,403 - INFO - Middleware: Interceptando requisição
+2024-09-15 19:17:28,406 - INFO - Middleware: Interceptando resposta
+2024-09-15 19:17:28,814 - INFO - Middleware: Interceptando requisição
+2024-09-15 19:17:28,818 - INFO - Middleware: Interceptando resposta
+2024-09-15 19:17:29,314 - INFO - Middleware: Interceptando requisição
+2024-09-15 19:17:29,319 - INFO - Middleware: Interceptando resposta
+2024-09-15 19:18:21,180 - INFO - Middleware: Interceptando requisição
+2024-09-15 19:18:21,183 - INFO - Novo Nova Categoria
+2024-09-15 19:18:21,185 - INFO - Middleware: Interceptando resposta
+2024-09-15 19:18:21,484 - INFO - Middleware: Interceptando requisição
+2024-09-15 19:18:21,485 - INFO - Middleware: Interceptando resposta
+2024-09-15 19:18:21,485 - WARNING - Unauthorized: /api/category/
+2024-09-15 19:18:21,786 - INFO - Middleware: Interceptando requisição
+2024-09-15 19:18:21,790 - INFO - Middleware: Interceptando resposta
+2024-09-15 19:18:22,098 - INFO - Middleware: Interceptando requisição
+2024-09-15 19:18:22,101 - INFO - Middleware: Interceptando resposta
+2024-09-15 19:18:22,429 - INFO - Middleware: Interceptando requisição
+2024-09-15 19:18:22,432 - INFO - Middleware: Interceptando resposta
+2024-09-15 19:18:22,744 - INFO - Middleware: Interceptando requisição
+2024-09-15 19:18:22,748 - INFO - Novo 1
+2024-09-15 19:18:22,749 - INFO - Middleware: Interceptando resposta
+2024-09-15 19:18:23,056 - INFO - Middleware: Interceptando requisição
+2024-09-15 19:18:23,059 - INFO - Middleware: Interceptando resposta
+2024-09-15 19:18:23,365 - INFO - Middleware: Interceptando requisição
+2024-09-15 19:18:23,368 - INFO - Middleware: Interceptando resposta
+2024-09-15 19:18:23,666 - INFO - Middleware: Interceptando requisição
+2024-09-15 19:18:23,670 - INFO - Middleware: Interceptando resposta
+2024-09-15 19:18:23,976 - INFO - Middleware: Interceptando requisição
+2024-09-15 19:18:23,979 - INFO - Novo Novo Post
+2024-09-15 19:18:23,981 - INFO - Middleware: Interceptando resposta
+2024-09-15 19:18:24,287 - INFO - Middleware: Interceptando requisição
+2024-09-15 19:18:24,288 - INFO - Middleware: Interceptando resposta
+2024-09-15 19:18:24,288 - WARNING - Unauthorized: /api/post/
+2024-09-15 19:18:24,596 - INFO - Middleware: Interceptando requisição
+2024-09-15 19:18:24,599 - INFO - Middleware: Interceptando resposta
+2024-09-15 19:18:24,896 - INFO - Middleware: Interceptando requisição
+2024-09-15 19:18:24,900 - INFO - Middleware: Interceptando resposta
+2024-09-15 19:18:25,202 - INFO - Middleware: Interceptando requisição
+2024-09-15 19:18:25,206 - INFO - Middleware: Interceptando resposta
+2024-09-15 22:43:28,148 - INFO - Middleware: Interceptando requisição
+2024-09-15 22:43:28,150 - INFO - Novo Nova Categoria
+2024-09-15 22:43:28,152 - INFO - Middleware: Interceptando resposta
+2024-09-15 22:43:28,442 - INFO - Middleware: Interceptando requisição
+2024-09-15 22:43:28,443 - INFO - Middleware: Interceptando resposta
+2024-09-15 22:43:28,443 - WARNING - Unauthorized: /api/category/
+2024-09-15 22:43:28,724 - INFO - Middleware: Interceptando requisição
+2024-09-15 22:43:28,727 - INFO - Middleware: Interceptando resposta
+2024-09-15 22:43:29,008 - INFO - Middleware: Interceptando requisição
+2024-09-15 22:43:29,011 - INFO - Middleware: Interceptando resposta
+2024-09-15 22:43:29,289 - INFO - Middleware: Interceptando requisição
+2024-09-15 22:43:29,292 - INFO - Middleware: Interceptando resposta
+2024-09-15 22:43:29,630 - INFO - Middleware: Interceptando requisição
+2024-09-15 22:43:29,635 - INFO - Novo 1
+2024-09-15 22:43:29,637 - INFO - Middleware: Interceptando resposta
+2024-09-15 22:43:29,981 - INFO - Middleware: Interceptando requisição
+2024-09-15 22:43:29,984 - INFO - Middleware: Interceptando resposta
+2024-09-15 22:43:30,266 - INFO - Middleware: Interceptando requisição
+2024-09-15 22:43:30,269 - INFO - Middleware: Interceptando resposta
+2024-09-15 22:43:30,551 - INFO - Middleware: Interceptando requisição
+2024-09-15 22:43:30,555 - INFO - Middleware: Interceptando resposta
+2024-09-15 22:43:30,852 - INFO - Middleware: Interceptando requisição
+2024-09-15 22:43:30,855 - INFO - Novo Novo Post
+2024-09-15 22:43:30,856 - INFO - Middleware: Interceptando resposta
+2024-09-15 22:43:31,150 - INFO - Middleware: Interceptando requisição
+2024-09-15 22:43:31,151 - INFO - Middleware: Interceptando resposta
+2024-09-15 22:43:31,151 - WARNING - Unauthorized: /api/post/
+2024-09-15 22:43:31,437 - INFO - Middleware: Interceptando requisição
+2024-09-15 22:43:31,440 - INFO - Middleware: Interceptando resposta
+2024-09-15 22:43:31,727 - INFO - Middleware: Interceptando requisição
+2024-09-15 22:43:31,730 - INFO - Middleware: Interceptando resposta
+2024-09-15 22:43:32,016 - INFO - Middleware: Interceptando requisição
+2024-09-15 22:43:32,021 - INFO - Middleware: Interceptando resposta
