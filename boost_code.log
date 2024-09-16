@@ -144,3 +144,36 @@
 2024-09-15 22:43:31,730 - INFO - Middleware: Interceptando resposta
 2024-09-15 22:43:32,016 - INFO - Middleware: Interceptando requisição
 2024-09-15 22:43:32,021 - INFO - Middleware: Interceptando resposta
+2024-09-16 19:01:56,030 - INFO - Middleware: Interceptando requisição
+2024-09-16 19:01:56,032 - INFO - Novo Nova Categoria
+2024-09-16 19:01:56,034 - INFO - Middleware: Interceptando resposta
+2024-09-16 19:01:56,333 - INFO - Middleware: Interceptando requisição
+2024-09-16 19:01:56,334 - INFO - Middleware: Interceptando resposta
+2024-09-16 19:01:56,334 - WARNING - Unauthorized: /api/category/
+2024-09-16 19:01:56,626 - INFO - Middleware: Interceptando requisição
+2024-09-16 19:01:56,630 - INFO - Middleware: Interceptando resposta
+2024-09-16 19:01:56,925 - INFO - Middleware: Interceptando requisição
+2024-09-16 19:01:56,928 - INFO - Middleware: Interceptando resposta
+2024-09-16 19:01:57,222 - INFO - Middleware: Interceptando requisição
+2024-09-16 19:01:57,226 - INFO - Middleware: Interceptando resposta
+2024-09-16 19:01:57,542 - INFO - Middleware: Interceptando requisição
+2024-09-16 19:01:57,546 - INFO - Novo 1
+2024-09-16 19:01:57,548 - INFO - Middleware: Interceptando resposta
+2024-09-16 19:01:57,863 - INFO - Middleware: Interceptando requisição
+2024-09-16 19:01:57,866 - INFO - Middleware: Interceptando resposta
+2024-09-16 19:01:58,164 - INFO - Middleware: Interceptando requisição
+2024-09-16 19:01:58,167 - INFO - Middleware: Interceptando resposta
+2024-09-16 19:01:58,460 - INFO - Middleware: Interceptando requisição
+2024-09-16 19:01:58,464 - INFO - Middleware: Interceptando resposta
+2024-09-16 19:01:58,797 - INFO - Middleware: Interceptando requisição
+2024-09-16 19:01:58,800 - INFO - Novo Novo Post
+2024-09-16 19:01:58,802 - INFO - Middleware: Interceptando resposta
+2024-09-16 19:01:59,099 - INFO - Middleware: Interceptando requisição
+2024-09-16 19:01:59,099 - INFO - Middleware: Interceptando resposta
+2024-09-16 19:01:59,100 - WARNING - Unauthorized: /api/post/
+2024-09-16 19:01:59,398 - INFO - Middleware: Interceptando requisição
+2024-09-16 19:01:59,401 - INFO - Middleware: Interceptando resposta
+2024-09-16 19:01:59,703 - INFO - Middleware: Interceptando requisição
+2024-09-16 19:01:59,706 - INFO - Middleware: Interceptando resposta
+2024-09-16 19:02:00,014 - INFO - Middleware: Interceptando requisição
+2024-09-16 19:02:00,019 - INFO - Middleware: Interceptando resposta
