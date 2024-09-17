@@ -177,3 +177,235 @@
 2024-09-16 19:01:59,706 - INFO - Middleware: Interceptando resposta
 2024-09-16 19:02:00,014 - INFO - Middleware: Interceptando requisição
 2024-09-16 19:02:00,019 - INFO - Middleware: Interceptando resposta
+2024-09-16 19:03:42,321 - INFO - Watching for file changes with StatReloader
+2024-09-16 19:04:41,359 - INFO - Watching for file changes with StatReloader
+2024-09-16 19:05:00,997 - INFO - Watching for file changes with StatReloader
+2024-09-16 19:13:26,986 - INFO - Watching for file changes with StatReloader
+2024-09-16 19:13:33,712 - INFO - Middleware: Interceptando requisição
+2024-09-16 19:13:33,720 - INFO - Middleware: Interceptando resposta
+2024-09-16 19:13:33,720 - WARNING - Not Found: /
+2024-09-16 19:13:33,974 - INFO - Middleware: Interceptando requisição
+2024-09-16 19:13:33,980 - INFO - Middleware: Interceptando resposta
+2024-09-16 19:13:33,981 - WARNING - Not Found: /favicon.ico
+2024-09-16 19:13:37,931 - INFO - Middleware: Interceptando requisição
+2024-09-16 19:13:38,003 - INFO - Middleware: Interceptando resposta
+2024-09-16 19:25:53,512 - INFO - Middleware: Interceptando requisição
+2024-09-16 19:25:53,513 - INFO - Middleware: Interceptando resposta
+2024-09-16 19:25:53,514 - WARNING - Unauthorized: /api/post/
+2024-09-16 19:28:53,930 - INFO - Middleware: Interceptando requisição
+2024-09-16 19:28:54,261 - INFO - Middleware: Interceptando resposta
+2024-09-16 19:29:10,685 - INFO - Middleware: Interceptando requisição
+2024-09-16 19:29:10,702 - INFO - Middleware: Interceptando resposta
+2024-09-16 19:29:53,148 - INFO - Middleware: Interceptando requisição
+2024-09-16 19:29:53,167 - INFO - Middleware: Interceptando resposta
+2024-09-16 19:30:07,288 - INFO - Middleware: Interceptando requisição
+2024-09-16 19:30:07,301 - INFO - Middleware: Interceptando resposta
+2024-09-16 19:33:24,076 - INFO - Middleware: Interceptando requisição
+2024-09-16 19:33:24,092 - INFO - Middleware: Interceptando resposta
+2024-09-16 19:33:24,093 - WARNING - Bad Request: /api/post/
+2024-09-16 19:34:24,755 - INFO - Middleware: Interceptando requisição
+2024-09-16 19:34:24,756 - INFO - Middleware: Interceptando resposta
+2024-09-16 19:34:24,756 - WARNING - Unauthorized: /api/post/
+2024-09-16 19:34:59,701 - INFO - Middleware: Interceptando requisição
+2024-09-16 19:34:59,703 - INFO - Middleware: Interceptando resposta
+2024-09-16 19:34:59,703 - WARNING - Unauthorized: /api/post/
+2024-09-16 19:35:05,586 - INFO - Middleware: Interceptando requisição
+2024-09-16 19:35:05,922 - INFO - Middleware: Interceptando resposta
+2024-09-16 19:35:13,783 - INFO - Middleware: Interceptando requisição
+2024-09-16 19:35:13,796 - INFO - Middleware: Interceptando resposta
+2024-09-16 19:35:23,170 - INFO - Middleware: Interceptando requisição
+2024-09-16 19:35:23,181 - INFO - Middleware: Interceptando resposta
+2024-09-16 19:35:23,181 - WARNING - Bad Request: /api/post/
+2024-09-16 19:35:25,834 - INFO - Middleware: Interceptando requisição
+2024-09-16 19:35:25,847 - INFO - Middleware: Interceptando resposta
+2024-09-16 19:35:27,988 - INFO - Middleware: Interceptando requisição
+2024-09-16 19:35:27,989 - INFO - Middleware: Interceptando resposta
+2024-09-16 19:35:27,989 - WARNING - Unauthorized: /api/category/
+2024-09-16 19:35:33,909 - INFO - Middleware: Interceptando requisição
+2024-09-16 19:35:33,923 - INFO - Middleware: Interceptando resposta
+2024-09-16 19:35:41,868 - INFO - Middleware: Interceptando requisição
+2024-09-16 19:35:41,889 - INFO - Middleware: Interceptando resposta
+2024-09-16 19:35:55,257 - INFO - Middleware: Interceptando requisição
+2024-09-16 19:35:55,272 - INFO - Middleware: Interceptando resposta
+2024-09-16 19:35:55,272 - WARNING - Bad Request: /api/post/
+2024-09-16 19:36:06,220 - INFO - Middleware: Interceptando requisição
+2024-09-16 19:36:06,231 - INFO - Middleware: Interceptando resposta
+2024-09-16 19:36:06,231 - WARNING - Bad Request: /api/post/
+2024-09-16 19:36:15,536 - INFO - Middleware: Interceptando requisição
+2024-09-16 19:36:15,556 - INFO - Middleware: Interceptando resposta
+2024-09-16 19:36:15,556 - WARNING - Bad Request: /api/post/
+2024-09-16 19:37:01,203 - INFO - Middleware: Interceptando requisição
+2024-09-16 19:37:01,214 - INFO - Middleware: Interceptando resposta
+2024-09-16 19:37:01,214 - WARNING - Bad Request: /api/post/
+2024-09-16 19:37:23,945 - INFO - Middleware: Interceptando requisição
+2024-09-16 19:37:23,962 - INFO - Middleware: Interceptando resposta
+2024-09-16 19:37:23,962 - WARNING - Bad Request: /api/post/
+2024-09-16 19:37:56,523 - INFO - Middleware: Interceptando requisição
+2024-09-16 19:37:56,539 - INFO - Middleware: Interceptando resposta
+2024-09-16 19:37:56,539 - WARNING - Bad Request: /api/post/
+2024-09-16 19:38:27,628 - INFO - Middleware: Interceptando requisição
+2024-09-16 19:38:27,640 - INFO - Novo pjdsf0ojsdofnosdfn
+2024-09-16 19:38:27,648 - INFO - Middleware: Interceptando resposta
+2024-09-16 19:39:21,041 - INFO - Middleware: Interceptando requisição
+2024-09-16 19:39:21,060 - INFO - Middleware: Interceptando resposta
+2024-09-16 19:39:21,060 - WARNING - Bad Request: /api/post/
+2024-09-16 19:41:44,060 - INFO - /home/saulojustiniano/www/classeven/boost-code/plataforma/models.py changed, reloading.
+2024-09-16 19:41:44,471 - INFO - Watching for file changes with StatReloader
+2024-09-16 19:43:13,546 - INFO - Watching for file changes with StatReloader
+2024-09-16 19:44:03,605 - INFO - Middleware: Interceptando requisição
+2024-09-16 19:44:03,617 - INFO - Middleware: Interceptando resposta
+2024-09-16 19:44:03,618 - WARNING - Unauthorized: /api/post/
+2024-09-16 19:44:18,446 - INFO - Middleware: Interceptando requisição
+2024-09-16 19:44:18,797 - INFO - Middleware: Interceptando resposta
+2024-09-16 19:44:26,190 - INFO - Middleware: Interceptando requisição
+2024-09-16 19:44:26,202 - INFO - Middleware: Interceptando resposta
+2024-09-16 19:44:26,202 - WARNING - Bad Request: /api/post/
+2024-09-16 19:45:25,425 - INFO - Middleware: Interceptando requisição
+2024-09-16 19:45:25,444 - INFO - Middleware: Interceptando resposta
+2024-09-16 19:45:25,445 - WARNING - Bad Request: /api/post/
+2024-09-16 19:46:30,433 - INFO - Middleware: Interceptando requisição
+2024-09-16 19:46:30,447 - INFO - Middleware: Interceptando resposta
+2024-09-16 19:46:30,447 - WARNING - Bad Request: /api/post/
+2024-09-16 19:47:48,949 - INFO - Middleware: Interceptando requisição
+2024-09-16 19:47:48,962 - INFO - Middleware: Interceptando resposta
+2024-09-16 19:47:48,962 - WARNING - Bad Request: /api/category/
+2024-09-16 19:48:18,422 - INFO - Middleware: Interceptando requisição
+2024-09-16 19:48:18,439 - INFO - Middleware: Interceptando resposta
+2024-09-16 19:48:18,439 - WARNING - Bad Request: /api/category/
+2024-09-16 19:51:23,367 - INFO - Middleware: Interceptando requisição
+2024-09-16 19:51:23,368 - INFO - Middleware: Interceptando resposta
+2024-09-16 19:51:23,368 - WARNING - Unauthorized: /api/post/
+2024-09-16 19:51:27,573 - INFO - Middleware: Interceptando requisição
+2024-09-16 19:51:27,960 - INFO - Middleware: Interceptando resposta
+2024-09-16 19:51:50,959 - INFO - Middleware: Interceptando requisição
+2024-09-16 19:51:50,960 - INFO - Middleware: Interceptando resposta
+2024-09-16 19:51:50,960 - WARNING - Unauthorized: /api/post/
+2024-09-16 19:51:55,530 - INFO - Middleware: Interceptando requisição
+2024-09-16 19:51:55,546 - INFO - Middleware: Interceptando resposta
+2024-09-16 19:52:11,865 - INFO - Middleware: Interceptando requisição
+2024-09-16 19:52:11,878 - INFO - Middleware: Interceptando resposta
+2024-09-16 19:52:51,942 - INFO - Middleware: Interceptando requisição
+2024-09-16 19:52:52,021 - DEBUG - STREAM b'IHDR' 16 13
+2024-09-16 19:52:52,021 - DEBUG - STREAM b'sBIT' 41 4
+2024-09-16 19:52:52,021 - DEBUG - b'sBIT' 41 4 (unknown)
+2024-09-16 19:52:52,021 - DEBUG - STREAM b'tEXt' 57 25
+2024-09-16 19:52:52,021 - DEBUG - STREAM b'tEXt' 94 38
+2024-09-16 19:52:52,021 - DEBUG - STREAM b'IDAT' 144 8192
+2024-09-16 19:52:52,021 - DEBUG - Importing BlpImagePlugin
+2024-09-16 19:52:52,026 - DEBUG - Importing BmpImagePlugin
+2024-09-16 19:52:52,026 - DEBUG - Importing BufrStubImagePlugin
+2024-09-16 19:52:52,027 - DEBUG - Importing CurImagePlugin
+2024-09-16 19:52:52,028 - DEBUG - Importing DcxImagePlugin
+2024-09-16 19:52:52,030 - DEBUG - Importing DdsImagePlugin
+2024-09-16 19:52:52,038 - DEBUG - Importing EpsImagePlugin
+2024-09-16 19:52:52,042 - DEBUG - Importing FitsImagePlugin
+2024-09-16 19:52:52,044 - DEBUG - Importing FliImagePlugin
+2024-09-16 19:52:52,046 - DEBUG - Importing FpxImagePlugin
+2024-09-16 19:52:52,047 - DEBUG - Image: failed to import FpxImagePlugin: No module named 'olefile'
+2024-09-16 19:52:52,047 - DEBUG - Importing FtexImagePlugin
+2024-09-16 19:52:52,049 - DEBUG - Importing GbrImagePlugin
+2024-09-16 19:52:52,050 - DEBUG - Importing GifImagePlugin
+2024-09-16 19:52:52,051 - DEBUG - Importing GribStubImagePlugin
+2024-09-16 19:52:52,052 - DEBUG - Importing Hdf5StubImagePlugin
+2024-09-16 19:52:52,053 - DEBUG - Importing IcnsImagePlugin
+2024-09-16 19:52:52,062 - DEBUG - Importing IcoImagePlugin
+2024-09-16 19:52:52,066 - DEBUG - Importing ImImagePlugin
+2024-09-16 19:52:52,069 - DEBUG - Importing ImtImagePlugin
+2024-09-16 19:52:52,070 - DEBUG - Importing IptcImagePlugin
+2024-09-16 19:52:52,072 - DEBUG - Importing JpegImagePlugin
+2024-09-16 19:52:52,073 - DEBUG - Importing Jpeg2KImagePlugin
+2024-09-16 19:52:52,073 - DEBUG - Importing McIdasImagePlugin
+2024-09-16 19:52:52,074 - DEBUG - Importing MicImagePlugin
+2024-09-16 19:52:52,076 - DEBUG - Image: failed to import MicImagePlugin: No module named 'olefile'
+2024-09-16 19:52:52,076 - DEBUG - Importing MpegImagePlugin
+2024-09-16 19:52:52,077 - DEBUG - Importing MpoImagePlugin
+2024-09-16 19:52:52,135 - DEBUG - Importing MspImagePlugin
+2024-09-16 19:52:52,137 - DEBUG - Importing PalmImagePlugin
+2024-09-16 19:52:52,141 - DEBUG - Importing PcdImagePlugin
+2024-09-16 19:52:52,142 - DEBUG - Importing PcxImagePlugin
+2024-09-16 19:52:52,142 - DEBUG - Importing PdfImagePlugin
+2024-09-16 19:52:52,193 - DEBUG - Importing PixarImagePlugin
+2024-09-16 19:52:52,194 - DEBUG - Importing PngImagePlugin
+2024-09-16 19:52:52,194 - DEBUG - Importing PpmImagePlugin
+2024-09-16 19:52:52,194 - DEBUG - Importing PsdImagePlugin
+2024-09-16 19:52:52,196 - DEBUG - Importing QoiImagePlugin
+2024-09-16 19:52:52,198 - DEBUG - Importing SgiImagePlugin
+2024-09-16 19:52:52,200 - DEBUG - Importing SpiderImagePlugin
+2024-09-16 19:52:52,202 - DEBUG - Importing SunImagePlugin
+2024-09-16 19:52:52,203 - DEBUG - Importing TgaImagePlugin
+2024-09-16 19:52:52,206 - DEBUG - Importing TiffImagePlugin
+2024-09-16 19:52:52,206 - DEBUG - Importing WebPImagePlugin
+2024-09-16 19:52:52,210 - DEBUG - Importing WmfImagePlugin
+2024-09-16 19:52:52,211 - DEBUG - Importing XbmImagePlugin
+2024-09-16 19:52:52,214 - DEBUG - Importing XpmImagePlugin
+2024-09-16 19:52:52,217 - DEBUG - Importing XVThumbImagePlugin
+2024-09-16 19:52:52,220 - INFO - Novo 982375982 fsdnm fiosdhfoishdoifh
+2024-09-16 19:52:52,258 - INFO - Middleware: Interceptando resposta
+2024-09-16 19:53:17,184 - INFO - Middleware: Interceptando requisição
+2024-09-16 19:53:17,185 - INFO - Middleware: Interceptando resposta
+2024-09-16 19:53:17,185 - WARNING - Unauthorized: /api/category/
+2024-09-16 19:53:25,064 - INFO - Middleware: Interceptando requisição
+2024-09-16 19:53:25,401 - INFO - Middleware: Interceptando resposta
+2024-09-16 19:53:30,027 - INFO - Middleware: Interceptando requisição
+2024-09-16 19:53:30,038 - INFO - Novo kotlin 90324 
+2024-09-16 19:53:30,131 - INFO - Middleware: Interceptando resposta
+2024-09-16 19:53:56,457 - INFO - Middleware: Interceptando requisição
+2024-09-16 19:53:56,460 - INFO - Middleware: Interceptando resposta
+2024-09-16 19:53:56,460 - WARNING - Unauthorized: /api/comment/
+2024-09-16 19:53:59,779 - INFO - Middleware: Interceptando requisição
+2024-09-16 19:54:00,130 - INFO - Middleware: Interceptando resposta
+2024-09-16 19:54:15,783 - INFO - Middleware: Interceptando requisição
+2024-09-16 19:54:15,798 - INFO - Middleware: Interceptando resposta
+2024-09-16 19:54:48,101 - INFO - Middleware: Interceptando requisição
+2024-09-16 19:54:48,123 - INFO - Novo 3
+2024-09-16 19:54:48,142 - INFO - Middleware: Interceptando resposta
+2024-09-16 19:57:01,351 - INFO - Middleware: Interceptando requisição
+2024-09-16 19:57:01,354 - INFO - Middleware: Interceptando resposta
+2024-09-16 19:57:01,354 - WARNING - Unauthorized: /api/post/2/
+2024-09-16 19:57:11,577 - INFO - Middleware: Interceptando requisição
+2024-09-16 19:57:11,906 - INFO - Middleware: Interceptando resposta
+2024-09-16 19:57:18,911 - INFO - Middleware: Interceptando requisição
+2024-09-16 19:57:18,932 - INFO - Middleware: Interceptando resposta
+2024-09-16 19:57:43,815 - INFO - Middleware: Interceptando requisição
+2024-09-16 19:57:43,834 - INFO - Middleware: Interceptando resposta
+2024-09-16 19:58:26,777 - INFO - Middleware: Interceptando requisição
+2024-09-16 19:58:26,778 - INFO - Middleware: Interceptando resposta
+2024-09-16 19:58:26,778 - WARNING - Unauthorized: /api/category/2/
+2024-09-16 19:58:31,379 - INFO - Middleware: Interceptando requisição
+2024-09-16 19:58:31,395 - INFO - Middleware: Interceptando resposta
+2024-09-17 00:51:09,449 - INFO - Watching for file changes with StatReloader
+2024-09-17 00:51:11,632 - INFO - Middleware: Interceptando requisição
+2024-09-17 00:51:11,960 - INFO - Middleware: Interceptando resposta
+2024-09-17 00:51:28,532 - INFO - Middleware: Interceptando requisição
+2024-09-17 00:51:28,538 - INFO - Middleware: Interceptando resposta
+2024-09-17 00:51:28,538 - WARNING - Not Found: /token/refresh/
+2024-09-17 00:51:37,952 - INFO - Middleware: Interceptando requisição
+2024-09-17 00:51:37,960 - INFO - Middleware: Interceptando resposta
+2024-09-17 00:51:37,961 - WARNING - Not Found: /token/refresh/
+2024-09-17 00:51:56,432 - INFO - Middleware: Interceptando requisição
+2024-09-17 00:51:56,436 - INFO - Middleware: Interceptando resposta
+2024-09-17 00:51:56,436 - WARNING - Not Found: /token/refresh/
+2024-09-17 00:52:00,432 - INFO - Middleware: Interceptando requisição
+2024-09-17 00:52:00,437 - INFO - Middleware: Interceptando resposta
+2024-09-17 00:52:00,437 - WARNING - Not Found: /token/refresh/
+2024-09-17 00:52:56,811 - INFO - Middleware: Interceptando requisição
+2024-09-17 00:52:57,217 - INFO - Middleware: Interceptando resposta
+2024-09-17 00:53:18,340 - INFO - Middleware: Interceptando requisição
+2024-09-17 00:53:18,343 - INFO - Middleware: Interceptando resposta
+2024-09-17 00:53:18,343 - WARNING - Not Found: /token/refresh/
+2024-09-17 00:53:29,226 - INFO - Middleware: Interceptando requisição
+2024-09-17 00:53:29,234 - INFO - Middleware: Interceptando resposta
+2024-09-17 00:53:29,234 - WARNING - Not Found: /token/refresh/
+2024-09-17 00:53:39,657 - INFO - Middleware: Interceptando requisição
+2024-09-17 00:53:39,665 - INFO - Middleware: Interceptando resposta
+2024-09-17 00:53:39,665 - WARNING - Not Found: /token/refresh/
+2024-09-17 00:53:54,191 - INFO - Middleware: Interceptando requisição
+2024-09-17 00:53:54,199 - INFO - Middleware: Interceptando resposta
+2024-09-17 00:53:54,199 - WARNING - Not Found: /token/refresh/
+2024-09-17 00:54:10,327 - INFO - Middleware: Interceptando requisição
+2024-09-17 00:54:10,665 - INFO - Middleware: Interceptando resposta
+2024-09-17 00:54:21,551 - INFO - Middleware: Interceptando requisição
+2024-09-17 00:54:21,554 - INFO - Middleware: Interceptando resposta
+2024-09-17 00:54:21,554 - WARNING - Not Found: /token/refresh/
+2024-09-17 00:56:02,831 - INFO - Middleware: Interceptando requisição
+2024-09-17 00:56:02,833 - INFO - Middleware: Interceptando resposta
