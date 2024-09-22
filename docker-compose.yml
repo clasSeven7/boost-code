@@ -1,0 +1,41 @@
+services:
+  web:
+    image: boost-code
+    build: .
+    command: python manage.py runserver 0.0.0.0:8000
+    volumes:
+      - .:/app
+    ports:
+      - '8000:8000'
+    depends_on:
+      - db
+    environment:
+      - DEBUG=1
+    networks:
+      - backend
+    restart: always # Adiciona uma política de reinício
+
+  db:
+    image: postgres:13
+    environment:
+      POSTGRES_DB: boost_code_db
+      POSTGRES_USER: postgres
+      POSTGRES_PASSWORD: postgres-admin
+    volumes:
+      - postgres_data:/var/lib/postgresql/data
+    ports:
+      - '5432:5432'
+    networks:
+      - backend
+    restart: always # Adiciona uma política de reinício
+    healthcheck:
+      test: ['CMD-SHELL', 'pg_isready -U postgres']
+      interval: 10s
+      retries: 5
+      timeout: 5s
+
+volumes:
+  postgres_data:
+
+networks:
+  backend:

@@ -66,7 +66,7 @@ DATABASES = {
         'NAME': 'boost_code_db',
         'USER': 'postgres',
         'PASSWORD': 'postgres-admin',
-        'HOST': 'localhost',
+        'HOST': 'db',
         'PORT': '5432',
     }
 }
