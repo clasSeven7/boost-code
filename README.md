@@ -24,25 +24,60 @@
 
 ### 📖 Sobre
 
-**Boost Code** é uma plataforma inovadora projetada para acelerar seu aprendizado em programação e desenvolvimento de software. Com uma abordagem prática e dinâmica, nosso objetivo é fornecer ferramentas e recursos que ajudem desenvolvedores a aprimorar suas habilidades rapidamente.
+**Boost Code** é uma plataforma inovadora projetada para acelerar seu aprendizado em programação e desenvolvimento de software. Nosso objetivo é fornecer ferramentas e recursos que ajudem desenvolvedores a aprimorar suas habilidades rapidamente.
 
 ### Funcionalidades
 
 - **Gerenciamento de Links:** Criação, atualização, exclusão e recuperação de links.
-- **Autenticação de Usuário:** Sistema de autenticação seguro utilizando o sistema de autenticação do Django.
-- **API RESTful:** Expõe uma API RESTful para todas as operações de gerenciamento de links.
-- **Interface de Administração:** Gerencie usuários e links através da interface de administração do Django.
+- **Autenticação de Usuário:** Sistema seguro utilizando a autenticação do Django.
+- **API RESTful:** Oferece uma API para operações CRUD de gerenciamento de links.
+- **Interface de Administração:** Controle usuários e links via Django Admin.
 
 ### Tecnologias Utilizadas
 
-- **Django:** Um framework web de alto nível em Python que encoraja o desenvolvimento rápido e um design limpo e pragmático.
-- **Django Rest Framework:** Um conjunto de ferramentas poderoso e flexível para a construção de APIs Web.
-- **PostgresSQL:** Um sistema de gerenciamento de banco de dados relacional de código aberto que oferece robustez, suporte a transações ACID, e uma rica funcionalidade, incluindo suporte a tipos de dados avançados e extensões como o PostGIS para dados geoespaciais.
-- **Python:** Uma linguagem de programação que permite trabalhar de maneira rápida e integrar sistemas de forma mais eficaz.
+- **Django:** Framework web em Python que promove um desenvolvimento rápido e design limpo.
+- **Django Rest Framework:** Conjunto de ferramentas para construir APIs web.
+- **PostgreSQL:** Banco de dados relacional robusto com suporte a transações ACID.
+- **Docker e Docker Compose:** Utilizados para configurar o ambiente de desenvolvimento.
 
-### Instalação
+### 🛠 Instalação com Docker
 
-Para obter uma cópia local em funcionamento, siga estas etapas:
+Para rodar o projeto localmente usando Docker e Docker Compose, siga os passos abaixo:
+
+#### Pré-requisitos
+
+- Docker
+- Docker Compose
+
+#### Passos para instalação
+
+**1. Clone o repositório:**
+
+```bash
+  git clone https://github.com/clasSeven7/boost-code.git
+  cd boost-code
+```
+
+**2. Construa e inicie os containers:**
+
+```bash
+  ./run_django.sh
+```
+
+Isso vai rodar um script que irá construir os containers e iniciar os serviços.
+
+**Isso iniciará os serviços:**
+
+- **web:** O servidor Django rodando na porta `8000`.
+- **db:** O banco de dados PostgreSQL rodando na porta `5432`
+
+**3. Acesse o projeto:**
+
+Abra o navegador e vá para `http://localhost:8000` para acessar a aplicação.
+
+### 🛠 Instalação Manual
+
+Se preferir rodar o projeto sem Docker, siga os passos abaixo:
 
 #### Pré-requisitos
 
@@ -78,7 +113,7 @@ pip install -r requirements.txt
 python3 manage.py migrate
 ```
 
-**5. Crie um superusuário (para acessar a interface de administração do Django):**
+**5. Crie um superusuário para acessar a interface de administração do Django:**
 
 ```bash
 python3 manage.py createsuperuser
@@ -92,25 +127,25 @@ python3 manage.py runserver
 
 **7. Acesse a aplicação:**
 
-- Abra seu navegador e vá para <http://127.0.0.1:8000/> para acessar a aplicação.
-- Acesse a interface de administração do Django em <http://127.0.0.1:8000/admin/>.
+- Acesse `http://127.0.0.1:8000/`.
+- A interface de administração estará em `http://127.0.0.1:8000/admin/`.
 
-#### Endpoints da API
+### 🖥 Endpoints da API
 
-A aplicação fornece uma API RESTful para gerenciar links. Abaixo estão alguns dos endpoints disponíveis:
+A aplicação possui uma API RESTful para gerenciar links. Abaixo alguns dos endpoints:
 
-- `GET /api/links/:` Recupera uma lista de todos os links.
-- `POST /api/links/:` Cria um novo link.
-- `GET /api/links/{id}/:` Recupera um link específico pelo ID.
-- `PUT /api/links/{id}/:` Atualiza um link específico pelo ID.
-- `DELETE /api/links/{id}/:` Exclui um link específico pelo ID.
+- `GET /api/links/`: Recupera todos os links.
+- `POST /api/links/`: Cria um novo link.
+- `GET /api/links/{id}/`: Recupera um link específico.
+- `PUT /api/links/{id}/`: Atualiza um link específico.
+- `DELETE /api/links/{id}/`: Exclui um link específico.
 
-#### Exemplo de Requisições
+#### Exemplos de Requisições
 
 **Criar um Novo Link:**
 
 ```bash
-curl -X POST http://127.0.0.1:8000/api/links/ -H
+curl -X POST http://127.0.0.1:8000/api/links/ -H "Content-Type: application/json" -d '{"url": "https://exemplo.com", "description": "Descrição do link"}'
 ```
 
 **Recuperar Todos os Links:**
@@ -119,106 +154,60 @@ curl -X POST http://127.0.0.1:8000/api/links/ -H
 curl http://127.0.0.1:8000/api/links/
 ```
 
-#### Testes da API de Posts
+### 🔍 Testes
 
-**Dependências:**
+A aplicação inclui uma suíte de testes para verificar a integridade das funcionalidades.
 
-Certifique-se de ter as seguintes dependências instaladas:
+**Dependências para Testes:**
 
 - Django
 - Django REST Framework
-- Django REST Framework Simple JWT
+- Django REST Framework Simple JWT (para autenticação)
 
 #### Descrição dos Testes
 
-A classe PostAPITestCase realiza os seguintes testes:
+A classe `PostAPITestCase` realiza os seguintes testes:
 
-- **Criação de Post:** Verifica se um post pode ser criado com sucesso por um usuário autenticado e se os dados do post são salvos corretamente.
+- **Criação de Post:** Verifica se um post pode ser criado por um usuário autenticado.
+- **Recuperação de Post:** Testa se um post existente pode ser recuperado.
+- **Atualização de Post:** Valida se um post pode ser atualizado.
+- **Exclusão de Post:** Confirma que um post pode ser excluído.
+- **Criação de Post sem Autenticação:** Garante que a criação de um post é negada sem autenticação.
 
-- **Recuperação de Post:** Testa se um post existente pode ser recuperado e se os dados retornados estão corretos.
+#### Exemplo de Testes
 
-- **Atualização de Post:** Valida se um post pode ser atualizado com sucesso e se as alterações são refletidas no banco de dados.
-
-- **Exclusão de Post:** Confirma que um post pode ser excluído e que o banco de dados é atualizado corretamente após a exclusão.
-
-- **Criação de Post sem Autenticação:** Garante que a criação de um post é negada quando a solicitação é feita sem um token de autenticação.
-
-**1. Criação de Post:**
-
-Verifica se um post pode ser criado com sucesso:
+**Criação de Post:**
 
 ```python
 def test_create_post(self):
-  response = self.client.post('/api/post/', {'title': 'Novo Post', 'content': 'Conteúdo do novo post'}, HTTP_AUTHORIZATION=self.authorization_header)
-  self.assertEqual(response.status_code, status.HTTP_201_CREATED)
-  self.assertEqual(Post.objects.count(), 1)
+  response = self.client.post('/api/post/', {'title': 'Novo Post', 'content': 'Conteúdo'}, HTTP_AUTHORIZATION=self.authorization_header)
+  self.assertEqual(response.status_code, 201)
 ```
 
-**2. Recuperação de Post:**
-
-Verifica se um post existente pode ser recuperado:
-
-```python
-def test_retrieve_post(self):
-  post = Post.objects.create(title='Post', content='Conteúdo')
-  response = self.client.get(f'/api/post/{post.id}/', HTTP_AUTHORIZATION=self.authorization_header)
-  self.assertEqual(response.status_code, status.HTTP_200_OK)
-```
-
-**3. Atualização de Post:**
-
-Verifica se um post pode ser atualizado:
+**Atualização de Post:**
 
 ```python
 def test_update_post(self):
   post = Post.objects.create(title='Post', content='Conteúdo')
   response = self.client.patch(f'/api/post/{post.id}/', {'title': 'Post Atualizado'}, HTTP_AUTHORIZATION=self.authorization_header)
-  self.assertEqual(response.status_code, status.HTTP_200_OK)
+  self.assertEqual(response.status_code, 200)
 ```
 
-**4. Exclusão de Post:**
+#### Executando Testes
 
-Verifica se um post pode ser excluído:
-
-```python
-def test_delete_post(self):
-  post = Post.objects.create(title='Post', content='Conteúdo')
-  response = self.client.delete(f'/api/post/{post.id}/', HTTP_AUTHORIZATION=self.authorization_header)
-  self.assertEqual(response.status_code, status.HTTP_204_NO_CONTENT)
-```
-
-**5. Criação de Post sem Autenticação:**
-
-Verifica se a criação de um post é negada sem autenticação:
-
-```python
-def test_create_post_unauthenticated(self):
-  response = self.client.post('/api/post/', {'title': 'Novo Post', 'content': 'Conteúdo do novo post'})
-  self.assertEqual(response.status_code, 401)
-```
-
-#### Execução dos Testes
-
-Para rodar os testes, utilize o comando:
+Execute os testes com o comando:
 
 ```bash
 python3 manage.py test
 ```
 
-### Como Executar o Projeto
+### 🚀 Como Contribuir
 
-1. Clone o repositório
-2. Instale as dependências com `pip install -r requirements.txt`
-3. Execute as migrações com `python manage.py migrate`
-4. Inicie o servidor com `python manage.py runserver`
-
-### Contribuição
-
-Contribuições são bem-vindas! Por favor, siga estas etapas para contribuir:
+Contribuições são bem-vindas! Para contribuir:
 
 1. Faça um fork do repositório.
-2. Crie um novo branch `(git checkout -b feature/SuaFuncionalidade)`.
+2. Crie um novo branch `(git checkout -b feature/NovaFuncionalidade)`.
 3. Faça suas alterações.
-4. Faça o commit das suas alterações `(git commit -m 'Adicionar SuaFuncionalidade')`.
-5. Envie para o branch `(git push origin feature/SuaFuncionalidade)`.
-6. Abra um pull request.
+4. Commit suas alterações `(git commit -m 'Adicionar nova funcionalidade')`.
+5. Envie para o branch `(git push origin feature/NovaFuncionalidade)`.
+6. Abra um pull request
