@@ -1345,3 +1345,66 @@ LINE 1: ...user"."is_active", "auth_user"."date_joined" FROM "auth_user...
 2024-09-22 21:58:28,259 - WARNING - Method Not Allowed: /api/token/
 2024-09-22 21:58:32,588 - INFO - Middleware: Interceptando requisição
 2024-09-22 21:58:33,007 - INFO - Middleware: Interceptando resposta
+2024-09-25 17:46:23,050 - INFO - Watching for file changes with StatReloader
+2024-09-25 17:59:05,287 - INFO - Watching for file changes with StatReloader
+2024-09-25 19:20:23,941 - INFO - Watching for file changes with StatReloader
+2024-09-26 15:55:29,854 - INFO - Watching for file changes with StatReloader
+2024-09-27 15:39:33,026 - INFO - Watching for file changes with StatReloader
+2024-09-29 16:18:33,264 - INFO - Watching for file changes with StatReloader
+2024-09-30 17:24:35,565 - INFO - Watching for file changes with StatReloader
+2024-10-01 17:40:19,988 - INFO - Watching for file changes with StatReloader
+2024-10-01 22:22:03,708 - INFO - Watching for file changes with StatReloader
+2024-10-01 22:33:45,428 - INFO - Watching for file changes with StatReloader
+2024-10-01 22:34:07,412 - INFO - Middleware: Interceptando requisição
+2024-10-01 22:34:07,924 - INFO - Middleware: Interceptando resposta
+2024-10-01 22:34:31,004 - INFO - Middleware: Interceptando requisição
+2024-10-01 22:34:31,035 - INFO - Middleware: Interceptando resposta
+2024-10-01 23:08:15,546 - INFO - Watching for file changes with StatReloader
+2024-10-01 23:08:56,493 - INFO - Middleware: Interceptando requisição
+2024-10-01 23:08:56,890 - INFO - Middleware: Interceptando resposta
+2024-10-01 23:09:30,438 - INFO - Watching for file changes with StatReloader
+2024-10-01 23:09:34,747 - INFO - Middleware: Interceptando requisição
+2024-10-01 23:09:35,116 - INFO - Middleware: Interceptando resposta
+2024-10-01 23:09:55,917 - INFO - Middleware: Interceptando requisição
+2024-10-01 23:09:55,933 - INFO - Middleware: Interceptando resposta
+2024-10-01 23:10:14,042 - INFO - Middleware: Interceptando requisição
+2024-10-01 23:10:14,058 - INFO - Novo teste al
+2024-10-01 23:10:14,070 - INFO - Middleware: Interceptando resposta
+2024-10-01 23:10:39,455 - INFO - Middleware: Interceptando requisição
+2024-10-01 23:10:39,473 - INFO - Middleware: Interceptando resposta
+2024-10-01 23:10:39,475 - WARNING - Not Found: /api/post/4/
+2024-10-01 23:10:49,699 - INFO - Middleware: Interceptando requisição
+2024-10-01 23:10:49,716 - INFO - Middleware: Interceptando resposta
+2024-10-01 23:12:17,113 - INFO - Middleware: Interceptando requisição
+2024-10-01 23:12:17,114 - INFO - Middleware: Interceptando resposta
+2024-10-01 23:12:17,115 - WARNING - Unauthorized: /api/post/3/
+2024-10-01 23:12:25,108 - INFO - Middleware: Interceptando requisição
+2024-10-01 23:12:25,124 - INFO - Middleware: Interceptando resposta
+2024-10-01 23:14:02,368 - INFO - Middleware: Interceptando requisição
+2024-10-01 23:14:02,373 - INFO - Novo Nova Categoria
+2024-10-01 23:14:02,376 - INFO - Middleware: Interceptando resposta
+2024-10-01 23:14:02,736 - INFO - Middleware: Interceptando requisição
+2024-10-01 23:14:02,740 - INFO - Middleware: Interceptando resposta
+2024-10-01 23:14:03,086 - INFO - Middleware: Interceptando requisição
+2024-10-01 23:14:03,090 - INFO - Middleware: Interceptando resposta
+2024-10-01 23:14:03,441 - INFO - Middleware: Interceptando requisição
+2024-10-01 23:14:03,449 - INFO - Middleware: Interceptando resposta
+2024-10-01 23:14:03,812 - INFO - Middleware: Interceptando requisição
+2024-10-01 23:14:03,818 - INFO - Novo 1
+2024-10-01 23:14:03,822 - INFO - Middleware: Interceptando resposta
+2024-10-01 23:14:04,166 - INFO - Middleware: Interceptando requisição
+2024-10-01 23:14:04,171 - INFO - Middleware: Interceptando resposta
+2024-10-01 23:14:04,532 - INFO - Middleware: Interceptando requisição
+2024-10-01 23:14:04,537 - INFO - Middleware: Interceptando resposta
+2024-10-01 23:14:04,894 - INFO - Middleware: Interceptando requisição
+2024-10-01 23:14:04,899 - INFO - Middleware: Interceptando resposta
+2024-10-01 23:14:05,259 - INFO - Middleware: Interceptando requisição
+2024-10-01 23:14:05,264 - INFO - Novo Novo Post
+2024-10-01 23:14:05,267 - INFO - Middleware: Interceptando resposta
+2024-10-01 23:14:05,633 - INFO - Middleware: Interceptando requisição
+2024-10-01 23:14:05,637 - INFO - Middleware: Interceptando resposta
+2024-10-01 23:14:05,982 - INFO - Middleware: Interceptando requisição
+2024-10-01 23:14:05,987 - INFO - Middleware: Interceptando resposta
+2024-10-01 23:14:06,375 - INFO - Middleware: Interceptando requisição
+2024-10-01 23:14:06,382 - INFO - Middleware: Interceptando resposta
+2024-10-07 17:29:13,078 - INFO - Watching for file changes with StatReloader
