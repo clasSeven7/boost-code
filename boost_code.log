@@ -1408,3 +1408,133 @@ LINE 1: ...user"."is_active", "auth_user"."date_joined" FROM "auth_user...
 2024-10-01 23:14:06,375 - INFO - Middleware: Interceptando requisição
 2024-10-01 23:14:06,382 - INFO - Middleware: Interceptando resposta
 2024-10-07 17:29:13,078 - INFO - Watching for file changes with StatReloader
+2024-10-10 15:53:58,120 - INFO - Watching for file changes with StatReloader
+2024-10-11 00:35:10,260 - INFO - Watching for file changes with StatReloader
+2024-10-11 03:23:57,985 - INFO - Watching for file changes with StatReloader
+2024-10-11 12:47:55,933 - INFO - Watching for file changes with StatReloader
+2024-10-11 12:54:39,766 - INFO - Watching for file changes with StatReloader
+2024-10-12 17:09:47,185 - INFO - Watching for file changes with StatReloader
+2024-10-12 17:11:28,842 - INFO - Watching for file changes with StatReloader
+2024-10-12 17:11:48,031 - INFO - Watching for file changes with StatReloader
+2024-10-12 17:15:15,572 - INFO - Watching for file changes with StatReloader
+2024-10-12 17:15:20,027 - INFO - Middleware: Interceptando requisição
+2024-10-12 17:15:20,033 - INFO - Middleware: Interceptando resposta
+2024-10-12 17:15:20,033 - WARNING - Not Found: /
+2024-10-12 17:15:20,172 - INFO - Middleware: Interceptando requisição
+2024-10-12 17:15:20,178 - INFO - Middleware: Interceptando resposta
+2024-10-12 17:15:20,178 - WARNING - Not Found: /favicon.ico
+2024-10-12 17:15:26,109 - INFO - Middleware: Interceptando requisição
+2024-10-12 17:15:26,118 - INFO - Middleware: Interceptando resposta
+2024-10-12 17:15:26,126 - INFO - Middleware: Interceptando requisição
+2024-10-12 17:15:26,142 - INFO - Middleware: Interceptando resposta
+2024-10-12 17:15:26,147 - INFO - Middleware: Interceptando requisição
+2024-10-12 17:15:26,157 - INFO - Middleware: Interceptando resposta
+2024-10-12 17:15:51,236 - INFO - Middleware: Interceptando requisição
+2024-10-12 17:15:51,473 - INFO - Middleware: Interceptando resposta
+2024-10-12 17:18:16,107 - INFO - Watching for file changes with StatReloader
+2024-10-12 17:18:18,490 - INFO - Middleware: Interceptando requisição
+2024-10-12 17:18:18,495 - INFO - Middleware: Interceptando resposta
+2024-10-12 17:18:18,495 - WARNING - Not Found: /
+2024-10-12 17:18:22,743 - INFO - Middleware: Interceptando requisição
+2024-10-12 17:18:22,753 - INFO - Middleware: Interceptando resposta
+2024-10-12 17:18:22,758 - INFO - Middleware: Interceptando requisição
+2024-10-12 17:18:22,774 - INFO - Middleware: Interceptando resposta
+2024-10-12 17:18:26,273 - INFO - Middleware: Interceptando requisição
+2024-10-12 17:18:26,537 - INFO - Middleware: Interceptando resposta
+2024-10-12 17:18:26,543 - INFO - Middleware: Interceptando requisição
+2024-10-12 17:18:26,572 - INFO - Middleware: Interceptando resposta
+2024-10-12 17:18:36,493 - INFO - Middleware: Interceptando requisição
+2024-10-12 17:18:36,559 - INFO - Middleware: Interceptando resposta
+2024-10-12 17:18:36,596 - INFO - Middleware: Interceptando requisição
+2024-10-12 17:18:36,631 - INFO - Middleware: Interceptando resposta
+2024-10-12 17:18:39,463 - INFO - Middleware: Interceptando requisição
+2024-10-12 17:18:39,485 - INFO - Middleware: Interceptando resposta
+2024-10-12 17:18:39,522 - INFO - Middleware: Interceptando requisição
+2024-10-12 17:18:39,535 - INFO - Middleware: Interceptando resposta
+2024-10-12 17:18:40,767 - INFO - Middleware: Interceptando requisição
+2024-10-12 17:18:40,811 - INFO - Middleware: Interceptando resposta
+2024-10-12 17:18:40,833 - INFO - Middleware: Interceptando requisição
+2024-10-12 17:18:40,853 - INFO - Middleware: Interceptando resposta
+2024-10-12 17:18:46,565 - INFO - Middleware: Interceptando requisição
+2024-10-12 17:18:46,600 - INFO - Middleware: Interceptando resposta
+2024-10-12 17:18:46,656 - INFO - Middleware: Interceptando requisição
+2024-10-12 17:18:46,672 - INFO - Middleware: Interceptando resposta
+2024-10-12 17:18:53,805 - INFO - Middleware: Interceptando requisição
+2024-10-12 17:18:53,831 - INFO - Middleware: Interceptando resposta
+2024-10-12 17:18:53,841 - INFO - Middleware: Interceptando requisição
+2024-10-12 17:18:53,875 - INFO - Middleware: Interceptando resposta
+2024-10-12 17:18:53,960 - INFO - Middleware: Interceptando requisição
+2024-10-12 17:18:53,975 - INFO - Middleware: Interceptando resposta
+2024-10-12 17:18:57,097 - INFO - Middleware: Interceptando requisição
+2024-10-12 17:18:57,148 - INFO - Middleware: Interceptando resposta
+2024-10-12 17:18:57,182 - INFO - Middleware: Interceptando requisição
+2024-10-12 17:18:57,193 - INFO - Middleware: Interceptando resposta
+2024-10-12 17:19:25,489 - INFO - Middleware: Interceptando requisição
+2024-10-12 17:19:25,537 - DEBUG - STREAM b'IHDR' 16 13
+2024-10-12 17:19:25,537 - DEBUG - STREAM b'pHYs' 41 9
+2024-10-12 17:19:25,537 - DEBUG - STREAM b'tEXt' 62 59
+2024-10-12 17:19:25,537 - DEBUG - STREAM b'iTXt' 133 1253
+2024-10-12 17:19:25,537 - DEBUG - STREAM b'IDAT' 1398 233799
+2024-10-12 17:19:25,538 - DEBUG - Importing BlpImagePlugin
+2024-10-12 17:19:25,538 - DEBUG - Importing BmpImagePlugin
+2024-10-12 17:19:25,538 - DEBUG - Importing BufrStubImagePlugin
+2024-10-12 17:19:25,538 - DEBUG - Importing CurImagePlugin
+2024-10-12 17:19:25,539 - DEBUG - Importing DcxImagePlugin
+2024-10-12 17:19:25,539 - DEBUG - Importing DdsImagePlugin
+2024-10-12 17:19:25,541 - DEBUG - Importing EpsImagePlugin
+2024-10-12 17:19:25,541 - DEBUG - Importing FitsImagePlugin
+2024-10-12 17:19:25,541 - DEBUG - Importing FliImagePlugin
+2024-10-12 17:19:25,541 - DEBUG - Importing FpxImagePlugin
+2024-10-12 17:19:25,542 - DEBUG - Image: failed to import FpxImagePlugin: No module named 'olefile'
+2024-10-12 17:19:25,542 - DEBUG - Importing FtexImagePlugin
+2024-10-12 17:19:25,542 - DEBUG - Importing GbrImagePlugin
+2024-10-12 17:19:25,542 - DEBUG - Importing GifImagePlugin
+2024-10-12 17:19:25,542 - DEBUG - Importing GribStubImagePlugin
+2024-10-12 17:19:25,542 - DEBUG - Importing Hdf5StubImagePlugin
+2024-10-12 17:19:25,542 - DEBUG - Importing IcnsImagePlugin
+2024-10-12 17:19:25,543 - DEBUG - Importing IcoImagePlugin
+2024-10-12 17:19:25,543 - DEBUG - Importing ImImagePlugin
+2024-10-12 17:19:25,543 - DEBUG - Importing ImtImagePlugin
+2024-10-12 17:19:25,544 - DEBUG - Importing IptcImagePlugin
+2024-10-12 17:19:25,544 - DEBUG - Importing JpegImagePlugin
+2024-10-12 17:19:25,544 - DEBUG - Importing Jpeg2KImagePlugin
+2024-10-12 17:19:25,544 - DEBUG - Importing McIdasImagePlugin
+2024-10-12 17:19:25,544 - DEBUG - Importing MicImagePlugin
+2024-10-12 17:19:25,544 - DEBUG - Image: failed to import MicImagePlugin: No module named 'olefile'
+2024-10-12 17:19:25,544 - DEBUG - Importing MpegImagePlugin
+2024-10-12 17:19:25,544 - DEBUG - Importing MpoImagePlugin
+2024-10-12 17:19:25,546 - DEBUG - Importing MspImagePlugin
+2024-10-12 17:19:25,546 - DEBUG - Importing PalmImagePlugin
+2024-10-12 17:19:25,547 - DEBUG - Importing PcdImagePlugin
+2024-10-12 17:19:25,547 - DEBUG - Importing PcxImagePlugin
+2024-10-12 17:19:25,547 - DEBUG - Importing PdfImagePlugin
+2024-10-12 17:19:25,550 - DEBUG - Importing PixarImagePlugin
+2024-10-12 17:19:25,551 - DEBUG - Importing PngImagePlugin
+2024-10-12 17:19:25,551 - DEBUG - Importing PpmImagePlugin
+2024-10-12 17:19:25,551 - DEBUG - Importing PsdImagePlugin
+2024-10-12 17:19:25,551 - DEBUG - Importing QoiImagePlugin
+2024-10-12 17:19:25,551 - DEBUG - Importing SgiImagePlugin
+2024-10-12 17:19:25,552 - DEBUG - Importing SpiderImagePlugin
+2024-10-12 17:19:25,552 - DEBUG - Importing SunImagePlugin
+2024-10-12 17:19:25,552 - DEBUG - Importing TgaImagePlugin
+2024-10-12 17:19:25,552 - DEBUG - Importing TiffImagePlugin
+2024-10-12 17:19:25,552 - DEBUG - Importing WebPImagePlugin
+2024-10-12 17:19:25,553 - DEBUG - Importing WmfImagePlugin
+2024-10-12 17:19:25,553 - DEBUG - Importing XbmImagePlugin
+2024-10-12 17:19:25,553 - DEBUG - Importing XpmImagePlugin
+2024-10-12 17:19:25,554 - DEBUG - Importing XVThumbImagePlugin
+2024-10-12 17:19:25,558 - INFO - Middleware: Interceptando resposta
+2024-10-12 17:19:25,563 - INFO - Middleware: Interceptando requisição
+2024-10-12 17:19:25,584 - INFO - Middleware: Interceptando resposta
+2024-10-12 17:19:25,673 - INFO - Middleware: Interceptando requisição
+2024-10-12 17:19:25,688 - INFO - Middleware: Interceptando resposta
+2024-10-12 17:19:29,094 - INFO - Middleware: Interceptando requisição
+2024-10-12 17:19:29,120 - INFO - Middleware: Interceptando resposta
+2024-10-12 17:19:29,155 - INFO - Middleware: Interceptando requisição
+2024-10-12 17:19:29,166 - INFO - Middleware: Interceptando resposta
+2024-10-12 17:19:44,184 - INFO - Middleware: Interceptando requisição
+2024-10-12 17:19:44,214 - INFO - Middleware: Interceptando resposta
+2024-10-12 17:19:44,222 - INFO - Middleware: Interceptando requisição
+2024-10-12 17:19:44,253 - INFO - Middleware: Interceptando resposta
+2024-10-12 17:19:44,331 - INFO - Middleware: Interceptando requisição
+2024-10-12 17:19:44,345 - INFO - Middleware: Interceptando resposta
