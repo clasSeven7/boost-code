@@ -16,7 +16,7 @@ services:
     restart: always # Adiciona uma política de reinício
 
   db:
-    image: postgres:13
+    image: postgres:16
     environment:
       POSTGRES_DB: boost_code_db
       POSTGRES_USER: postgres

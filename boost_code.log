@@ -1538,3 +1538,5 @@ LINE 1: ...user"."is_active", "auth_user"."date_joined" FROM "auth_user...
 2024-10-12 17:19:44,253 - INFO - Middleware: Interceptando resposta
 2024-10-12 17:19:44,331 - INFO - Middleware: Interceptando requisição
 2024-10-12 17:19:44,345 - INFO - Middleware: Interceptando resposta
+2024-10-12 19:03:18,340 - INFO - Watching for file changes with StatReloader
+2024-10-12 19:25:13,110 - INFO - Watching for file changes with StatReloader
