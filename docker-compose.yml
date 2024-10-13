@@ -1,6 +1,6 @@
 services:
   web:
-    image: boost-code
+    image: python:3.12
     build: .
     command: python manage.py runserver 0.0.0.0:8000
     volumes:
@@ -13,7 +13,7 @@ services:
       - DEBUG=1
     networks:
       - backend
-    restart: always # Adiciona uma política de reinício
+    # restart: always # Adiciona uma política de reinício
 
   db:
     image: postgres:16

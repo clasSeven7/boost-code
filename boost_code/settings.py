@@ -66,8 +66,7 @@ DATABASES = {
         'NAME': 'boost_code_db',
         'USER': 'postgres',
         'PASSWORD': 'postgres-admin',
-        'HOST': 'db',  # Docker
-        # 'HOST': 'localhost',  # Local
+        'HOST': 'db',
         'PORT': '5432',
     }
 }
