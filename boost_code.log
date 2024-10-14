@@ -1,456 +1,23 @@
-2024-09-15 19:02:14,571 - INFO - Watching for file changes with StatReloader
-2024-09-15 19:04:10,291 - INFO - /home/saulojustiniano/www/classeven/boost-code/boost_code/settings.py changed, reloading.
-2024-09-15 19:04:10,702 - INFO - Watching for file changes with StatReloader
-2024-09-15 19:04:34,581 - INFO - /home/saulojustiniano/www/classeven/boost-code/boost_code/settings.py changed, reloading.
-2024-09-15 19:04:34,960 - INFO - Watching for file changes with StatReloader
-2024-09-15 19:04:52,622 - INFO - /home/saulojustiniano/www/classeven/boost-code/boost_code/settings.py changed, reloading.
-2024-09-15 19:04:53,037 - INFO - Watching for file changes with StatReloader
-2024-09-15 19:05:39,199 - INFO - /home/saulojustiniano/www/classeven/boost-code/boost_code/settings.py changed, reloading.
-2024-09-15 19:05:39,613 - INFO - Watching for file changes with StatReloader
-2024-09-15 19:05:41,862 - INFO - /home/saulojustiniano/www/classeven/boost-code/boost_code/settings.py changed, reloading.
-2024-09-15 19:05:42,243 - INFO - Watching for file changes with StatReloader
-2024-09-15 19:09:47,565 - INFO - Middleware: Interceptando requisição
-2024-09-15 19:09:47,568 - INFO - Novo Nova Categoria
-2024-09-15 19:09:47,570 - INFO - Middleware: Interceptando resposta
-2024-09-15 19:09:47,882 - INFO - Middleware: Interceptando requisição
-2024-09-15 19:09:47,882 - INFO - Middleware: Interceptando resposta
-2024-09-15 19:09:47,883 - WARNING - Unauthorized: /api/category/
-2024-09-15 19:09:48,182 - INFO - Middleware: Interceptando requisição
-2024-09-15 19:09:48,185 - INFO - Middleware: Interceptando resposta
-2024-09-15 19:09:48,473 - INFO - Middleware: Interceptando requisição
-2024-09-15 19:09:48,475 - INFO - Middleware: Interceptando resposta
-2024-09-15 19:09:48,762 - INFO - Middleware: Interceptando requisição
-2024-09-15 19:09:48,765 - INFO - Middleware: Interceptando resposta
-2024-09-15 19:09:50,306 - INFO - Middleware: Interceptando requisição
-2024-09-15 19:09:50,309 - INFO - Middleware: Interceptando resposta
-2024-09-15 19:09:50,309 - WARNING - Bad Request: /api/post/
-2024-09-15 19:09:50,606 - INFO - Middleware: Interceptando requisição
-2024-09-15 19:09:50,606 - INFO - Middleware: Interceptando resposta
-2024-09-15 19:09:50,606 - WARNING - Unauthorized: /api/post/
-2024-09-15 19:12:29,292 - INFO - Middleware: Interceptando requisição
-2024-09-15 19:12:29,295 - INFO - Novo Nova Categoria
-2024-09-15 19:12:29,297 - INFO - Middleware: Interceptando resposta
-2024-09-15 19:12:29,597 - INFO - Middleware: Interceptando requisição
-2024-09-15 19:12:29,598 - INFO - Middleware: Interceptando resposta
-2024-09-15 19:12:29,598 - WARNING - Unauthorized: /api/category/
-2024-09-15 19:12:29,896 - INFO - Middleware: Interceptando requisição
-2024-09-15 19:12:29,899 - INFO - Middleware: Interceptando resposta
-2024-09-15 19:12:30,206 - INFO - Middleware: Interceptando requisição
-2024-09-15 19:12:30,209 - INFO - Middleware: Interceptando resposta
-2024-09-15 19:12:30,520 - INFO - Middleware: Interceptando requisição
-2024-09-15 19:12:30,524 - INFO - Middleware: Interceptando resposta
-2024-09-15 19:12:32,045 - INFO - Middleware: Interceptando requisição
-2024-09-15 19:12:32,049 - INFO - Middleware: Interceptando resposta
-2024-09-15 19:12:32,049 - WARNING - Bad Request: /api/post/
-2024-09-15 19:12:32,360 - INFO - Middleware: Interceptando requisição
-2024-09-15 19:12:32,360 - INFO - Middleware: Interceptando resposta
-2024-09-15 19:12:32,360 - WARNING - Unauthorized: /api/post/
-2024-09-15 19:17:24,702 - INFO - Middleware: Interceptando requisição
-2024-09-15 19:17:24,704 - INFO - Novo Nova Categoria
-2024-09-15 19:17:24,706 - INFO - Middleware: Interceptando resposta
-2024-09-15 19:17:25,181 - INFO - Middleware: Interceptando requisição
-2024-09-15 19:17:25,182 - INFO - Middleware: Interceptando resposta
-2024-09-15 19:17:25,182 - WARNING - Unauthorized: /api/category/
-2024-09-15 19:17:25,650 - INFO - Middleware: Interceptando requisição
-2024-09-15 19:17:25,653 - INFO - Middleware: Interceptando resposta
-2024-09-15 19:17:25,942 - INFO - Middleware: Interceptando requisição
-2024-09-15 19:17:25,945 - INFO - Middleware: Interceptando resposta
-2024-09-15 19:17:26,290 - INFO - Middleware: Interceptando requisição
-2024-09-15 19:17:26,294 - INFO - Middleware: Interceptando resposta
-2024-09-15 19:17:26,603 - INFO - Middleware: Interceptando requisição
-2024-09-15 19:17:26,607 - INFO - Novo 1
-2024-09-15 19:17:26,609 - INFO - Middleware: Interceptando resposta
-2024-09-15 19:17:26,913 - INFO - Middleware: Interceptando requisição
-2024-09-15 19:17:26,916 - INFO - Middleware: Interceptando resposta
-2024-09-15 19:17:27,206 - INFO - Middleware: Interceptando requisição
-2024-09-15 19:17:27,209 - INFO - Middleware: Interceptando resposta
-2024-09-15 19:17:27,501 - INFO - Middleware: Interceptando requisição
-2024-09-15 19:17:27,505 - INFO - Middleware: Interceptando resposta
-2024-09-15 19:17:27,813 - INFO - Middleware: Interceptando requisição
-2024-09-15 19:17:27,816 - INFO - Novo Novo Post
-2024-09-15 19:17:27,818 - INFO - Middleware: Interceptando resposta
-2024-09-15 19:17:28,114 - INFO - Middleware: Interceptando requisição
-2024-09-15 19:17:28,114 - INFO - Middleware: Interceptando resposta
-2024-09-15 19:17:28,115 - WARNING - Unauthorized: /api/post/
-2024-09-15 19:17:28,403 - INFO - Middleware: Interceptando requisição
-2024-09-15 19:17:28,406 - INFO - Middleware: Interceptando resposta
-2024-09-15 19:17:28,814 - INFO - Middleware: Interceptando requisição
-2024-09-15 19:17:28,818 - INFO - Middleware: Interceptando resposta
-2024-09-15 19:17:29,314 - INFO - Middleware: Interceptando requisição
-2024-09-15 19:17:29,319 - INFO - Middleware: Interceptando resposta
-2024-09-15 19:18:21,180 - INFO - Middleware: Interceptando requisição
-2024-09-15 19:18:21,183 - INFO - Novo Nova Categoria
-2024-09-15 19:18:21,185 - INFO - Middleware: Interceptando resposta
-2024-09-15 19:18:21,484 - INFO - Middleware: Interceptando requisição
-2024-09-15 19:18:21,485 - INFO - Middleware: Interceptando resposta
-2024-09-15 19:18:21,485 - WARNING - Unauthorized: /api/category/
-2024-09-15 19:18:21,786 - INFO - Middleware: Interceptando requisição
-2024-09-15 19:18:21,790 - INFO - Middleware: Interceptando resposta
-2024-09-15 19:18:22,098 - INFO - Middleware: Interceptando requisição
-2024-09-15 19:18:22,101 - INFO - Middleware: Interceptando resposta
-2024-09-15 19:18:22,429 - INFO - Middleware: Interceptando requisição
-2024-09-15 19:18:22,432 - INFO - Middleware: Interceptando resposta
-2024-09-15 19:18:22,744 - INFO - Middleware: Interceptando requisição
-2024-09-15 19:18:22,748 - INFO - Novo 1
-2024-09-15 19:18:22,749 - INFO - Middleware: Interceptando resposta
-2024-09-15 19:18:23,056 - INFO - Middleware: Interceptando requisição
-2024-09-15 19:18:23,059 - INFO - Middleware: Interceptando resposta
-2024-09-15 19:18:23,365 - INFO - Middleware: Interceptando requisição
-2024-09-15 19:18:23,368 - INFO - Middleware: Interceptando resposta
-2024-09-15 19:18:23,666 - INFO - Middleware: Interceptando requisição
-2024-09-15 19:18:23,670 - INFO - Middleware: Interceptando resposta
-2024-09-15 19:18:23,976 - INFO - Middleware: Interceptando requisição
-2024-09-15 19:18:23,979 - INFO - Novo Novo Post
-2024-09-15 19:18:23,981 - INFO - Middleware: Interceptando resposta
-2024-09-15 19:18:24,287 - INFO - Middleware: Interceptando requisição
-2024-09-15 19:18:24,288 - INFO - Middleware: Interceptando resposta
-2024-09-15 19:18:24,288 - WARNING - Unauthorized: /api/post/
-2024-09-15 19:18:24,596 - INFO - Middleware: Interceptando requisição
-2024-09-15 19:18:24,599 - INFO - Middleware: Interceptando resposta
-2024-09-15 19:18:24,896 - INFO - Middleware: Interceptando requisição
-2024-09-15 19:18:24,900 - INFO - Middleware: Interceptando resposta
-2024-09-15 19:18:25,202 - INFO - Middleware: Interceptando requisição
-2024-09-15 19:18:25,206 - INFO - Middleware: Interceptando resposta
-2024-09-15 22:43:28,148 - INFO - Middleware: Interceptando requisição
-2024-09-15 22:43:28,150 - INFO - Novo Nova Categoria
-2024-09-15 22:43:28,152 - INFO - Middleware: Interceptando resposta
-2024-09-15 22:43:28,442 - INFO - Middleware: Interceptando requisição
-2024-09-15 22:43:28,443 - INFO - Middleware: Interceptando resposta
-2024-09-15 22:43:28,443 - WARNING - Unauthorized: /api/category/
-2024-09-15 22:43:28,724 - INFO - Middleware: Interceptando requisição
-2024-09-15 22:43:28,727 - INFO - Middleware: Interceptando resposta
-2024-09-15 22:43:29,008 - INFO - Middleware: Interceptando requisição
-2024-09-15 22:43:29,011 - INFO - Middleware: Interceptando resposta
-2024-09-15 22:43:29,289 - INFO - Middleware: Interceptando requisição
-2024-09-15 22:43:29,292 - INFO - Middleware: Interceptando resposta
-2024-09-15 22:43:29,630 - INFO - Middleware: Interceptando requisição
-2024-09-15 22:43:29,635 - INFO - Novo 1
-2024-09-15 22:43:29,637 - INFO - Middleware: Interceptando resposta
-2024-09-15 22:43:29,981 - INFO - Middleware: Interceptando requisição
-2024-09-15 22:43:29,984 - INFO - Middleware: Interceptando resposta
-2024-09-15 22:43:30,266 - INFO - Middleware: Interceptando requisição
-2024-09-15 22:43:30,269 - INFO - Middleware: Interceptando resposta
-2024-09-15 22:43:30,551 - INFO - Middleware: Interceptando requisição
-2024-09-15 22:43:30,555 - INFO - Middleware: Interceptando resposta
-2024-09-15 22:43:30,852 - INFO - Middleware: Interceptando requisição
-2024-09-15 22:43:30,855 - INFO - Novo Novo Post
-2024-09-15 22:43:30,856 - INFO - Middleware: Interceptando resposta
-2024-09-15 22:43:31,150 - INFO - Middleware: Interceptando requisição
-2024-09-15 22:43:31,151 - INFO - Middleware: Interceptando resposta
-2024-09-15 22:43:31,151 - WARNING - Unauthorized: /api/post/
-2024-09-15 22:43:31,437 - INFO - Middleware: Interceptando requisição
-2024-09-15 22:43:31,440 - INFO - Middleware: Interceptando resposta
-2024-09-15 22:43:31,727 - INFO - Middleware: Interceptando requisição
-2024-09-15 22:43:31,730 - INFO - Middleware: Interceptando resposta
-2024-09-15 22:43:32,016 - INFO - Middleware: Interceptando requisição
-2024-09-15 22:43:32,021 - INFO - Middleware: Interceptando resposta
-2024-09-16 19:01:56,030 - INFO - Middleware: Interceptando requisição
-2024-09-16 19:01:56,032 - INFO - Novo Nova Categoria
-2024-09-16 19:01:56,034 - INFO - Middleware: Interceptando resposta
-2024-09-16 19:01:56,333 - INFO - Middleware: Interceptando requisição
-2024-09-16 19:01:56,334 - INFO - Middleware: Interceptando resposta
-2024-09-16 19:01:56,334 - WARNING - Unauthorized: /api/category/
-2024-09-16 19:01:56,626 - INFO - Middleware: Interceptando requisição
-2024-09-16 19:01:56,630 - INFO - Middleware: Interceptando resposta
-2024-09-16 19:01:56,925 - INFO - Middleware: Interceptando requisição
-2024-09-16 19:01:56,928 - INFO - Middleware: Interceptando resposta
-2024-09-16 19:01:57,222 - INFO - Middleware: Interceptando requisição
-2024-09-16 19:01:57,226 - INFO - Middleware: Interceptando resposta
-2024-09-16 19:01:57,542 - INFO - Middleware: Interceptando requisição
-2024-09-16 19:01:57,546 - INFO - Novo 1
-2024-09-16 19:01:57,548 - INFO - Middleware: Interceptando resposta
-2024-09-16 19:01:57,863 - INFO - Middleware: Interceptando requisição
-2024-09-16 19:01:57,866 - INFO - Middleware: Interceptando resposta
-2024-09-16 19:01:58,164 - INFO - Middleware: Interceptando requisição
-2024-09-16 19:01:58,167 - INFO - Middleware: Interceptando resposta
-2024-09-16 19:01:58,460 - INFO - Middleware: Interceptando requisição
-2024-09-16 19:01:58,464 - INFO - Middleware: Interceptando resposta
-2024-09-16 19:01:58,797 - INFO - Middleware: Interceptando requisição
-2024-09-16 19:01:58,800 - INFO - Novo Novo Post
-2024-09-16 19:01:58,802 - INFO - Middleware: Interceptando resposta
-2024-09-16 19:01:59,099 - INFO - Middleware: Interceptando requisição
-2024-09-16 19:01:59,099 - INFO - Middleware: Interceptando resposta
-2024-09-16 19:01:59,100 - WARNING - Unauthorized: /api/post/
-2024-09-16 19:01:59,398 - INFO - Middleware: Interceptando requisição
-2024-09-16 19:01:59,401 - INFO - Middleware: Interceptando resposta
-2024-09-16 19:01:59,703 - INFO - Middleware: Interceptando requisição
-2024-09-16 19:01:59,706 - INFO - Middleware: Interceptando resposta
-2024-09-16 19:02:00,014 - INFO - Middleware: Interceptando requisição
-2024-09-16 19:02:00,019 - INFO - Middleware: Interceptando resposta
-2024-09-16 19:03:42,321 - INFO - Watching for file changes with StatReloader
-2024-09-16 19:04:41,359 - INFO - Watching for file changes with StatReloader
-2024-09-16 19:05:00,997 - INFO - Watching for file changes with StatReloader
-2024-09-16 19:13:26,986 - INFO - Watching for file changes with StatReloader
-2024-09-16 19:13:33,712 - INFO - Middleware: Interceptando requisição
-2024-09-16 19:13:33,720 - INFO - Middleware: Interceptando resposta
-2024-09-16 19:13:33,720 - WARNING - Not Found: /
-2024-09-16 19:13:33,974 - INFO - Middleware: Interceptando requisição
-2024-09-16 19:13:33,980 - INFO - Middleware: Interceptando resposta
-2024-09-16 19:13:33,981 - WARNING - Not Found: /favicon.ico
-2024-09-16 19:13:37,931 - INFO - Middleware: Interceptando requisição
-2024-09-16 19:13:38,003 - INFO - Middleware: Interceptando resposta
-2024-09-16 19:25:53,512 - INFO - Middleware: Interceptando requisição
-2024-09-16 19:25:53,513 - INFO - Middleware: Interceptando resposta
-2024-09-16 19:25:53,514 - WARNING - Unauthorized: /api/post/
-2024-09-16 19:28:53,930 - INFO - Middleware: Interceptando requisição
-2024-09-16 19:28:54,261 - INFO - Middleware: Interceptando resposta
-2024-09-16 19:29:10,685 - INFO - Middleware: Interceptando requisição
-2024-09-16 19:29:10,702 - INFO - Middleware: Interceptando resposta
-2024-09-16 19:29:53,148 - INFO - Middleware: Interceptando requisição
-2024-09-16 19:29:53,167 - INFO - Middleware: Interceptando resposta
-2024-09-16 19:30:07,288 - INFO - Middleware: Interceptando requisição
-2024-09-16 19:30:07,301 - INFO - Middleware: Interceptando resposta
-2024-09-16 19:33:24,076 - INFO - Middleware: Interceptando requisição
-2024-09-16 19:33:24,092 - INFO - Middleware: Interceptando resposta
-2024-09-16 19:33:24,093 - WARNING - Bad Request: /api/post/
-2024-09-16 19:34:24,755 - INFO - Middleware: Interceptando requisição
-2024-09-16 19:34:24,756 - INFO - Middleware: Interceptando resposta
-2024-09-16 19:34:24,756 - WARNING - Unauthorized: /api/post/
-2024-09-16 19:34:59,701 - INFO - Middleware: Interceptando requisição
-2024-09-16 19:34:59,703 - INFO - Middleware: Interceptando resposta
-2024-09-16 19:34:59,703 - WARNING - Unauthorized: /api/post/
-2024-09-16 19:35:05,586 - INFO - Middleware: Interceptando requisição
-2024-09-16 19:35:05,922 - INFO - Middleware: Interceptando resposta
-2024-09-16 19:35:13,783 - INFO - Middleware: Interceptando requisição
-2024-09-16 19:35:13,796 - INFO - Middleware: Interceptando resposta
-2024-09-16 19:35:23,170 - INFO - Middleware: Interceptando requisição
-2024-09-16 19:35:23,181 - INFO - Middleware: Interceptando resposta
-2024-09-16 19:35:23,181 - WARNING - Bad Request: /api/post/
-2024-09-16 19:35:25,834 - INFO - Middleware: Interceptando requisição
-2024-09-16 19:35:25,847 - INFO - Middleware: Interceptando resposta
-2024-09-16 19:35:27,988 - INFO - Middleware: Interceptando requisição
-2024-09-16 19:35:27,989 - INFO - Middleware: Interceptando resposta
-2024-09-16 19:35:27,989 - WARNING - Unauthorized: /api/category/
-2024-09-16 19:35:33,909 - INFO - Middleware: Interceptando requisição
-2024-09-16 19:35:33,923 - INFO - Middleware: Interceptando resposta
-2024-09-16 19:35:41,868 - INFO - Middleware: Interceptando requisição
-2024-09-16 19:35:41,889 - INFO - Middleware: Interceptando resposta
-2024-09-16 19:35:55,257 - INFO - Middleware: Interceptando requisição
-2024-09-16 19:35:55,272 - INFO - Middleware: Interceptando resposta
-2024-09-16 19:35:55,272 - WARNING - Bad Request: /api/post/
-2024-09-16 19:36:06,220 - INFO - Middleware: Interceptando requisição
-2024-09-16 19:36:06,231 - INFO - Middleware: Interceptando resposta
-2024-09-16 19:36:06,231 - WARNING - Bad Request: /api/post/
-2024-09-16 19:36:15,536 - INFO - Middleware: Interceptando requisição
-2024-09-16 19:36:15,556 - INFO - Middleware: Interceptando resposta
-2024-09-16 19:36:15,556 - WARNING - Bad Request: /api/post/
-2024-09-16 19:37:01,203 - INFO - Middleware: Interceptando requisição
-2024-09-16 19:37:01,214 - INFO - Middleware: Interceptando resposta
-2024-09-16 19:37:01,214 - WARNING - Bad Request: /api/post/
-2024-09-16 19:37:23,945 - INFO - Middleware: Interceptando requisição
-2024-09-16 19:37:23,962 - INFO - Middleware: Interceptando resposta
-2024-09-16 19:37:23,962 - WARNING - Bad Request: /api/post/
-2024-09-16 19:37:56,523 - INFO - Middleware: Interceptando requisição
-2024-09-16 19:37:56,539 - INFO - Middleware: Interceptando resposta
-2024-09-16 19:37:56,539 - WARNING - Bad Request: /api/post/
-2024-09-16 19:38:27,628 - INFO - Middleware: Interceptando requisição
-2024-09-16 19:38:27,640 - INFO - Novo pjdsf0ojsdofnosdfn
-2024-09-16 19:38:27,648 - INFO - Middleware: Interceptando resposta
-2024-09-16 19:39:21,041 - INFO - Middleware: Interceptando requisição
-2024-09-16 19:39:21,060 - INFO - Middleware: Interceptando resposta
-2024-09-16 19:39:21,060 - WARNING - Bad Request: /api/post/
-2024-09-16 19:41:44,060 - INFO - /home/saulojustiniano/www/classeven/boost-code/plataforma/models.py changed, reloading.
-2024-09-16 19:41:44,471 - INFO - Watching for file changes with StatReloader
-2024-09-16 19:43:13,546 - INFO - Watching for file changes with StatReloader
-2024-09-16 19:44:03,605 - INFO - Middleware: Interceptando requisição
-2024-09-16 19:44:03,617 - INFO - Middleware: Interceptando resposta
-2024-09-16 19:44:03,618 - WARNING - Unauthorized: /api/post/
-2024-09-16 19:44:18,446 - INFO - Middleware: Interceptando requisição
-2024-09-16 19:44:18,797 - INFO - Middleware: Interceptando resposta
-2024-09-16 19:44:26,190 - INFO - Middleware: Interceptando requisição
-2024-09-16 19:44:26,202 - INFO - Middleware: Interceptando resposta
-2024-09-16 19:44:26,202 - WARNING - Bad Request: /api/post/
-2024-09-16 19:45:25,425 - INFO - Middleware: Interceptando requisição
-2024-09-16 19:45:25,444 - INFO - Middleware: Interceptando resposta
-2024-09-16 19:45:25,445 - WARNING - Bad Request: /api/post/
-2024-09-16 19:46:30,433 - INFO - Middleware: Interceptando requisição
-2024-09-16 19:46:30,447 - INFO - Middleware: Interceptando resposta
-2024-09-16 19:46:30,447 - WARNING - Bad Request: /api/post/
-2024-09-16 19:47:48,949 - INFO - Middleware: Interceptando requisição
-2024-09-16 19:47:48,962 - INFO - Middleware: Interceptando resposta
-2024-09-16 19:47:48,962 - WARNING - Bad Request: /api/category/
-2024-09-16 19:48:18,422 - INFO - Middleware: Interceptando requisição
-2024-09-16 19:48:18,439 - INFO - Middleware: Interceptando resposta
-2024-09-16 19:48:18,439 - WARNING - Bad Request: /api/category/
-2024-09-16 19:51:23,367 - INFO - Middleware: Interceptando requisição
-2024-09-16 19:51:23,368 - INFO - Middleware: Interceptando resposta
-2024-09-16 19:51:23,368 - WARNING - Unauthorized: /api/post/
-2024-09-16 19:51:27,573 - INFO - Middleware: Interceptando requisição
-2024-09-16 19:51:27,960 - INFO - Middleware: Interceptando resposta
-2024-09-16 19:51:50,959 - INFO - Middleware: Interceptando requisição
-2024-09-16 19:51:50,960 - INFO - Middleware: Interceptando resposta
-2024-09-16 19:51:50,960 - WARNING - Unauthorized: /api/post/
-2024-09-16 19:51:55,530 - INFO - Middleware: Interceptando requisição
-2024-09-16 19:51:55,546 - INFO - Middleware: Interceptando resposta
-2024-09-16 19:52:11,865 - INFO - Middleware: Interceptando requisição
-2024-09-16 19:52:11,878 - INFO - Middleware: Interceptando resposta
-2024-09-16 19:52:51,942 - INFO - Middleware: Interceptando requisição
-2024-09-16 19:52:52,021 - DEBUG - STREAM b'IHDR' 16 13
-2024-09-16 19:52:52,021 - DEBUG - STREAM b'sBIT' 41 4
-2024-09-16 19:52:52,021 - DEBUG - b'sBIT' 41 4 (unknown)
-2024-09-16 19:52:52,021 - DEBUG - STREAM b'tEXt' 57 25
-2024-09-16 19:52:52,021 - DEBUG - STREAM b'tEXt' 94 38
-2024-09-16 19:52:52,021 - DEBUG - STREAM b'IDAT' 144 8192
-2024-09-16 19:52:52,021 - DEBUG - Importing BlpImagePlugin
-2024-09-16 19:52:52,026 - DEBUG - Importing BmpImagePlugin
-2024-09-16 19:52:52,026 - DEBUG - Importing BufrStubImagePlugin
-2024-09-16 19:52:52,027 - DEBUG - Importing CurImagePlugin
-2024-09-16 19:52:52,028 - DEBUG - Importing DcxImagePlugin
-2024-09-16 19:52:52,030 - DEBUG - Importing DdsImagePlugin
-2024-09-16 19:52:52,038 - DEBUG - Importing EpsImagePlugin
-2024-09-16 19:52:52,042 - DEBUG - Importing FitsImagePlugin
-2024-09-16 19:52:52,044 - DEBUG - Importing FliImagePlugin
-2024-09-16 19:52:52,046 - DEBUG - Importing FpxImagePlugin
-2024-09-16 19:52:52,047 - DEBUG - Image: failed to import FpxImagePlugin: No module named 'olefile'
-2024-09-16 19:52:52,047 - DEBUG - Importing FtexImagePlugin
-2024-09-16 19:52:52,049 - DEBUG - Importing GbrImagePlugin
-2024-09-16 19:52:52,050 - DEBUG - Importing GifImagePlugin
-2024-09-16 19:52:52,051 - DEBUG - Importing GribStubImagePlugin
-2024-09-16 19:52:52,052 - DEBUG - Importing Hdf5StubImagePlugin
-2024-09-16 19:52:52,053 - DEBUG - Importing IcnsImagePlugin
-2024-09-16 19:52:52,062 - DEBUG - Importing IcoImagePlugin
-2024-09-16 19:52:52,066 - DEBUG - Importing ImImagePlugin
-2024-09-16 19:52:52,069 - DEBUG - Importing ImtImagePlugin
-2024-09-16 19:52:52,070 - DEBUG - Importing IptcImagePlugin
-2024-09-16 19:52:52,072 - DEBUG - Importing JpegImagePlugin
-2024-09-16 19:52:52,073 - DEBUG - Importing Jpeg2KImagePlugin
-2024-09-16 19:52:52,073 - DEBUG - Importing McIdasImagePlugin
-2024-09-16 19:52:52,074 - DEBUG - Importing MicImagePlugin
-2024-09-16 19:52:52,076 - DEBUG - Image: failed to import MicImagePlugin: No module named 'olefile'
-2024-09-16 19:52:52,076 - DEBUG - Importing MpegImagePlugin
-2024-09-16 19:52:52,077 - DEBUG - Importing MpoImagePlugin
-2024-09-16 19:52:52,135 - DEBUG - Importing MspImagePlugin
-2024-09-16 19:52:52,137 - DEBUG - Importing PalmImagePlugin
-2024-09-16 19:52:52,141 - DEBUG - Importing PcdImagePlugin
-2024-09-16 19:52:52,142 - DEBUG - Importing PcxImagePlugin
-2024-09-16 19:52:52,142 - DEBUG - Importing PdfImagePlugin
-2024-09-16 19:52:52,193 - DEBUG - Importing PixarImagePlugin
-2024-09-16 19:52:52,194 - DEBUG - Importing PngImagePlugin
-2024-09-16 19:52:52,194 - DEBUG - Importing PpmImagePlugin
-2024-09-16 19:52:52,194 - DEBUG - Importing PsdImagePlugin
-2024-09-16 19:52:52,196 - DEBUG - Importing QoiImagePlugin
-2024-09-16 19:52:52,198 - DEBUG - Importing SgiImagePlugin
-2024-09-16 19:52:52,200 - DEBUG - Importing SpiderImagePlugin
-2024-09-16 19:52:52,202 - DEBUG - Importing SunImagePlugin
-2024-09-16 19:52:52,203 - DEBUG - Importing TgaImagePlugin
-2024-09-16 19:52:52,206 - DEBUG - Importing TiffImagePlugin
-2024-09-16 19:52:52,206 - DEBUG - Importing WebPImagePlugin
-2024-09-16 19:52:52,210 - DEBUG - Importing WmfImagePlugin
-2024-09-16 19:52:52,211 - DEBUG - Importing XbmImagePlugin
-2024-09-16 19:52:52,214 - DEBUG - Importing XpmImagePlugin
-2024-09-16 19:52:52,217 - DEBUG - Importing XVThumbImagePlugin
-2024-09-16 19:52:52,220 - INFO - Novo 982375982 fsdnm fiosdhfoishdoifh
-2024-09-16 19:52:52,258 - INFO - Middleware: Interceptando resposta
-2024-09-16 19:53:17,184 - INFO - Middleware: Interceptando requisição
-2024-09-16 19:53:17,185 - INFO - Middleware: Interceptando resposta
-2024-09-16 19:53:17,185 - WARNING - Unauthorized: /api/category/
-2024-09-16 19:53:25,064 - INFO - Middleware: Interceptando requisição
-2024-09-16 19:53:25,401 - INFO - Middleware: Interceptando resposta
-2024-09-16 19:53:30,027 - INFO - Middleware: Interceptando requisição
-2024-09-16 19:53:30,038 - INFO - Novo kotlin 90324 
-2024-09-16 19:53:30,131 - INFO - Middleware: Interceptando resposta
-2024-09-16 19:53:56,457 - INFO - Middleware: Interceptando requisição
-2024-09-16 19:53:56,460 - INFO - Middleware: Interceptando resposta
-2024-09-16 19:53:56,460 - WARNING - Unauthorized: /api/comment/
-2024-09-16 19:53:59,779 - INFO - Middleware: Interceptando requisição
-2024-09-16 19:54:00,130 - INFO - Middleware: Interceptando resposta
-2024-09-16 19:54:15,783 - INFO - Middleware: Interceptando requisição
-2024-09-16 19:54:15,798 - INFO - Middleware: Interceptando resposta
-2024-09-16 19:54:48,101 - INFO - Middleware: Interceptando requisição
-2024-09-16 19:54:48,123 - INFO - Novo 3
-2024-09-16 19:54:48,142 - INFO - Middleware: Interceptando resposta
-2024-09-16 19:57:01,351 - INFO - Middleware: Interceptando requisição
-2024-09-16 19:57:01,354 - INFO - Middleware: Interceptando resposta
-2024-09-16 19:57:01,354 - WARNING - Unauthorized: /api/post/2/
-2024-09-16 19:57:11,577 - INFO - Middleware: Interceptando requisição
-2024-09-16 19:57:11,906 - INFO - Middleware: Interceptando resposta
-2024-09-16 19:57:18,911 - INFO - Middleware: Interceptando requisição
-2024-09-16 19:57:18,932 - INFO - Middleware: Interceptando resposta
-2024-09-16 19:57:43,815 - INFO - Middleware: Interceptando requisição
-2024-09-16 19:57:43,834 - INFO - Middleware: Interceptando resposta
-2024-09-16 19:58:26,777 - INFO - Middleware: Interceptando requisição
-2024-09-16 19:58:26,778 - INFO - Middleware: Interceptando resposta
-2024-09-16 19:58:26,778 - WARNING - Unauthorized: /api/category/2/
-2024-09-16 19:58:31,379 - INFO - Middleware: Interceptando requisição
-2024-09-16 19:58:31,395 - INFO - Middleware: Interceptando resposta
-2024-09-17 00:51:09,449 - INFO - Watching for file changes with StatReloader
-2024-09-17 00:51:11,632 - INFO - Middleware: Interceptando requisição
-2024-09-17 00:51:11,960 - INFO - Middleware: Interceptando resposta
-2024-09-17 00:51:28,532 - INFO - Middleware: Interceptando requisição
-2024-09-17 00:51:28,538 - INFO - Middleware: Interceptando resposta
-2024-09-17 00:51:28,538 - WARNING - Not Found: /token/refresh/
-2024-09-17 00:51:37,952 - INFO - Middleware: Interceptando requisição
-2024-09-17 00:51:37,960 - INFO - Middleware: Interceptando resposta
-2024-09-17 00:51:37,961 - WARNING - Not Found: /token/refresh/
-2024-09-17 00:51:56,432 - INFO - Middleware: Interceptando requisição
-2024-09-17 00:51:56,436 - INFO - Middleware: Interceptando resposta
-2024-09-17 00:51:56,436 - WARNING - Not Found: /token/refresh/
-2024-09-17 00:52:00,432 - INFO - Middleware: Interceptando requisição
-2024-09-17 00:52:00,437 - INFO - Middleware: Interceptando resposta
-2024-09-17 00:52:00,437 - WARNING - Not Found: /token/refresh/
-2024-09-17 00:52:56,811 - INFO - Middleware: Interceptando requisição
-2024-09-17 00:52:57,217 - INFO - Middleware: Interceptando resposta
-2024-09-17 00:53:18,340 - INFO - Middleware: Interceptando requisição
-2024-09-17 00:53:18,343 - INFO - Middleware: Interceptando resposta
-2024-09-17 00:53:18,343 - WARNING - Not Found: /token/refresh/
-2024-09-17 00:53:29,226 - INFO - Middleware: Interceptando requisição
-2024-09-17 00:53:29,234 - INFO - Middleware: Interceptando resposta
-2024-09-17 00:53:29,234 - WARNING - Not Found: /token/refresh/
-2024-09-17 00:53:39,657 - INFO - Middleware: Interceptando requisição
-2024-09-17 00:53:39,665 - INFO - Middleware: Interceptando resposta
-2024-09-17 00:53:39,665 - WARNING - Not Found: /token/refresh/
-2024-09-17 00:53:54,191 - INFO - Middleware: Interceptando requisição
-2024-09-17 00:53:54,199 - INFO - Middleware: Interceptando resposta
-2024-09-17 00:53:54,199 - WARNING - Not Found: /token/refresh/
-2024-09-17 00:54:10,327 - INFO - Middleware: Interceptando requisição
-2024-09-17 00:54:10,665 - INFO - Middleware: Interceptando resposta
-2024-09-17 00:54:21,551 - INFO - Middleware: Interceptando requisição
-2024-09-17 00:54:21,554 - INFO - Middleware: Interceptando resposta
-2024-09-17 00:54:21,554 - WARNING - Not Found: /token/refresh/
-2024-09-17 00:56:02,831 - INFO - Middleware: Interceptando requisição
-2024-09-17 00:56:02,833 - INFO - Middleware: Interceptando resposta
-2024-09-17 01:26:11,658 - INFO - Watching for file changes with StatReloader
-2024-09-17 01:42:47,442 - INFO - Watching for file changes with StatReloader
-2024-09-17 01:50:54,478 - INFO - /app/boost_code/settings.py changed, reloading.
-2024-09-17 01:50:54,999 - INFO - Watching for file changes with StatReloader
-2024-09-17 01:51:39,888 - INFO - Watching for file changes with StatReloader
-2024-09-17 01:54:30,662 - INFO - Watching for file changes with StatReloader
-2024-09-17 01:55:18,276 - INFO - /app/manage.py changed, reloading.
-2024-09-17 01:55:18,776 - INFO - Watching for file changes with StatReloader
-2024-09-17 01:55:53,218 - INFO - /app/boost_code/settings.py changed, reloading.
-2024-09-17 01:55:53,730 - INFO - Watching for file changes with StatReloader
-2024-09-17 01:55:55,090 - INFO - /app/boost_code/settings.py changed, reloading.
-2024-09-17 01:55:55,561 - INFO - Watching for file changes with StatReloader
-2024-09-17 01:56:21,332 - INFO - Watching for file changes with StatReloader
-2024-09-17 02:02:22,614 - INFO - Watching for file changes with StatReloader
-2024-09-17 02:03:19,759 - INFO - /app/boost_code/settings.py changed, reloading.
-2024-09-17 02:03:20,292 - INFO - Watching for file changes with StatReloader
-2024-09-17 02:04:16,347 - INFO - /app/boost_code/settings.py changed, reloading.
-2024-09-17 02:04:16,945 - INFO - Watching for file changes with StatReloader
-2024-09-17 02:07:00,164 - INFO - Watching for file changes with StatReloader
-2024-09-17 02:07:49,105 - INFO - Watching for file changes with StatReloader
-2024-09-17 02:08:49,442 - INFO - Middleware: Interceptando requisição
-2024-09-17 02:08:49,451 - INFO - Middleware: Interceptando resposta
-2024-09-17 02:08:49,460 - INFO - Middleware: Interceptando requisição
-2024-09-17 02:08:49,487 - INFO - Middleware: Interceptando resposta
-2024-09-17 02:08:49,495 - INFO - Middleware: Interceptando requisição
-2024-09-17 02:08:49,534 - INFO - Middleware: Interceptando resposta
-2024-09-17 02:08:49,933 - INFO - Middleware: Interceptando requisição
-2024-09-17 02:08:49,940 - INFO - Middleware: Interceptando resposta
-2024-09-17 02:08:49,943 - WARNING - Not Found: /favicon.ico
-2024-09-17 02:09:04,206 - INFO - Middleware: Interceptando requisição
-2024-09-17 02:09:04,214 - INFO - Middleware: Interceptando resposta
-2024-09-17 02:09:04,223 - INFO - Middleware: Interceptando requisição
-2024-09-17 02:09:04,240 - INFO - Middleware: Interceptando resposta
-2024-09-17 02:09:04,241 - WARNING - Unauthorized: /api/post/
-2024-09-17 02:09:14,216 - INFO - Middleware: Interceptando requisição
-2024-09-17 02:09:14,233 - INFO - Middleware: Interceptando resposta
-2024-09-17 02:09:14,234 - WARNING - Unauthorized: /api/post/
-2024-09-17 02:09:18,533 - INFO - Middleware: Interceptando requisição
-2024-09-17 02:09:18,624 - ERROR - Internal Server Error: /api/token/
+2024-10-14 18:35:38,797 - INFO - Watching for file changes with StatReloader
+2024-10-14 18:35:49,621 - INFO - Watching for file changes with StatReloader
+2024-10-14 18:40:25,001 - INFO - Middleware: Interceptando requisição
+2024-10-14 18:40:25,011 - INFO - Middleware: Interceptando resposta
+2024-10-14 18:40:25,011 - WARNING - Not Found: /
+2024-10-14 18:40:25,204 - INFO - Middleware: Interceptando requisição
+2024-10-14 18:40:25,211 - INFO - Middleware: Interceptando resposta
+2024-10-14 18:40:25,212 - WARNING - Not Found: /favicon.ico
+2024-10-14 18:40:30,167 - INFO - Middleware: Interceptando requisição
+2024-10-14 18:40:30,178 - INFO - Middleware: Interceptando resposta
+2024-10-14 18:40:30,188 - INFO - Middleware: Interceptando requisição
+2024-10-14 18:40:30,209 - INFO - Middleware: Interceptando resposta
+2024-10-14 18:40:30,217 - INFO - Middleware: Interceptando requisição
+2024-10-14 18:40:30,244 - INFO - Middleware: Interceptando resposta
+2024-10-14 18:40:34,350 - INFO - Middleware: Interceptando requisição
+2024-10-14 18:40:34,439 - ERROR - Internal Server Error: /admin/login/
 Traceback (most recent call last):
-  File "/usr/local/lib/python3.10/site-packages/django/db/backends/utils.py", line 105, in _execute
+  File "/usr/local/lib/python3.12/site-packages/django/db/backends/utils.py", line 105, in _execute
     return self.cursor.execute(sql, params)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 psycopg2.errors.UndefinedTable: relation "auth_user" does not exist
 LINE 1: ...user"."is_active", "auth_user"."date_joined" FROM "auth_user...
                                                              ^
@@ -459,179 +26,130 @@ LINE 1: ...user"."is_active", "auth_user"."date_joined" FROM "auth_user...
 The above exception was the direct cause of the following exception:
 
 Traceback (most recent call last):
-  File "/usr/local/lib/python3.10/site-packages/django/core/handlers/exception.py", line 55, in inner
+  File "/usr/local/lib/python3.12/site-packages/django/core/handlers/exception.py", line 55, in inner
     response = get_response(request)
-  File "/usr/local/lib/python3.10/site-packages/django/core/handlers/base.py", line 197, in _get_response
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/local/lib/python3.12/site-packages/django/core/handlers/base.py", line 197, in _get_response
     response = wrapped_callback(request, *callback_args, **callback_kwargs)
-  File "/usr/local/lib/python3.10/site-packages/django/views/decorators/csrf.py", line 65, in _view_wrapper
-    return view_func(request, *args, **kwargs)
-  File "/usr/local/lib/python3.10/site-packages/django/views/generic/base.py", line 104, in view
-    return self.dispatch(request, *args, **kwargs)
-  File "/usr/local/lib/python3.10/site-packages/rest_framework/views.py", line 509, in dispatch
-    response = self.handle_exception(exc)
-  File "/usr/local/lib/python3.10/site-packages/rest_framework/views.py", line 469, in handle_exception
-    self.raise_uncaught_exception(exc)
-  File "/usr/local/lib/python3.10/site-packages/rest_framework/views.py", line 480, in raise_uncaught_exception
-    raise exc
-  File "/usr/local/lib/python3.10/site-packages/rest_framework/views.py", line 506, in dispatch
-    response = handler(request, *args, **kwargs)
-  File "/usr/local/lib/python3.10/site-packages/rest_framework_simplejwt/views.py", line 44, in post
-    serializer.is_valid(raise_exception=True)
-  File "/usr/local/lib/python3.10/site-packages/rest_framework/serializers.py", line 223, in is_valid
-    self._validated_data = self.run_validation(self.initial_data)
-  File "/usr/local/lib/python3.10/site-packages/rest_framework/serializers.py", line 445, in run_validation
-    value = self.validate(value)
-  File "/usr/local/lib/python3.10/site-packages/rest_framework_simplejwt/serializers.py", line 73, in validate
-    data = super().validate(attrs)
-  File "/usr/local/lib/python3.10/site-packages/rest_framework_simplejwt/serializers.py", line 54, in validate
-    self.user = authenticate(**authenticate_kwargs)
-  File "/usr/local/lib/python3.10/site-packages/django/views/decorators/debug.py", line 75, in sensitive_variables_wrapper
-    return func(*func_args, **func_kwargs)
-  File "/usr/local/lib/python3.10/site-packages/django/contrib/auth/__init__.py", line 79, in authenticate
-    user = backend.authenticate(request, **credentials)
-  File "/usr/local/lib/python3.10/site-packages/django/contrib/auth/backends.py", line 42, in authenticate
-    user = UserModel._default_manager.get_by_natural_key(username)
-  File "/usr/local/lib/python3.10/site-packages/django/contrib/auth/base_user.py", line 37, in get_by_natural_key
-    return self.get(**{self.model.USERNAME_FIELD: username})
-  File "/usr/local/lib/python3.10/site-packages/django/db/models/manager.py", line 87, in manager_method
-    return getattr(self.get_queryset(), name)(*args, **kwargs)
-  File "/usr/local/lib/python3.10/site-packages/django/db/models/query.py", line 645, in get
-    num = len(clone)
-  File "/usr/local/lib/python3.10/site-packages/django/db/models/query.py", line 382, in __len__
-    self._fetch_all()
-  File "/usr/local/lib/python3.10/site-packages/django/db/models/query.py", line 1928, in _fetch_all
-    self._result_cache = list(self._iterable_class(self))
-  File "/usr/local/lib/python3.10/site-packages/django/db/models/query.py", line 91, in __iter__
-    results = compiler.execute_sql(
-  File "/usr/local/lib/python3.10/site-packages/django/db/models/sql/compiler.py", line 1574, in execute_sql
-    cursor.execute(sql, params)
-  File "/usr/local/lib/python3.10/site-packages/django/db/backends/utils.py", line 122, in execute
-    return super().execute(sql, params)
-  File "/usr/local/lib/python3.10/site-packages/django/db/backends/utils.py", line 79, in execute
-    return self._execute_with_wrappers(
-  File "/usr/local/lib/python3.10/site-packages/django/db/backends/utils.py", line 92, in _execute_with_wrappers
-    return executor(sql, params, many, context)
-  File "/usr/local/lib/python3.10/site-packages/django/db/backends/utils.py", line 100, in _execute
-    with self.db.wrap_database_errors:
-  File "/usr/local/lib/python3.10/site-packages/django/db/utils.py", line 91, in __exit__
-    raise dj_exc_value.with_traceback(traceback) from exc_value
-  File "/usr/local/lib/python3.10/site-packages/django/db/backends/utils.py", line 105, in _execute
-    return self.cursor.execute(sql, params)
-django.db.utils.ProgrammingError: relation "auth_user" does not exist
-LINE 1: ...user"."is_active", "auth_user"."date_joined" FROM "auth_user...
-                                                             ^
-
-2024-09-17 02:09:18,629 - INFO - Middleware: Interceptando resposta
-2024-09-17 02:18:11,067 - INFO - Watching for file changes with StatReloader
-2024-09-17 02:18:25,857 - INFO - Middleware: Interceptando requisição
-2024-09-17 02:18:25,880 - INFO - Middleware: Interceptando resposta
-2024-09-17 02:18:25,888 - INFO - Middleware: Interceptando requisição
-2024-09-17 02:18:25,921 - INFO - Middleware: Interceptando resposta
-2024-09-17 02:18:40,940 - INFO - Middleware: Interceptando requisição
-2024-09-17 02:18:41,070 - ERROR - Internal Server Error: /admin/login/
-Traceback (most recent call last):
-  File "/usr/local/lib/python3.10/site-packages/django/db/backends/utils.py", line 105, in _execute
-    return self.cursor.execute(sql, params)
-psycopg2.errors.UndefinedTable: relation "auth_user" does not exist
-LINE 1: ...user"."is_active", "auth_user"."date_joined" FROM "auth_user...
-                                                             ^
-
-
-The above exception was the direct cause of the following exception:
-
-Traceback (most recent call last):
-  File "/usr/local/lib/python3.10/site-packages/django/core/handlers/exception.py", line 55, in inner
-    response = get_response(request)
-  File "/usr/local/lib/python3.10/site-packages/django/core/handlers/base.py", line 197, in _get_response
-    response = wrapped_callback(request, *callback_args, **callback_kwargs)
-  File "/usr/local/lib/python3.10/site-packages/django/utils/decorators.py", line 48, in _wrapper
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/local/lib/python3.12/site-packages/django/utils/decorators.py", line 48, in _wrapper
     return bound_method(*args, **kwargs)
-  File "/usr/local/lib/python3.10/site-packages/django/views/decorators/cache.py", line 80, in _view_wrapper
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/local/lib/python3.12/site-packages/django/views/decorators/cache.py", line 80, in _view_wrapper
     response = view_func(request, *args, **kwargs)
-  File "/usr/local/lib/python3.10/site-packages/django/contrib/admin/sites.py", line 444, in login
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/local/lib/python3.12/site-packages/django/contrib/admin/sites.py", line 444, in login
     return LoginView.as_view(**defaults)(request)
-  File "/usr/local/lib/python3.10/site-packages/django/views/generic/base.py", line 104, in view
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/local/lib/python3.12/site-packages/django/views/generic/base.py", line 104, in view
     return self.dispatch(request, *args, **kwargs)
-  File "/usr/local/lib/python3.10/site-packages/django/utils/decorators.py", line 48, in _wrapper
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/local/lib/python3.12/site-packages/django/utils/decorators.py", line 48, in _wrapper
     return bound_method(*args, **kwargs)
-  File "/usr/local/lib/python3.10/site-packages/django/utils/decorators.py", line 48, in _wrapper
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/local/lib/python3.12/site-packages/django/utils/decorators.py", line 48, in _wrapper
     return bound_method(*args, **kwargs)
-  File "/usr/local/lib/python3.10/site-packages/django/views/decorators/debug.py", line 143, in sensitive_post_parameters_wrapper
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/local/lib/python3.12/site-packages/django/views/decorators/debug.py", line 143, in sensitive_post_parameters_wrapper
     return view(request, *args, **kwargs)
-  File "/usr/local/lib/python3.10/site-packages/django/utils/decorators.py", line 48, in _wrapper
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/local/lib/python3.12/site-packages/django/utils/decorators.py", line 48, in _wrapper
     return bound_method(*args, **kwargs)
-  File "/usr/local/lib/python3.10/site-packages/django/utils/decorators.py", line 188, in _view_wrapper
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/local/lib/python3.12/site-packages/django/utils/decorators.py", line 188, in _view_wrapper
     result = _process_exception(request, e)
-  File "/usr/local/lib/python3.10/site-packages/django/utils/decorators.py", line 186, in _view_wrapper
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/local/lib/python3.12/site-packages/django/utils/decorators.py", line 186, in _view_wrapper
     response = view_func(request, *args, **kwargs)
-  File "/usr/local/lib/python3.10/site-packages/django/utils/decorators.py", line 48, in _wrapper
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/local/lib/python3.12/site-packages/django/utils/decorators.py", line 48, in _wrapper
     return bound_method(*args, **kwargs)
-  File "/usr/local/lib/python3.10/site-packages/django/views/decorators/cache.py", line 80, in _view_wrapper
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/local/lib/python3.12/site-packages/django/views/decorators/cache.py", line 80, in _view_wrapper
     response = view_func(request, *args, **kwargs)
-  File "/usr/local/lib/python3.10/site-packages/django/contrib/auth/views.py", line 89, in dispatch
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/local/lib/python3.12/site-packages/django/contrib/auth/views.py", line 89, in dispatch
     return super().dispatch(request, *args, **kwargs)
-  File "/usr/local/lib/python3.10/site-packages/django/views/generic/base.py", line 143, in dispatch
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/local/lib/python3.12/site-packages/django/views/generic/base.py", line 143, in dispatch
     return handler(request, *args, **kwargs)
-  File "/usr/local/lib/python3.10/site-packages/django/views/generic/edit.py", line 150, in post
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/local/lib/python3.12/site-packages/django/views/generic/edit.py", line 150, in post
     if form.is_valid():
-  File "/usr/local/lib/python3.10/site-packages/django/forms/forms.py", line 197, in is_valid
+       ^^^^^^^^^^^^^^^
+  File "/usr/local/lib/python3.12/site-packages/django/forms/forms.py", line 197, in is_valid
     return self.is_bound and not self.errors
-  File "/usr/local/lib/python3.10/site-packages/django/forms/forms.py", line 192, in errors
+                                 ^^^^^^^^^^^
+  File "/usr/local/lib/python3.12/site-packages/django/forms/forms.py", line 192, in errors
     self.full_clean()
-  File "/usr/local/lib/python3.10/site-packages/django/forms/forms.py", line 326, in full_clean
+  File "/usr/local/lib/python3.12/site-packages/django/forms/forms.py", line 326, in full_clean
     self._clean_form()
-  File "/usr/local/lib/python3.10/site-packages/django/forms/forms.py", line 342, in _clean_form
+  File "/usr/local/lib/python3.12/site-packages/django/forms/forms.py", line 342, in _clean_form
     cleaned_data = self.clean()
-  File "/usr/local/lib/python3.10/site-packages/django/contrib/auth/forms.py", line 356, in clean
+                   ^^^^^^^^^^^^
+  File "/usr/local/lib/python3.12/site-packages/django/contrib/auth/forms.py", line 356, in clean
     self.user_cache = authenticate(
-  File "/usr/local/lib/python3.10/site-packages/django/views/decorators/debug.py", line 75, in sensitive_variables_wrapper
+                      ^^^^^^^^^^^^^
+  File "/usr/local/lib/python3.12/site-packages/django/views/decorators/debug.py", line 75, in sensitive_variables_wrapper
     return func(*func_args, **func_kwargs)
-  File "/usr/local/lib/python3.10/site-packages/django/contrib/auth/__init__.py", line 79, in authenticate
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/local/lib/python3.12/site-packages/django/contrib/auth/__init__.py", line 79, in authenticate
     user = backend.authenticate(request, **credentials)
-  File "/usr/local/lib/python3.10/site-packages/django/contrib/auth/backends.py", line 42, in authenticate
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/local/lib/python3.12/site-packages/django/contrib/auth/backends.py", line 42, in authenticate
     user = UserModel._default_manager.get_by_natural_key(username)
-  File "/usr/local/lib/python3.10/site-packages/django/contrib/auth/base_user.py", line 37, in get_by_natural_key
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/local/lib/python3.12/site-packages/django/contrib/auth/base_user.py", line 37, in get_by_natural_key
     return self.get(**{self.model.USERNAME_FIELD: username})
-  File "/usr/local/lib/python3.10/site-packages/django/db/models/manager.py", line 87, in manager_method
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/local/lib/python3.12/site-packages/django/db/models/manager.py", line 87, in manager_method
     return getattr(self.get_queryset(), name)(*args, **kwargs)
-  File "/usr/local/lib/python3.10/site-packages/django/db/models/query.py", line 645, in get
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/local/lib/python3.12/site-packages/django/db/models/query.py", line 645, in get
     num = len(clone)
-  File "/usr/local/lib/python3.10/site-packages/django/db/models/query.py", line 382, in __len__
+          ^^^^^^^^^^
+  File "/usr/local/lib/python3.12/site-packages/django/db/models/query.py", line 382, in __len__
     self._fetch_all()
-  File "/usr/local/lib/python3.10/site-packages/django/db/models/query.py", line 1928, in _fetch_all
+  File "/usr/local/lib/python3.12/site-packages/django/db/models/query.py", line 1928, in _fetch_all
     self._result_cache = list(self._iterable_class(self))
-  File "/usr/local/lib/python3.10/site-packages/django/db/models/query.py", line 91, in __iter__
+                         ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/local/lib/python3.12/site-packages/django/db/models/query.py", line 91, in __iter__
     results = compiler.execute_sql(
-  File "/usr/local/lib/python3.10/site-packages/django/db/models/sql/compiler.py", line 1574, in execute_sql
+              ^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/local/lib/python3.12/site-packages/django/db/models/sql/compiler.py", line 1574, in execute_sql
     cursor.execute(sql, params)
-  File "/usr/local/lib/python3.10/site-packages/django/db/backends/utils.py", line 122, in execute
+  File "/usr/local/lib/python3.12/site-packages/django/db/backends/utils.py", line 122, in execute
     return super().execute(sql, params)
-  File "/usr/local/lib/python3.10/site-packages/django/db/backends/utils.py", line 79, in execute
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/local/lib/python3.12/site-packages/django/db/backends/utils.py", line 79, in execute
     return self._execute_with_wrappers(
-  File "/usr/local/lib/python3.10/site-packages/django/db/backends/utils.py", line 92, in _execute_with_wrappers
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/local/lib/python3.12/site-packages/django/db/backends/utils.py", line 92, in _execute_with_wrappers
     return executor(sql, params, many, context)
-  File "/usr/local/lib/python3.10/site-packages/django/db/backends/utils.py", line 100, in _execute
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/local/lib/python3.12/site-packages/django/db/backends/utils.py", line 100, in _execute
     with self.db.wrap_database_errors:
-  File "/usr/local/lib/python3.10/site-packages/django/db/utils.py", line 91, in __exit__
+         ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/local/lib/python3.12/site-packages/django/db/utils.py", line 91, in __exit__
     raise dj_exc_value.with_traceback(traceback) from exc_value
-  File "/usr/local/lib/python3.10/site-packages/django/db/backends/utils.py", line 105, in _execute
+  File "/usr/local/lib/python3.12/site-packages/django/db/backends/utils.py", line 105, in _execute
     return self.cursor.execute(sql, params)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 django.db.utils.ProgrammingError: relation "auth_user" does not exist
 LINE 1: ...user"."is_active", "auth_user"."date_joined" FROM "auth_user...
                                                              ^
 
-2024-09-17 02:18:41,074 - INFO - Middleware: Interceptando resposta
-2024-09-17 02:18:42,795 - INFO - Middleware: Interceptando requisição
-2024-09-17 02:18:42,803 - INFO - Middleware: Interceptando resposta
-2024-09-17 02:20:36,785 - INFO - Middleware: Interceptando requisição
-2024-09-17 02:20:36,787 - INFO - Middleware: Interceptando resposta
-2024-09-17 02:20:36,801 - INFO - Middleware: Interceptando requisição
-2024-09-17 02:20:36,817 - INFO - Middleware: Interceptando resposta
-2024-09-17 02:20:49,413 - INFO - Middleware: Interceptando requisição
-2024-09-17 02:20:49,505 - ERROR - Internal Server Error: /api/token/
+2024-10-14 18:40:34,442 - INFO - Middleware: Interceptando resposta
+2024-10-14 18:41:18,778 - INFO - Middleware: Interceptando requisição
+2024-10-14 18:41:18,780 - INFO - Middleware: Interceptando resposta
+2024-10-14 18:41:18,789 - INFO - Middleware: Interceptando requisição
+2024-10-14 18:41:18,795 - INFO - Middleware: Interceptando resposta
+2024-10-14 18:41:22,801 - INFO - Middleware: Interceptando requisição
+2024-10-14 18:41:22,876 - ERROR - Internal Server Error: /admin/login/
 Traceback (most recent call last):
-  File "/usr/local/lib/python3.10/site-packages/django/db/backends/utils.py", line 105, in _execute
+  File "/usr/local/lib/python3.12/site-packages/django/db/backends/utils.py", line 105, in _execute
     return self.cursor.execute(sql, params)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 psycopg2.errors.UndefinedTable: relation "auth_user" does not exist
 LINE 1: ...user"."is_active", "auth_user"."date_joined" FROM "auth_user...
                                                              ^
@@ -640,903 +158,259 @@ LINE 1: ...user"."is_active", "auth_user"."date_joined" FROM "auth_user...
 The above exception was the direct cause of the following exception:
 
 Traceback (most recent call last):
-  File "/usr/local/lib/python3.10/site-packages/django/core/handlers/exception.py", line 55, in inner
+  File "/usr/local/lib/python3.12/site-packages/django/core/handlers/exception.py", line 55, in inner
     response = get_response(request)
-  File "/usr/local/lib/python3.10/site-packages/django/core/handlers/base.py", line 197, in _get_response
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/local/lib/python3.12/site-packages/django/core/handlers/base.py", line 197, in _get_response
     response = wrapped_callback(request, *callback_args, **callback_kwargs)
-  File "/usr/local/lib/python3.10/site-packages/django/views/decorators/csrf.py", line 65, in _view_wrapper
-    return view_func(request, *args, **kwargs)
-  File "/usr/local/lib/python3.10/site-packages/django/views/generic/base.py", line 104, in view
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/local/lib/python3.12/site-packages/django/utils/decorators.py", line 48, in _wrapper
+    return bound_method(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/local/lib/python3.12/site-packages/django/views/decorators/cache.py", line 80, in _view_wrapper
+    response = view_func(request, *args, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/local/lib/python3.12/site-packages/django/contrib/admin/sites.py", line 444, in login
+    return LoginView.as_view(**defaults)(request)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/local/lib/python3.12/site-packages/django/views/generic/base.py", line 104, in view
     return self.dispatch(request, *args, **kwargs)
-  File "/usr/local/lib/python3.10/site-packages/rest_framework/views.py", line 509, in dispatch
-    response = self.handle_exception(exc)
-  File "/usr/local/lib/python3.10/site-packages/rest_framework/views.py", line 469, in handle_exception
-    self.raise_uncaught_exception(exc)
-  File "/usr/local/lib/python3.10/site-packages/rest_framework/views.py", line 480, in raise_uncaught_exception
-    raise exc
-  File "/usr/local/lib/python3.10/site-packages/rest_framework/views.py", line 506, in dispatch
-    response = handler(request, *args, **kwargs)
-  File "/usr/local/lib/python3.10/site-packages/rest_framework_simplejwt/views.py", line 44, in post
-    serializer.is_valid(raise_exception=True)
-  File "/usr/local/lib/python3.10/site-packages/rest_framework/serializers.py", line 223, in is_valid
-    self._validated_data = self.run_validation(self.initial_data)
-  File "/usr/local/lib/python3.10/site-packages/rest_framework/serializers.py", line 445, in run_validation
-    value = self.validate(value)
-  File "/usr/local/lib/python3.10/site-packages/rest_framework_simplejwt/serializers.py", line 73, in validate
-    data = super().validate(attrs)
-  File "/usr/local/lib/python3.10/site-packages/rest_framework_simplejwt/serializers.py", line 54, in validate
-    self.user = authenticate(**authenticate_kwargs)
-  File "/usr/local/lib/python3.10/site-packages/django/views/decorators/debug.py", line 75, in sensitive_variables_wrapper
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/local/lib/python3.12/site-packages/django/utils/decorators.py", line 48, in _wrapper
+    return bound_method(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/local/lib/python3.12/site-packages/django/utils/decorators.py", line 48, in _wrapper
+    return bound_method(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/local/lib/python3.12/site-packages/django/views/decorators/debug.py", line 143, in sensitive_post_parameters_wrapper
+    return view(request, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/local/lib/python3.12/site-packages/django/utils/decorators.py", line 48, in _wrapper
+    return bound_method(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/local/lib/python3.12/site-packages/django/utils/decorators.py", line 188, in _view_wrapper
+    result = _process_exception(request, e)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/local/lib/python3.12/site-packages/django/utils/decorators.py", line 186, in _view_wrapper
+    response = view_func(request, *args, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/local/lib/python3.12/site-packages/django/utils/decorators.py", line 48, in _wrapper
+    return bound_method(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/local/lib/python3.12/site-packages/django/views/decorators/cache.py", line 80, in _view_wrapper
+    response = view_func(request, *args, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/local/lib/python3.12/site-packages/django/contrib/auth/views.py", line 89, in dispatch
+    return super().dispatch(request, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/local/lib/python3.12/site-packages/django/views/generic/base.py", line 143, in dispatch
+    return handler(request, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/local/lib/python3.12/site-packages/django/views/generic/edit.py", line 150, in post
+    if form.is_valid():
+       ^^^^^^^^^^^^^^^
+  File "/usr/local/lib/python3.12/site-packages/django/forms/forms.py", line 197, in is_valid
+    return self.is_bound and not self.errors
+                                 ^^^^^^^^^^^
+  File "/usr/local/lib/python3.12/site-packages/django/forms/forms.py", line 192, in errors
+    self.full_clean()
+  File "/usr/local/lib/python3.12/site-packages/django/forms/forms.py", line 326, in full_clean
+    self._clean_form()
+  File "/usr/local/lib/python3.12/site-packages/django/forms/forms.py", line 342, in _clean_form
+    cleaned_data = self.clean()
+                   ^^^^^^^^^^^^
+  File "/usr/local/lib/python3.12/site-packages/django/contrib/auth/forms.py", line 356, in clean
+    self.user_cache = authenticate(
+                      ^^^^^^^^^^^^^
+  File "/usr/local/lib/python3.12/site-packages/django/views/decorators/debug.py", line 75, in sensitive_variables_wrapper
     return func(*func_args, **func_kwargs)
-  File "/usr/local/lib/python3.10/site-packages/django/contrib/auth/__init__.py", line 79, in authenticate
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/local/lib/python3.12/site-packages/django/contrib/auth/__init__.py", line 79, in authenticate
     user = backend.authenticate(request, **credentials)
-  File "/usr/local/lib/python3.10/site-packages/django/contrib/auth/backends.py", line 42, in authenticate
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/local/lib/python3.12/site-packages/django/contrib/auth/backends.py", line 42, in authenticate
     user = UserModel._default_manager.get_by_natural_key(username)
-  File "/usr/local/lib/python3.10/site-packages/django/contrib/auth/base_user.py", line 37, in get_by_natural_key
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/local/lib/python3.12/site-packages/django/contrib/auth/base_user.py", line 37, in get_by_natural_key
     return self.get(**{self.model.USERNAME_FIELD: username})
-  File "/usr/local/lib/python3.10/site-packages/django/db/models/manager.py", line 87, in manager_method
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/local/lib/python3.12/site-packages/django/db/models/manager.py", line 87, in manager_method
     return getattr(self.get_queryset(), name)(*args, **kwargs)
-  File "/usr/local/lib/python3.10/site-packages/django/db/models/query.py", line 645, in get
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/local/lib/python3.12/site-packages/django/db/models/query.py", line 645, in get
     num = len(clone)
-  File "/usr/local/lib/python3.10/site-packages/django/db/models/query.py", line 382, in __len__
+          ^^^^^^^^^^
+  File "/usr/local/lib/python3.12/site-packages/django/db/models/query.py", line 382, in __len__
     self._fetch_all()
-  File "/usr/local/lib/python3.10/site-packages/django/db/models/query.py", line 1928, in _fetch_all
+  File "/usr/local/lib/python3.12/site-packages/django/db/models/query.py", line 1928, in _fetch_all
     self._result_cache = list(self._iterable_class(self))
-  File "/usr/local/lib/python3.10/site-packages/django/db/models/query.py", line 91, in __iter__
+                         ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/local/lib/python3.12/site-packages/django/db/models/query.py", line 91, in __iter__
     results = compiler.execute_sql(
-  File "/usr/local/lib/python3.10/site-packages/django/db/models/sql/compiler.py", line 1574, in execute_sql
+              ^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/local/lib/python3.12/site-packages/django/db/models/sql/compiler.py", line 1574, in execute_sql
     cursor.execute(sql, params)
-  File "/usr/local/lib/python3.10/site-packages/django/db/backends/utils.py", line 122, in execute
+  File "/usr/local/lib/python3.12/site-packages/django/db/backends/utils.py", line 122, in execute
     return super().execute(sql, params)
-  File "/usr/local/lib/python3.10/site-packages/django/db/backends/utils.py", line 79, in execute
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/local/lib/python3.12/site-packages/django/db/backends/utils.py", line 79, in execute
     return self._execute_with_wrappers(
-  File "/usr/local/lib/python3.10/site-packages/django/db/backends/utils.py", line 92, in _execute_with_wrappers
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/local/lib/python3.12/site-packages/django/db/backends/utils.py", line 92, in _execute_with_wrappers
     return executor(sql, params, many, context)
-  File "/usr/local/lib/python3.10/site-packages/django/db/backends/utils.py", line 100, in _execute
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/local/lib/python3.12/site-packages/django/db/backends/utils.py", line 100, in _execute
     with self.db.wrap_database_errors:
-  File "/usr/local/lib/python3.10/site-packages/django/db/utils.py", line 91, in __exit__
+         ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/local/lib/python3.12/site-packages/django/db/utils.py", line 91, in __exit__
     raise dj_exc_value.with_traceback(traceback) from exc_value
-  File "/usr/local/lib/python3.10/site-packages/django/db/backends/utils.py", line 105, in _execute
+  File "/usr/local/lib/python3.12/site-packages/django/db/backends/utils.py", line 105, in _execute
     return self.cursor.execute(sql, params)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 django.db.utils.ProgrammingError: relation "auth_user" does not exist
 LINE 1: ...user"."is_active", "auth_user"."date_joined" FROM "auth_user...
                                                              ^
 
-2024-09-17 02:20:49,509 - INFO - Middleware: Interceptando resposta
-2024-09-17 02:21:48,366 - INFO - Watching for file changes with StatReloader
-2024-09-17 02:28:30,597 - INFO - Watching for file changes with StatReloader
-2024-09-17 02:28:36,128 - INFO - Middleware: Interceptando requisição
-2024-09-17 02:28:36,147 - INFO - Middleware: Interceptando resposta
-2024-09-17 02:28:36,157 - INFO - Middleware: Interceptando requisição
-2024-09-17 02:28:36,194 - INFO - Middleware: Interceptando resposta
-2024-09-17 02:28:42,636 - INFO - Middleware: Interceptando requisição
-2024-09-17 02:28:43,100 - INFO - Middleware: Interceptando resposta
-2024-09-17 02:28:43,114 - INFO - Middleware: Interceptando requisição
-2024-09-17 02:28:43,152 - INFO - Middleware: Interceptando resposta
-2024-09-17 02:28:56,240 - INFO - Middleware: Interceptando requisição
-2024-09-17 02:28:56,624 - INFO - Middleware: Interceptando resposta
-2024-09-17 02:29:10,827 - INFO - Middleware: Interceptando requisição
-2024-09-17 02:29:10,847 - INFO - Middleware: Interceptando resposta
-2024-09-17 02:29:37,635 - INFO - Middleware: Interceptando requisição
-2024-09-17 02:29:37,649 - INFO - Middleware: Interceptando resposta
-2024-09-17 02:29:37,651 - WARNING - Bad Request: /api/post/
-2024-09-17 02:30:02,932 - INFO - Middleware: Interceptando requisição
-2024-09-17 02:30:02,941 - INFO - Novo kotlin 
-2024-09-17 02:30:02,948 - INFO - Middleware: Interceptando resposta
-2024-09-17 02:30:10,488 - INFO - Middleware: Interceptando requisição
-2024-09-17 02:30:10,497 - INFO - Novo python 
-2024-09-17 02:30:10,500 - INFO - Middleware: Interceptando resposta
-2024-09-17 02:30:14,484 - INFO - Middleware: Interceptando requisição
-2024-09-17 02:30:14,494 - INFO - Novo java 
-2024-09-17 02:30:14,499 - INFO - Middleware: Interceptando resposta
-2024-09-17 02:30:24,458 - INFO - Middleware: Interceptando requisição
-2024-09-17 02:30:24,473 - INFO - Novo 982375982 fsdnm fiosdhfoishdoifh
-2024-09-17 02:30:24,479 - INFO - Middleware: Interceptando resposta
-2024-09-17 02:30:32,760 - INFO - Middleware: Interceptando requisição
-2024-09-17 02:30:32,762 - INFO - Middleware: Interceptando resposta
-2024-09-17 02:30:32,762 - WARNING - Unauthorized: /api/comment/
-2024-09-17 02:30:38,385 - INFO - Middleware: Interceptando requisição
-2024-09-17 02:30:38,400 - INFO - Novo 1
-2024-09-17 02:30:38,407 - INFO - Middleware: Interceptando resposta
-2024-09-17 02:30:42,937 - INFO - Middleware: Interceptando requisição
-2024-09-17 02:30:42,947 - INFO - Middleware: Interceptando resposta
-2024-09-17 02:30:48,061 - INFO - Middleware: Interceptando requisição
-2024-09-17 02:30:48,075 - INFO - Middleware: Interceptando resposta
-2024-09-17 02:30:56,138 - INFO - Middleware: Interceptando requisição
-2024-09-17 02:30:56,150 - INFO - Middleware: Interceptando resposta
-2024-09-17 02:43:00,878 - INFO - Watching for file changes with StatReloader
-2024-09-17 02:44:02,038 - INFO - Watching for file changes with StatReloader
-2024-09-17 02:47:25,725 - INFO - Watching for file changes with StatReloader
-2024-09-17 02:49:51,969 - INFO - Watching for file changes with StatReloader
-2024-09-17 02:51:04,906 - INFO - Watching for file changes with StatReloader
-2024-09-17 02:54:52,593 - INFO - Watching for file changes with StatReloader
-2024-09-17 02:57:15,547 - INFO - Watching for file changes with StatReloader
-2024-09-17 02:57:18,175 - INFO - Middleware: Interceptando requisição
-2024-09-17 02:57:18,576 - INFO - Middleware: Interceptando resposta
-2024-09-17 02:58:07,229 - INFO - Middleware: Interceptando requisição
-2024-09-17 02:58:07,245 - INFO - Middleware: Interceptando resposta
-2024-09-17 17:28:08,284 - INFO - Watching for file changes with StatReloader
-2024-09-17 17:28:23,466 - INFO - Middleware: Interceptando requisição
-2024-09-17 17:28:23,503 - INFO - Middleware: Interceptando resposta
-2024-09-17 17:28:23,514 - INFO - Middleware: Interceptando requisição
-2024-09-17 17:28:23,574 - INFO - Middleware: Interceptando resposta
-2024-09-17 17:28:23,906 - INFO - Middleware: Interceptando requisição
-2024-09-17 17:28:23,915 - INFO - Middleware: Interceptando resposta
-2024-09-17 17:28:23,916 - WARNING - Not Found: /favicon.ico
-2024-09-17 17:28:30,600 - INFO - Middleware: Interceptando requisição
-2024-09-17 17:28:31,003 - INFO - Middleware: Interceptando resposta
-2024-09-17 17:28:31,015 - INFO - Middleware: Interceptando requisição
-2024-09-17 17:28:31,046 - INFO - Middleware: Interceptando resposta
-2024-09-17 17:30:02,460 - INFO - Middleware: Interceptando requisição
-2024-09-17 17:30:02,844 - INFO - Middleware: Interceptando resposta
-2024-09-17 17:30:10,065 - INFO - Middleware: Interceptando requisição
-2024-09-17 17:30:10,081 - INFO - Middleware: Interceptando resposta
-2024-09-17 18:21:53,416 - INFO - Watching for file changes with StatReloader
-2024-09-17 18:23:10,023 - INFO - Middleware: Interceptando requisição
-2024-09-17 18:23:10,392 - INFO - Middleware: Interceptando resposta
-2024-09-17 18:23:18,757 - INFO - Middleware: Interceptando requisição
-2024-09-17 18:23:18,771 - INFO - Middleware: Interceptando resposta
-2024-09-17 18:24:12,859 - INFO - Middleware: Interceptando requisição
-2024-09-17 18:24:12,868 - INFO - Novo java 
-2024-09-17 18:24:12,877 - INFO - Middleware: Interceptando resposta
-2024-09-17 18:24:20,700 - INFO - Middleware: Interceptando requisição
-2024-09-17 18:24:20,712 - INFO - Novo python 
-2024-09-17 18:24:20,717 - INFO - Middleware: Interceptando resposta
-2024-09-17 18:24:27,629 - INFO - Middleware: Interceptando requisição
-2024-09-17 18:24:27,639 - INFO - Novo kotlin 
-2024-09-17 18:24:27,644 - INFO - Middleware: Interceptando resposta
-2024-09-17 18:24:43,482 - INFO - Middleware: Interceptando requisição
-2024-09-17 18:24:43,497 - INFO - Novo 982375982 fsdnm fiosdhfoishdoifh
-2024-09-17 18:24:43,503 - INFO - Middleware: Interceptando resposta
-2024-09-17 18:24:48,991 - INFO - Middleware: Interceptando requisição
-2024-09-17 18:24:49,007 - INFO - Novo 982375982 fsdnm fiosdhfoishdoifh
-2024-09-17 18:24:49,011 - INFO - Middleware: Interceptando resposta
-2024-09-17 18:24:53,566 - INFO - Middleware: Interceptando requisição
-2024-09-17 18:24:53,588 - INFO - Novo 982375982 fsdnm fiosdhfoishdoifh
-2024-09-17 18:24:53,593 - INFO - Middleware: Interceptando resposta
-2024-09-17 18:25:20,728 - INFO - Middleware: Interceptando requisição
-2024-09-17 18:25:20,739 - INFO - Novo 1
-2024-09-17 18:25:20,744 - INFO - Middleware: Interceptando resposta
-2024-09-17 18:25:28,613 - INFO - Middleware: Interceptando requisição
-2024-09-17 18:25:28,629 - INFO - Middleware: Interceptando resposta
-2024-09-17 18:25:55,428 - INFO - Middleware: Interceptando requisição
-2024-09-17 18:25:55,468 - DEBUG - STREAM b'IHDR' 16 13
-2024-09-17 18:25:55,469 - DEBUG - STREAM b'sBIT' 41 4
-2024-09-17 18:25:55,469 - DEBUG - b'sBIT' 41 4 (unknown)
-2024-09-17 18:25:55,470 - DEBUG - STREAM b'tEXt' 57 25
-2024-09-17 18:25:55,471 - DEBUG - STREAM b'tEXt' 94 38
-2024-09-17 18:25:55,472 - DEBUG - STREAM b'IDAT' 144 8192
-2024-09-17 18:25:55,473 - DEBUG - Importing BlpImagePlugin
-2024-09-17 18:25:55,476 - DEBUG - Importing BmpImagePlugin
-2024-09-17 18:25:55,476 - DEBUG - Importing BufrStubImagePlugin
-2024-09-17 18:25:55,479 - DEBUG - Importing CurImagePlugin
-2024-09-17 18:25:55,480 - DEBUG - Importing DcxImagePlugin
-2024-09-17 18:25:55,483 - DEBUG - Importing DdsImagePlugin
-2024-09-17 18:25:55,492 - DEBUG - Importing EpsImagePlugin
-2024-09-17 18:25:55,494 - DEBUG - Importing FitsImagePlugin
-2024-09-17 18:25:55,495 - DEBUG - Importing FliImagePlugin
-2024-09-17 18:25:55,497 - DEBUG - Importing FpxImagePlugin
-2024-09-17 18:25:55,499 - DEBUG - Image: failed to import FpxImagePlugin: No module named 'olefile'
-2024-09-17 18:25:55,500 - DEBUG - Importing FtexImagePlugin
-2024-09-17 18:25:55,502 - DEBUG - Importing GbrImagePlugin
-2024-09-17 18:25:55,503 - DEBUG - Importing GifImagePlugin
-2024-09-17 18:25:55,504 - DEBUG - Importing GribStubImagePlugin
-2024-09-17 18:25:55,505 - DEBUG - Importing Hdf5StubImagePlugin
-2024-09-17 18:25:55,506 - DEBUG - Importing IcnsImagePlugin
-2024-09-17 18:25:55,510 - DEBUG - Importing IcoImagePlugin
-2024-09-17 18:25:55,513 - DEBUG - Importing ImImagePlugin
-2024-09-17 18:25:55,515 - DEBUG - Importing ImtImagePlugin
-2024-09-17 18:25:55,517 - DEBUG - Importing IptcImagePlugin
-2024-09-17 18:25:55,519 - DEBUG - Importing JpegImagePlugin
-2024-09-17 18:25:55,519 - DEBUG - Importing Jpeg2KImagePlugin
-2024-09-17 18:25:55,520 - DEBUG - Importing McIdasImagePlugin
-2024-09-17 18:25:55,522 - DEBUG - Importing MicImagePlugin
-2024-09-17 18:25:55,524 - DEBUG - Image: failed to import MicImagePlugin: No module named 'olefile'
-2024-09-17 18:25:55,525 - DEBUG - Importing MpegImagePlugin
-2024-09-17 18:25:55,527 - DEBUG - Importing MpoImagePlugin
-2024-09-17 18:25:55,533 - DEBUG - Importing MspImagePlugin
-2024-09-17 18:25:55,534 - DEBUG - Importing PalmImagePlugin
-2024-09-17 18:25:55,536 - DEBUG - Importing PcdImagePlugin
-2024-09-17 18:25:55,537 - DEBUG - Importing PcxImagePlugin
-2024-09-17 18:25:55,539 - DEBUG - Importing PdfImagePlugin
-2024-09-17 18:25:55,555 - DEBUG - Importing PixarImagePlugin
-2024-09-17 18:25:55,556 - DEBUG - Importing PngImagePlugin
-2024-09-17 18:25:55,556 - DEBUG - Importing PpmImagePlugin
-2024-09-17 18:25:55,558 - DEBUG - Importing PsdImagePlugin
-2024-09-17 18:25:55,560 - DEBUG - Importing QoiImagePlugin
-2024-09-17 18:25:55,562 - DEBUG - Importing SgiImagePlugin
-2024-09-17 18:25:55,564 - DEBUG - Importing SpiderImagePlugin
-2024-09-17 18:25:55,565 - DEBUG - Importing SunImagePlugin
-2024-09-17 18:25:55,566 - DEBUG - Importing TgaImagePlugin
-2024-09-17 18:25:55,568 - DEBUG - Importing TiffImagePlugin
-2024-09-17 18:25:55,568 - DEBUG - Importing WebPImagePlugin
-2024-09-17 18:25:55,572 - DEBUG - Importing WmfImagePlugin
-2024-09-17 18:25:55,574 - DEBUG - Importing XbmImagePlugin
-2024-09-17 18:25:55,576 - DEBUG - Importing XpmImagePlugin
-2024-09-17 18:25:55,578 - DEBUG - Importing XVThumbImagePlugin
-2024-09-17 18:25:55,583 - INFO - Novo 982375982 fsdnm fiosdhfoishdoifh
-2024-09-17 18:25:55,624 - INFO - Middleware: Interceptando resposta
-2024-09-17 18:36:00,965 - INFO - Watching for file changes with StatReloader
-2024-09-17 18:39:32,016 - INFO - Watching for file changes with StatReloader
-2024-09-17 18:40:21,493 - INFO - Watching for file changes with StatReloader
-2024-09-17 18:40:31,345 - INFO - Middleware: Interceptando requisição
-2024-09-17 18:40:31,375 - INFO - Middleware: Interceptando resposta
-2024-09-17 18:40:31,383 - INFO - Middleware: Interceptando requisição
-2024-09-17 18:40:31,415 - INFO - Middleware: Interceptando resposta
-2024-09-17 18:40:32,377 - INFO - Middleware: Interceptando requisição
-2024-09-17 18:40:32,386 - INFO - Middleware: Interceptando resposta
-2024-09-17 18:40:37,618 - INFO - Middleware: Interceptando requisição
-2024-09-17 18:40:38,177 - INFO - Middleware: Interceptando resposta
-2024-09-17 18:40:38,284 - INFO - Middleware: Interceptando requisição
-2024-09-17 18:40:38,337 - INFO - Middleware: Interceptando resposta
-2024-09-17 18:43:46,719 - INFO - Watching for file changes with StatReloader
-2024-09-17 18:45:12,370 - INFO - Watching for file changes with StatReloader
-2024-09-17 18:46:40,989 - INFO - Watching for file changes with StatReloader
-2024-09-17 18:49:23,134 - INFO - Watching for file changes with StatReloader
-2024-09-17 18:50:43,475 - INFO - Watching for file changes with StatReloader
-2024-09-17 18:51:12,334 - INFO - Watching for file changes with StatReloader
-2024-09-17 18:51:32,594 - INFO - Watching for file changes with StatReloader
-2024-09-17 18:53:36,354 - INFO - Watching for file changes with StatReloader
-2024-09-17 18:54:18,973 - INFO - Watching for file changes with StatReloader
-2024-09-17 18:54:39,030 - INFO - Middleware: Interceptando requisição
-2024-09-17 18:54:39,055 - INFO - Middleware: Interceptando resposta
-2024-09-17 18:54:39,062 - INFO - Middleware: Interceptando requisição
-2024-09-17 18:54:39,088 - INFO - Middleware: Interceptando resposta
-2024-09-17 18:54:46,395 - INFO - Middleware: Interceptando requisição
-2024-09-17 18:54:46,801 - INFO - Middleware: Interceptando resposta
-2024-09-17 18:54:46,813 - INFO - Middleware: Interceptando requisição
-2024-09-17 18:54:46,846 - INFO - Middleware: Interceptando resposta
-2024-09-17 18:59:11,569 - INFO - Watching for file changes with StatReloader
-2024-09-17 18:59:44,261 - INFO - Watching for file changes with StatReloader
-2024-09-17 19:01:11,989 - INFO - Watching for file changes with StatReloader
-2024-09-17 19:03:15,611 - INFO - Watching for file changes with StatReloader
-2024-09-17 19:04:07,751 - INFO - Watching for file changes with StatReloader
-2024-09-17 19:04:28,278 - INFO - Middleware: Interceptando requisição
-2024-09-17 19:04:28,324 - INFO - Middleware: Interceptando resposta
-2024-09-17 19:04:28,331 - INFO - Middleware: Interceptando requisição
-2024-09-17 19:04:28,373 - INFO - Middleware: Interceptando resposta
-2024-09-17 19:04:33,392 - INFO - Middleware: Interceptando requisição
-2024-09-17 19:04:33,839 - INFO - Middleware: Interceptando resposta
-2024-09-17 19:04:33,851 - INFO - Middleware: Interceptando requisição
-2024-09-17 19:04:33,885 - INFO - Middleware: Interceptando resposta
-2024-09-17 19:07:02,392 - INFO - Watching for file changes with StatReloader
-2024-09-17 19:07:33,088 - INFO - Watching for file changes with StatReloader
-2024-09-17 19:07:41,766 - INFO - Middleware: Interceptando requisição
-2024-09-17 19:07:41,834 - INFO - Middleware: Interceptando resposta
-2024-09-17 19:07:42,431 - INFO - Middleware: Interceptando requisição
-2024-09-17 19:07:42,466 - INFO - Middleware: Interceptando resposta
-2024-09-17 19:07:42,702 - INFO - Middleware: Interceptando requisição
-2024-09-17 19:07:42,728 - INFO - Middleware: Interceptando resposta
-2024-09-17 19:07:42,865 - INFO - Middleware: Interceptando requisição
-2024-09-17 19:07:42,895 - INFO - Middleware: Interceptando resposta
-2024-09-17 19:09:41,666 - INFO - Middleware: Interceptando requisição
-2024-09-17 19:09:41,707 - INFO - Middleware: Interceptando resposta
-2024-09-17 19:09:41,795 - INFO - Middleware: Interceptando requisição
-2024-09-17 19:09:41,844 - INFO - Middleware: Interceptando resposta
-2024-09-17 19:09:43,689 - INFO - Middleware: Interceptando requisição
-2024-09-17 19:09:43,714 - INFO - Middleware: Interceptando resposta
-2024-09-17 19:09:43,803 - INFO - Middleware: Interceptando requisição
-2024-09-17 19:09:43,820 - INFO - Middleware: Interceptando resposta
-2024-09-17 19:09:45,073 - INFO - Middleware: Interceptando requisição
-2024-09-17 19:09:45,105 - INFO - Middleware: Interceptando resposta
-2024-09-17 19:09:45,152 - INFO - Middleware: Interceptando requisição
-2024-09-17 19:09:45,169 - INFO - Middleware: Interceptando resposta
-2024-09-17 19:09:46,737 - INFO - Middleware: Interceptando requisição
-2024-09-17 19:09:46,811 - INFO - Middleware: Interceptando resposta
-2024-09-17 19:09:46,862 - INFO - Middleware: Interceptando requisição
-2024-09-17 19:09:46,876 - INFO - Middleware: Interceptando resposta
-2024-09-17 19:09:48,305 - INFO - Middleware: Interceptando requisição
-2024-09-17 19:09:48,331 - INFO - Middleware: Interceptando resposta
-2024-09-17 19:09:48,380 - INFO - Middleware: Interceptando requisição
-2024-09-17 19:09:48,394 - INFO - Middleware: Interceptando resposta
-2024-09-17 19:09:51,564 - INFO - Middleware: Interceptando requisição
-2024-09-17 19:09:51,585 - INFO - Middleware: Interceptando resposta
-2024-09-17 19:09:51,592 - INFO - Middleware: Interceptando requisição
-2024-09-17 19:09:51,623 - INFO - Middleware: Interceptando resposta
-2024-09-17 19:09:51,702 - INFO - Middleware: Interceptando requisição
-2024-09-17 19:09:51,720 - INFO - Middleware: Interceptando resposta
-2024-09-17 19:10:24,263 - INFO - Watching for file changes with StatReloader
-2024-09-17 19:10:40,860 - INFO - Watching for file changes with StatReloader
-2024-09-17 19:37:59,762 - INFO - Watching for file changes with StatReloader
-2024-09-17 19:39:02,609 - INFO - Watching for file changes with StatReloader
-2024-09-17 20:14:36,743 - INFO - Watching for file changes with StatReloader
-2024-09-17 20:15:34,262 - INFO - Watching for file changes with StatReloader
-2024-09-17 20:16:55,970 - INFO - Watching for file changes with StatReloader
-2024-09-17 20:39:36,154 - INFO - Watching for file changes with StatReloader
-2024-09-17 21:03:33,358 - INFO - Watching for file changes with StatReloader
-2024-09-17 21:06:57,756 - INFO - Watching for file changes with StatReloader
-2024-09-17 21:10:41,244 - INFO - Middleware: Interceptando requisição
-2024-09-17 21:10:41,272 - INFO - Middleware: Interceptando resposta
-2024-09-17 21:10:41,285 - INFO - Middleware: Interceptando requisição
-2024-09-17 21:10:41,317 - INFO - Middleware: Interceptando resposta
-2024-09-17 21:10:46,033 - INFO - Middleware: Interceptando requisição
-2024-09-17 21:10:46,435 - INFO - Middleware: Interceptando resposta
-2024-09-17 21:10:46,447 - INFO - Middleware: Interceptando requisição
-2024-09-17 21:10:46,475 - INFO - Middleware: Interceptando resposta
-2024-09-17 21:15:00,765 - INFO - Middleware: Interceptando requisição
-2024-09-17 21:15:00,786 - INFO - Middleware: Interceptando resposta
-2024-09-17 21:26:20,162 - INFO - Watching for file changes with StatReloader
-2024-09-18 00:17:00,837 - INFO - Watching for file changes with StatReloader
-2024-09-18 00:44:15,764 - INFO - Watching for file changes with StatReloader
-2024-09-18 00:44:46,705 - INFO - Watching for file changes with StatReloader
-2024-09-18 00:44:50,998 - INFO - Middleware: Interceptando requisição
-2024-09-18 00:44:51,635 - INFO - Middleware: Interceptando resposta
-2024-09-18 00:44:51,643 - INFO - Middleware: Interceptando requisição
-2024-09-18 00:44:51,682 - INFO - Middleware: Interceptando resposta
-2024-09-18 00:44:52,371 - INFO - Middleware: Interceptando requisição
-2024-09-18 00:44:52,535 - INFO - Middleware: Interceptando resposta
-2024-09-18 00:44:52,536 - WARNING - Not Found: /favicon.ico
-2024-09-18 00:44:56,925 - INFO - Middleware: Interceptando requisição
-2024-09-18 00:44:57,539 - INFO - Middleware: Interceptando resposta
-2024-09-18 00:44:57,641 - INFO - Middleware: Interceptando requisição
-2024-09-18 00:44:57,680 - INFO - Middleware: Interceptando resposta
-2024-09-18 00:46:27,696 - INFO - Middleware: Interceptando requisição
-2024-09-18 00:46:27,761 - INFO - Middleware: Interceptando resposta
-2024-09-18 00:46:27,826 - INFO - Middleware: Interceptando requisição
-2024-09-18 00:46:27,888 - INFO - Middleware: Interceptando resposta
-2024-09-18 00:46:32,548 - INFO - Middleware: Interceptando requisição
-2024-09-18 00:46:32,689 - INFO - Middleware: Interceptando resposta
-2024-09-18 00:46:32,743 - INFO - Middleware: Interceptando requisição
-2024-09-18 00:46:32,769 - INFO - Middleware: Interceptando resposta
-2024-09-18 00:48:04,226 - INFO - Middleware: Interceptando requisição
-2024-09-18 00:48:04,277 - INFO - Middleware: Interceptando resposta
-2024-09-18 00:48:04,347 - INFO - Middleware: Interceptando requisição
-2024-09-18 00:48:04,366 - INFO - Middleware: Interceptando resposta
-2024-09-18 00:48:05,698 - INFO - Middleware: Interceptando requisição
-2024-09-18 00:48:05,736 - INFO - Middleware: Interceptando resposta
-2024-09-18 00:48:05,811 - INFO - Middleware: Interceptando requisição
-2024-09-18 00:48:05,837 - INFO - Middleware: Interceptando resposta
-2024-09-18 00:48:06,935 - INFO - Middleware: Interceptando requisição
-2024-09-18 00:48:06,970 - INFO - Middleware: Interceptando resposta
-2024-09-18 00:48:07,021 - INFO - Middleware: Interceptando requisição
-2024-09-18 00:48:07,046 - INFO - Middleware: Interceptando resposta
-2024-09-22 20:00:52,993 - INFO - Watching for file changes with StatReloader
-2024-09-22 20:01:28,298 - INFO - Middleware: Interceptando requisição
-2024-09-22 20:01:28,462 - INFO - Middleware: Interceptando resposta
-2024-09-22 20:01:29,142 - INFO - Middleware: Interceptando requisição
-2024-09-22 20:01:29,153 - INFO - Middleware: Interceptando resposta
-2024-09-22 20:01:29,160 - WARNING - Not Found: /favicon.ico
-2024-09-22 20:03:01,143 - INFO - Middleware: Interceptando requisição
-2024-09-22 20:03:01,521 - INFO - Middleware: Interceptando resposta
-2024-09-22 20:03:01,522 - WARNING - Unauthorized: /api/token/
-2024-09-22 20:03:18,230 - INFO - Middleware: Interceptando requisição
-2024-09-22 20:03:18,617 - INFO - Middleware: Interceptando resposta
-2024-09-22 20:03:32,248 - INFO - Middleware: Interceptando requisição
-2024-09-22 20:03:32,266 - INFO - Middleware: Interceptando resposta
-2024-09-22 20:06:07,627 - INFO - Middleware: Interceptando requisição
-2024-09-22 20:06:07,642 - INFO - Middleware: Interceptando resposta
-2024-09-22 20:06:53,668 - INFO - Middleware: Interceptando requisição
-2024-09-22 20:06:53,677 - INFO - Novo python 
-2024-09-22 20:06:53,686 - INFO - Middleware: Interceptando resposta
-2024-09-22 20:07:01,907 - INFO - Middleware: Interceptando requisição
-2024-09-22 20:07:01,917 - INFO - Novo java 
-2024-09-22 20:07:01,921 - INFO - Middleware: Interceptando resposta
-2024-09-22 20:07:12,738 - INFO - Middleware: Interceptando requisição
-2024-09-22 20:07:12,756 - INFO - Novo teste 01
-2024-09-22 20:07:12,765 - INFO - Middleware: Interceptando resposta
-2024-09-22 20:07:20,482 - INFO - Middleware: Interceptando requisição
-2024-09-22 20:07:20,496 - INFO - Novo teste 02
-2024-09-22 20:07:20,501 - INFO - Middleware: Interceptando resposta
-2024-09-22 20:07:42,184 - INFO - Middleware: Interceptando requisição
-2024-09-22 20:07:42,187 - INFO - Middleware: Interceptando resposta
-2024-09-22 20:07:42,188 - WARNING - Unauthorized: /api/comment/
-2024-09-22 20:07:48,320 - INFO - Middleware: Interceptando requisição
-2024-09-22 20:07:48,334 - INFO - Novo 1
-2024-09-22 20:07:48,341 - INFO - Middleware: Interceptando resposta
-2024-09-22 20:07:54,300 - INFO - Middleware: Interceptando requisição
-2024-09-22 20:07:54,321 - INFO - Novo 2
-2024-09-22 20:07:54,328 - INFO - Middleware: Interceptando resposta
-2024-09-22 20:07:58,570 - INFO - Middleware: Interceptando requisição
-2024-09-22 20:07:58,582 - INFO - Middleware: Interceptando resposta
-2024-09-22 20:08:05,192 - INFO - Middleware: Interceptando requisição
-2024-09-22 20:08:05,206 - INFO - Middleware: Interceptando resposta
-2024-09-22 20:08:11,296 - INFO - Middleware: Interceptando requisição
-2024-09-22 20:08:11,314 - INFO - Middleware: Interceptando resposta
-2024-09-22 20:56:50,022 - INFO - Watching for file changes with StatReloader
-2024-09-22 20:57:41,732 - INFO - Middleware: Interceptando requisição
-2024-09-22 20:57:42,153 - INFO - Middleware: Interceptando resposta
-2024-09-22 21:21:10,737 - INFO - Middleware: Interceptando requisição
-2024-09-22 21:21:10,741 - INFO - Novo Nova Categoria
-2024-09-22 21:21:10,744 - INFO - Middleware: Interceptando resposta
-2024-09-22 21:21:11,088 - INFO - Middleware: Interceptando requisição
-2024-09-22 21:21:11,090 - INFO - Middleware: Interceptando resposta
-2024-09-22 21:21:11,090 - WARNING - Unauthorized: /api/category/
-2024-09-22 21:21:11,426 - INFO - Middleware: Interceptando requisição
-2024-09-22 21:21:11,430 - INFO - Middleware: Interceptando resposta
-2024-09-22 21:21:11,769 - INFO - Middleware: Interceptando requisição
-2024-09-22 21:21:11,773 - INFO - Middleware: Interceptando resposta
-2024-09-22 21:21:12,109 - INFO - Middleware: Interceptando requisição
-2024-09-22 21:21:12,116 - INFO - Middleware: Interceptando resposta
-2024-09-22 21:21:13,960 - INFO - Middleware: Interceptando requisição
-2024-09-22 21:21:13,965 - INFO - Middleware: Interceptando resposta
-2024-09-22 21:21:13,966 - WARNING - Bad Request: /api/post/
-2024-09-22 21:21:14,304 - INFO - Middleware: Interceptando requisição
-2024-09-22 21:21:14,305 - INFO - Middleware: Interceptando resposta
-2024-09-22 21:21:14,305 - WARNING - Unauthorized: /api/post/
-2024-09-22 21:22:25,792 - INFO - Watching for file changes with StatReloader
-2024-09-22 21:23:45,981 - INFO - Middleware: Interceptando requisição
-2024-09-22 21:23:45,985 - INFO - Novo Nova Categoria
-2024-09-22 21:23:45,990 - INFO - Middleware: Interceptando resposta
-2024-09-22 21:23:46,338 - INFO - Middleware: Interceptando requisição
-2024-09-22 21:23:46,339 - INFO - Middleware: Interceptando resposta
-2024-09-22 21:23:46,340 - WARNING - Unauthorized: /api/category/
-2024-09-22 21:23:46,681 - INFO - Middleware: Interceptando requisição
-2024-09-22 21:23:46,687 - INFO - Middleware: Interceptando resposta
-2024-09-22 21:23:47,038 - INFO - Middleware: Interceptando requisição
-2024-09-22 21:23:47,042 - INFO - Middleware: Interceptando resposta
-2024-09-22 21:23:47,383 - INFO - Middleware: Interceptando requisição
-2024-09-22 21:23:47,391 - INFO - Middleware: Interceptando resposta
-2024-09-22 21:23:49,149 - INFO - Middleware: Interceptando requisição
-2024-09-22 21:23:49,155 - INFO - Middleware: Interceptando resposta
-2024-09-22 21:23:49,155 - WARNING - Bad Request: /api/post/
-2024-09-22 21:23:49,500 - INFO - Middleware: Interceptando requisição
-2024-09-22 21:23:49,502 - INFO - Middleware: Interceptando resposta
-2024-09-22 21:23:49,503 - WARNING - Unauthorized: /api/post/
-2024-09-22 21:24:40,795 - INFO - Middleware: Interceptando requisição
-2024-09-22 21:24:40,799 - INFO - Novo Nova Categoria
-2024-09-22 21:24:40,803 - INFO - Middleware: Interceptando resposta
-2024-09-22 21:24:41,159 - INFO - Middleware: Interceptando requisição
-2024-09-22 21:24:41,160 - INFO - Middleware: Interceptando resposta
-2024-09-22 21:24:41,161 - WARNING - Unauthorized: /api/category/
-2024-09-22 21:24:41,507 - INFO - Middleware: Interceptando requisição
-2024-09-22 21:24:41,512 - INFO - Middleware: Interceptando resposta
-2024-09-22 21:24:41,870 - INFO - Middleware: Interceptando requisição
-2024-09-22 21:24:41,875 - INFO - Middleware: Interceptando resposta
-2024-09-22 21:24:42,207 - INFO - Middleware: Interceptando requisição
-2024-09-22 21:24:42,214 - INFO - Middleware: Interceptando resposta
-2024-09-22 21:24:44,029 - INFO - Middleware: Interceptando requisição
-2024-09-22 21:24:44,033 - INFO - Middleware: Interceptando resposta
-2024-09-22 21:24:44,034 - WARNING - Bad Request: /api/post/
-2024-09-22 21:24:44,370 - INFO - Middleware: Interceptando requisição
-2024-09-22 21:24:44,372 - INFO - Middleware: Interceptando resposta
-2024-09-22 21:24:44,373 - WARNING - Unauthorized: /api/post/
-2024-09-22 21:25:30,596 - INFO - Watching for file changes with StatReloader
-2024-09-22 21:25:36,483 - INFO - Middleware: Interceptando requisição
-2024-09-22 21:25:36,488 - INFO - Novo Nova Categoria
-2024-09-22 21:25:36,491 - INFO - Middleware: Interceptando resposta
-2024-09-22 21:25:36,836 - INFO - Middleware: Interceptando requisição
-2024-09-22 21:25:36,838 - INFO - Middleware: Interceptando resposta
-2024-09-22 21:25:36,839 - WARNING - Unauthorized: /api/category/
-2024-09-22 21:25:37,184 - INFO - Middleware: Interceptando requisição
-2024-09-22 21:25:37,190 - INFO - Middleware: Interceptando resposta
-2024-09-22 21:25:37,553 - INFO - Middleware: Interceptando requisição
-2024-09-22 21:25:37,558 - INFO - Middleware: Interceptando resposta
-2024-09-22 21:25:37,957 - INFO - Middleware: Interceptando requisição
-2024-09-22 21:25:37,964 - INFO - Middleware: Interceptando resposta
-2024-09-22 21:25:39,874 - INFO - Middleware: Interceptando requisição
-2024-09-22 21:25:39,879 - INFO - Middleware: Interceptando resposta
-2024-09-22 21:25:39,879 - WARNING - Bad Request: /api/post/
-2024-09-22 21:25:40,239 - INFO - Middleware: Interceptando requisição
-2024-09-22 21:25:40,240 - INFO - Middleware: Interceptando resposta
-2024-09-22 21:25:40,241 - WARNING - Unauthorized: /api/post/
-2024-09-22 21:27:37,914 - INFO - Middleware: Interceptando requisição
-2024-09-22 21:27:37,920 - INFO - Novo Nova Categoria
-2024-09-22 21:27:37,924 - INFO - Middleware: Interceptando resposta
-2024-09-22 21:27:38,305 - INFO - Middleware: Interceptando requisição
-2024-09-22 21:27:38,308 - INFO - Middleware: Interceptando resposta
-2024-09-22 21:27:38,309 - WARNING - Unauthorized: /api/category/
-2024-09-22 21:27:38,672 - INFO - Middleware: Interceptando requisição
-2024-09-22 21:27:38,677 - INFO - Middleware: Interceptando resposta
-2024-09-22 21:27:39,024 - INFO - Middleware: Interceptando requisição
-2024-09-22 21:27:39,028 - INFO - Middleware: Interceptando resposta
-2024-09-22 21:27:39,401 - INFO - Middleware: Interceptando requisição
-2024-09-22 21:27:39,408 - INFO - Middleware: Interceptando resposta
-2024-09-22 21:27:41,310 - INFO - Middleware: Interceptando requisição
-2024-09-22 21:27:41,315 - INFO - Middleware: Interceptando resposta
-2024-09-22 21:27:41,316 - WARNING - Bad Request: /api/post/
-2024-09-22 21:27:41,666 - INFO - Middleware: Interceptando requisição
-2024-09-22 21:27:41,667 - INFO - Middleware: Interceptando resposta
-2024-09-22 21:27:41,668 - WARNING - Unauthorized: /api/post/
-2024-09-22 21:29:43,860 - INFO - Middleware: Interceptando requisição
-2024-09-22 21:29:43,864 - INFO - Novo Nova Categoria
-2024-09-22 21:29:43,867 - INFO - Middleware: Interceptando resposta
-2024-09-22 21:29:44,208 - INFO - Middleware: Interceptando requisição
-2024-09-22 21:29:44,209 - INFO - Middleware: Interceptando resposta
-2024-09-22 21:29:44,209 - WARNING - Unauthorized: /api/category/
-2024-09-22 21:29:44,557 - INFO - Middleware: Interceptando requisição
-2024-09-22 21:29:44,561 - INFO - Middleware: Interceptando resposta
-2024-09-22 21:29:44,940 - INFO - Middleware: Interceptando requisição
-2024-09-22 21:29:44,944 - INFO - Middleware: Interceptando resposta
-2024-09-22 21:29:45,307 - INFO - Middleware: Interceptando requisição
-2024-09-22 21:29:45,315 - INFO - Middleware: Interceptando resposta
-2024-09-22 21:29:47,135 - INFO - Middleware: Interceptando requisição
-2024-09-22 21:29:47,141 - INFO - Middleware: Interceptando resposta
-2024-09-22 21:29:47,142 - WARNING - Bad Request: /api/post/
-2024-09-22 21:29:47,510 - INFO - Middleware: Interceptando requisição
-2024-09-22 21:29:47,511 - INFO - Middleware: Interceptando resposta
-2024-09-22 21:29:47,511 - WARNING - Unauthorized: /api/post/
-2024-09-22 21:30:12,541 - INFO - Middleware: Interceptando requisição
-2024-09-22 21:30:12,547 - INFO - Middleware: Interceptando resposta
-2024-09-22 21:30:12,548 - WARNING - Bad Request: /api/post/
-2024-09-22 21:30:12,902 - INFO - Middleware: Interceptando requisição
-2024-09-22 21:30:12,903 - INFO - Middleware: Interceptando resposta
-2024-09-22 21:30:12,904 - WARNING - Unauthorized: /api/post/
-2024-09-22 21:31:21,230 - INFO - Middleware: Interceptando requisição
-2024-09-22 21:31:21,237 - INFO - Novo Novo Post
-2024-09-22 21:31:21,241 - INFO - Middleware: Interceptando resposta
-2024-09-22 21:31:21,593 - INFO - Middleware: Interceptando requisição
-2024-09-22 21:31:21,594 - INFO - Middleware: Interceptando resposta
-2024-09-22 21:31:21,595 - WARNING - Unauthorized: /api/post/
-2024-09-22 21:31:21,963 - INFO - Middleware: Interceptando requisição
-2024-09-22 21:31:21,968 - INFO - Middleware: Interceptando resposta
-2024-09-22 21:31:22,321 - INFO - Middleware: Interceptando requisição
-2024-09-22 21:31:22,326 - INFO - Middleware: Interceptando resposta
-2024-09-22 21:31:22,695 - INFO - Middleware: Interceptando requisição
-2024-09-22 21:31:22,701 - INFO - Middleware: Interceptando resposta
-2024-09-22 21:33:01,629 - INFO - Middleware: Interceptando requisição
-2024-09-22 21:33:01,635 - INFO - Novo Novo Post
-2024-09-22 21:33:01,640 - INFO - Middleware: Interceptando resposta
-2024-09-22 21:33:02,001 - INFO - Middleware: Interceptando requisição
-2024-09-22 21:33:02,004 - INFO - Middleware: Interceptando resposta
-2024-09-22 21:33:02,005 - WARNING - Unauthorized: /api/post/
-2024-09-22 21:33:02,342 - INFO - Middleware: Interceptando requisição
-2024-09-22 21:33:02,346 - INFO - Middleware: Interceptando resposta
-2024-09-22 21:33:02,687 - INFO - Middleware: Interceptando requisição
-2024-09-22 21:33:02,691 - INFO - Middleware: Interceptando resposta
-2024-09-22 21:33:03,044 - INFO - Middleware: Interceptando requisição
-2024-09-22 21:33:03,050 - INFO - Middleware: Interceptando resposta
-2024-09-22 21:33:58,080 - INFO - Watching for file changes with StatReloader
-2024-09-22 21:34:13,342 - INFO - Middleware: Interceptando requisição
-2024-09-22 21:34:13,349 - INFO - Novo Novo Post
-2024-09-22 21:34:13,355 - INFO - Middleware: Interceptando resposta
-2024-09-22 21:34:13,740 - INFO - Middleware: Interceptando requisição
-2024-09-22 21:34:13,741 - INFO - Middleware: Interceptando resposta
-2024-09-22 21:34:13,742 - WARNING - Unauthorized: /api/post/
-2024-09-22 21:34:58,111 - INFO - Middleware: Interceptando requisição
-2024-09-22 21:34:58,116 - INFO - Novo Novo Post
-2024-09-22 21:34:58,121 - INFO - Middleware: Interceptando resposta
-2024-09-22 21:34:58,506 - INFO - Middleware: Interceptando requisição
-2024-09-22 21:34:58,508 - INFO - Middleware: Interceptando resposta
-2024-09-22 21:34:58,508 - WARNING - Unauthorized: /api/post/
-2024-09-22 21:34:58,907 - INFO - Middleware: Interceptando requisição
-2024-09-22 21:34:58,912 - INFO - Middleware: Interceptando resposta
-2024-09-22 21:34:59,310 - INFO - Middleware: Interceptando requisição
-2024-09-22 21:34:59,316 - INFO - Middleware: Interceptando resposta
-2024-09-22 21:34:59,673 - INFO - Middleware: Interceptando requisição
-2024-09-22 21:34:59,682 - INFO - Middleware: Interceptando resposta
-2024-09-22 21:35:44,730 - INFO - Middleware: Interceptando requisição
-2024-09-22 21:35:44,739 - INFO - Novo Novo Post
-2024-09-22 21:35:44,744 - INFO - Middleware: Interceptando resposta
-2024-09-22 21:35:45,114 - INFO - Middleware: Interceptando requisição
-2024-09-22 21:35:45,116 - INFO - Middleware: Interceptando resposta
-2024-09-22 21:35:45,116 - WARNING - Unauthorized: /api/post/
-2024-09-22 21:35:45,487 - INFO - Middleware: Interceptando requisição
-2024-09-22 21:35:45,492 - INFO - Middleware: Interceptando resposta
-2024-09-22 21:35:45,841 - INFO - Middleware: Interceptando requisição
-2024-09-22 21:35:45,845 - INFO - Middleware: Interceptando resposta
-2024-09-22 21:35:46,259 - INFO - Middleware: Interceptando requisição
-2024-09-22 21:35:46,261 - INFO - Middleware: Interceptando resposta
-2024-09-22 21:35:46,261 - WARNING - Unauthorized: /api/post/4/
-2024-09-22 21:35:46,678 - INFO - Middleware: Interceptando requisição
-2024-09-22 21:35:46,687 - INFO - Middleware: Interceptando resposta
-2024-09-22 21:36:57,298 - INFO - Middleware: Interceptando requisição
-2024-09-22 21:36:57,312 - INFO - Novo 1
-2024-09-22 21:36:57,318 - INFO - Middleware: Interceptando resposta
-2024-09-22 21:36:57,689 - INFO - Middleware: Interceptando requisição
-2024-09-22 21:36:57,693 - INFO - Middleware: Interceptando resposta
-2024-09-22 21:36:58,050 - INFO - Middleware: Interceptando requisição
-2024-09-22 21:36:58,055 - INFO - Middleware: Interceptando resposta
-2024-09-22 21:36:58,405 - INFO - Middleware: Interceptando requisição
-2024-09-22 21:36:58,410 - INFO - Middleware: Interceptando resposta
-2024-09-22 21:36:58,761 - INFO - Middleware: Interceptando requisição
-2024-09-22 21:36:58,766 - INFO - Novo Novo Post
-2024-09-22 21:36:58,770 - INFO - Middleware: Interceptando resposta
-2024-09-22 21:36:59,155 - INFO - Middleware: Interceptando requisição
-2024-09-22 21:36:59,159 - INFO - Middleware: Interceptando resposta
-2024-09-22 21:36:59,518 - INFO - Middleware: Interceptando requisição
-2024-09-22 21:36:59,523 - INFO - Middleware: Interceptando resposta
-2024-09-22 21:36:59,863 - INFO - Middleware: Interceptando requisição
-2024-09-22 21:36:59,869 - INFO - Middleware: Interceptando resposta
-2024-09-22 21:37:43,594 - INFO - Middleware: Interceptando requisição
-2024-09-22 21:37:43,597 - INFO - Novo Nova Categoria
-2024-09-22 21:37:43,601 - INFO - Middleware: Interceptando resposta
-2024-09-22 21:37:43,988 - INFO - Middleware: Interceptando requisição
-2024-09-22 21:37:43,992 - INFO - Middleware: Interceptando resposta
-2024-09-22 21:37:44,355 - INFO - Middleware: Interceptando requisição
-2024-09-22 21:37:44,359 - INFO - Middleware: Interceptando resposta
-2024-09-22 21:37:44,709 - INFO - Middleware: Interceptando requisição
-2024-09-22 21:37:44,716 - INFO - Middleware: Interceptando resposta
-2024-09-22 21:37:45,093 - INFO - Middleware: Interceptando requisição
-2024-09-22 21:37:45,101 - INFO - Novo 1
-2024-09-22 21:37:45,105 - INFO - Middleware: Interceptando resposta
-2024-09-22 21:37:45,456 - INFO - Middleware: Interceptando requisição
-2024-09-22 21:37:45,462 - INFO - Middleware: Interceptando resposta
-2024-09-22 21:37:45,821 - INFO - Middleware: Interceptando requisição
-2024-09-22 21:37:45,825 - INFO - Middleware: Interceptando resposta
-2024-09-22 21:37:46,175 - INFO - Middleware: Interceptando requisição
-2024-09-22 21:37:46,182 - INFO - Middleware: Interceptando resposta
-2024-09-22 21:37:46,565 - INFO - Middleware: Interceptando requisição
-2024-09-22 21:37:46,571 - INFO - Novo Novo Post
-2024-09-22 21:37:46,575 - INFO - Middleware: Interceptando resposta
-2024-09-22 21:37:46,932 - INFO - Middleware: Interceptando requisição
-2024-09-22 21:37:46,940 - INFO - Middleware: Interceptando resposta
-2024-09-22 21:37:47,310 - INFO - Middleware: Interceptando requisição
-2024-09-22 21:37:47,315 - INFO - Middleware: Interceptando resposta
-2024-09-22 21:37:47,669 - INFO - Middleware: Interceptando requisição
-2024-09-22 21:37:47,676 - INFO - Middleware: Interceptando resposta
-2024-09-22 21:46:01,493 - INFO - Watching for file changes with StatReloader
-2024-09-22 21:46:49,282 - INFO - Middleware: Interceptando requisição
-2024-09-22 21:46:49,287 - INFO - Novo Nova Categoria
-2024-09-22 21:46:49,293 - INFO - Middleware: Interceptando resposta
-2024-09-22 21:46:49,658 - INFO - Middleware: Interceptando requisição
-2024-09-22 21:46:49,662 - INFO - Middleware: Interceptando resposta
-2024-09-22 21:46:50,033 - INFO - Middleware: Interceptando requisição
-2024-09-22 21:46:50,039 - INFO - Middleware: Interceptando resposta
-2024-09-22 21:46:50,408 - INFO - Middleware: Interceptando requisição
-2024-09-22 21:46:50,413 - INFO - Middleware: Interceptando resposta
-2024-09-22 21:46:50,809 - INFO - Middleware: Interceptando requisição
-2024-09-22 21:46:50,817 - INFO - Novo 1
-2024-09-22 21:46:50,822 - INFO - Middleware: Interceptando resposta
-2024-09-22 21:46:51,196 - INFO - Middleware: Interceptando requisição
-2024-09-22 21:46:51,201 - INFO - Middleware: Interceptando resposta
-2024-09-22 21:46:51,574 - INFO - Middleware: Interceptando requisição
-2024-09-22 21:46:51,578 - INFO - Middleware: Interceptando resposta
-2024-09-22 21:46:51,964 - INFO - Middleware: Interceptando requisição
-2024-09-22 21:46:51,973 - INFO - Middleware: Interceptando resposta
-2024-09-22 21:46:52,386 - INFO - Middleware: Interceptando requisição
-2024-09-22 21:46:52,393 - INFO - Novo Novo Post
-2024-09-22 21:46:52,396 - INFO - Middleware: Interceptando resposta
-2024-09-22 21:46:52,788 - INFO - Middleware: Interceptando requisição
-2024-09-22 21:46:52,796 - INFO - Middleware: Interceptando resposta
-2024-09-22 21:46:53,175 - INFO - Middleware: Interceptando requisição
-2024-09-22 21:46:53,181 - INFO - Middleware: Interceptando resposta
-2024-09-22 21:46:53,543 - INFO - Middleware: Interceptando requisição
-2024-09-22 21:46:53,548 - INFO - Middleware: Interceptando resposta
-2024-09-22 21:47:38,619 - INFO - Middleware: Interceptando requisição
-2024-09-22 21:47:39,027 - INFO - Middleware: Interceptando resposta
-2024-09-22 21:47:49,712 - INFO - Middleware: Interceptando requisição
-2024-09-22 21:47:49,729 - INFO - Middleware: Interceptando resposta
-2024-09-22 21:48:13,445 - INFO - Middleware: Interceptando requisição
-2024-09-22 21:48:13,460 - INFO - Novo teste 03
-2024-09-22 21:48:13,465 - INFO - Middleware: Interceptando resposta
-2024-09-22 21:48:35,442 - INFO - Middleware: Interceptando requisição
-2024-09-22 21:48:35,456 - INFO - Novo teste al
-2024-09-22 21:48:35,462 - INFO - Middleware: Interceptando resposta
-2024-09-22 21:49:10,286 - INFO - Middleware: Interceptando requisição
-2024-09-22 21:49:10,309 - INFO - Middleware: Interceptando resposta
-2024-09-22 21:49:31,836 - INFO - Middleware: Interceptando requisição
-2024-09-22 21:49:31,850 - INFO - Middleware: Interceptando resposta
-2024-09-22 21:49:31,851 - WARNING - Not Found: /api/category/4/
-2024-09-22 21:49:43,441 - INFO - Middleware: Interceptando requisição
-2024-09-22 21:49:43,455 - INFO - Middleware: Interceptando resposta
-2024-09-22 21:51:49,781 - INFO - Middleware: Interceptando requisição
-2024-09-22 21:51:49,798 - INFO - Middleware: Interceptando resposta
-2024-09-22 21:52:19,507 - INFO - Middleware: Interceptando requisição
-2024-09-22 21:52:19,526 - INFO - Middleware: Interceptando resposta
-2024-09-22 21:52:28,511 - INFO - Middleware: Interceptando requisição
-2024-09-22 21:52:28,525 - INFO - Middleware: Interceptando resposta
-2024-09-22 21:53:10,312 - INFO - Middleware: Interceptando requisição
-2024-09-22 21:53:10,314 - INFO - Middleware: Interceptando resposta
-2024-09-22 21:53:10,314 - WARNING - Unauthorized: /api/category/
-2024-09-22 21:53:16,160 - INFO - Middleware: Interceptando requisição
-2024-09-22 21:53:16,572 - INFO - Middleware: Interceptando resposta
-2024-09-22 21:53:25,669 - INFO - Middleware: Interceptando requisição
-2024-09-22 21:53:25,680 - INFO - Novo kotlin
-2024-09-22 21:53:25,683 - INFO - Middleware: Interceptando resposta
-2024-09-22 21:53:44,895 - INFO - Middleware: Interceptando requisição
-2024-09-22 21:53:44,908 - INFO - Middleware: Interceptando resposta
-2024-09-22 21:53:49,145 - INFO - Middleware: Interceptando requisição
-2024-09-22 21:53:49,146 - INFO - Middleware: Interceptando resposta
-2024-09-22 21:53:49,147 - WARNING - Unauthorized: /api/category/
-2024-09-22 21:53:52,442 - INFO - Middleware: Interceptando requisição
-2024-09-22 21:53:52,452 - INFO - Middleware: Interceptando resposta
-2024-09-22 21:54:21,897 - INFO - Middleware: Interceptando requisição
-2024-09-22 21:54:21,912 - INFO - Middleware: Interceptando resposta
-2024-09-22 21:54:37,432 - INFO - Middleware: Interceptando requisição
-2024-09-22 21:54:37,449 - INFO - Novo 1
-2024-09-22 21:54:37,456 - INFO - Middleware: Interceptando resposta
-2024-09-22 21:54:53,162 - INFO - Middleware: Interceptando requisição
-2024-09-22 21:54:53,175 - INFO - Middleware: Interceptando resposta
-2024-09-22 21:55:06,751 - INFO - Middleware: Interceptando requisição
-2024-09-22 21:55:06,766 - INFO - Middleware: Interceptando resposta
-2024-09-22 21:57:54,781 - INFO - Middleware: Interceptando requisição
-2024-09-22 21:57:54,852 - INFO - Middleware: Interceptando resposta
-2024-09-22 21:58:07,231 - INFO - Middleware: Interceptando requisição
-2024-09-22 21:58:07,248 - INFO - Middleware: Interceptando resposta
-2024-09-22 21:58:07,248 - WARNING - Unauthorized: /api/post/
-2024-09-22 21:58:12,324 - INFO - Middleware: Interceptando requisição
-2024-09-22 21:58:12,330 - INFO - Middleware: Interceptando resposta
-2024-09-22 21:58:12,330 - WARNING - Unauthorized: /api/comment/
-2024-09-22 21:58:15,732 - INFO - Middleware: Interceptando requisição
-2024-09-22 21:58:15,740 - INFO - Middleware: Interceptando resposta
-2024-09-22 21:58:15,743 - WARNING - Unauthorized: /api/category/
-2024-09-22 21:58:28,215 - INFO - Middleware: Interceptando requisição
-2024-09-22 21:58:28,258 - INFO - Middleware: Interceptando resposta
-2024-09-22 21:58:28,259 - WARNING - Method Not Allowed: /api/token/
-2024-09-22 21:58:32,588 - INFO - Middleware: Interceptando requisição
-2024-09-22 21:58:33,007 - INFO - Middleware: Interceptando resposta
-2024-09-25 17:46:23,050 - INFO - Watching for file changes with StatReloader
-2024-09-25 17:59:05,287 - INFO - Watching for file changes with StatReloader
-2024-09-25 19:20:23,941 - INFO - Watching for file changes with StatReloader
-2024-09-26 15:55:29,854 - INFO - Watching for file changes with StatReloader
-2024-09-27 15:39:33,026 - INFO - Watching for file changes with StatReloader
-2024-09-29 16:18:33,264 - INFO - Watching for file changes with StatReloader
-2024-09-30 17:24:35,565 - INFO - Watching for file changes with StatReloader
-2024-10-01 17:40:19,988 - INFO - Watching for file changes with StatReloader
-2024-10-01 22:22:03,708 - INFO - Watching for file changes with StatReloader
-2024-10-01 22:33:45,428 - INFO - Watching for file changes with StatReloader
-2024-10-01 22:34:07,412 - INFO - Middleware: Interceptando requisição
-2024-10-01 22:34:07,924 - INFO - Middleware: Interceptando resposta
-2024-10-01 22:34:31,004 - INFO - Middleware: Interceptando requisição
-2024-10-01 22:34:31,035 - INFO - Middleware: Interceptando resposta
-2024-10-01 23:08:15,546 - INFO - Watching for file changes with StatReloader
-2024-10-01 23:08:56,493 - INFO - Middleware: Interceptando requisição
-2024-10-01 23:08:56,890 - INFO - Middleware: Interceptando resposta
-2024-10-01 23:09:30,438 - INFO - Watching for file changes with StatReloader
-2024-10-01 23:09:34,747 - INFO - Middleware: Interceptando requisição
-2024-10-01 23:09:35,116 - INFO - Middleware: Interceptando resposta
-2024-10-01 23:09:55,917 - INFO - Middleware: Interceptando requisição
-2024-10-01 23:09:55,933 - INFO - Middleware: Interceptando resposta
-2024-10-01 23:10:14,042 - INFO - Middleware: Interceptando requisição
-2024-10-01 23:10:14,058 - INFO - Novo teste al
-2024-10-01 23:10:14,070 - INFO - Middleware: Interceptando resposta
-2024-10-01 23:10:39,455 - INFO - Middleware: Interceptando requisição
-2024-10-01 23:10:39,473 - INFO - Middleware: Interceptando resposta
-2024-10-01 23:10:39,475 - WARNING - Not Found: /api/post/4/
-2024-10-01 23:10:49,699 - INFO - Middleware: Interceptando requisição
-2024-10-01 23:10:49,716 - INFO - Middleware: Interceptando resposta
-2024-10-01 23:12:17,113 - INFO - Middleware: Interceptando requisição
-2024-10-01 23:12:17,114 - INFO - Middleware: Interceptando resposta
-2024-10-01 23:12:17,115 - WARNING - Unauthorized: /api/post/3/
-2024-10-01 23:12:25,108 - INFO - Middleware: Interceptando requisição
-2024-10-01 23:12:25,124 - INFO - Middleware: Interceptando resposta
-2024-10-01 23:14:02,368 - INFO - Middleware: Interceptando requisição
-2024-10-01 23:14:02,373 - INFO - Novo Nova Categoria
-2024-10-01 23:14:02,376 - INFO - Middleware: Interceptando resposta
-2024-10-01 23:14:02,736 - INFO - Middleware: Interceptando requisição
-2024-10-01 23:14:02,740 - INFO - Middleware: Interceptando resposta
-2024-10-01 23:14:03,086 - INFO - Middleware: Interceptando requisição
-2024-10-01 23:14:03,090 - INFO - Middleware: Interceptando resposta
-2024-10-01 23:14:03,441 - INFO - Middleware: Interceptando requisição
-2024-10-01 23:14:03,449 - INFO - Middleware: Interceptando resposta
-2024-10-01 23:14:03,812 - INFO - Middleware: Interceptando requisição
-2024-10-01 23:14:03,818 - INFO - Novo 1
-2024-10-01 23:14:03,822 - INFO - Middleware: Interceptando resposta
-2024-10-01 23:14:04,166 - INFO - Middleware: Interceptando requisição
-2024-10-01 23:14:04,171 - INFO - Middleware: Interceptando resposta
-2024-10-01 23:14:04,532 - INFO - Middleware: Interceptando requisição
-2024-10-01 23:14:04,537 - INFO - Middleware: Interceptando resposta
-2024-10-01 23:14:04,894 - INFO - Middleware: Interceptando requisição
-2024-10-01 23:14:04,899 - INFO - Middleware: Interceptando resposta
-2024-10-01 23:14:05,259 - INFO - Middleware: Interceptando requisição
-2024-10-01 23:14:05,264 - INFO - Novo Novo Post
-2024-10-01 23:14:05,267 - INFO - Middleware: Interceptando resposta
-2024-10-01 23:14:05,633 - INFO - Middleware: Interceptando requisição
-2024-10-01 23:14:05,637 - INFO - Middleware: Interceptando resposta
-2024-10-01 23:14:05,982 - INFO - Middleware: Interceptando requisição
-2024-10-01 23:14:05,987 - INFO - Middleware: Interceptando resposta
-2024-10-01 23:14:06,375 - INFO - Middleware: Interceptando requisição
-2024-10-01 23:14:06,382 - INFO - Middleware: Interceptando resposta
-2024-10-07 17:29:13,078 - INFO - Watching for file changes with StatReloader
-2024-10-10 15:53:58,120 - INFO - Watching for file changes with StatReloader
-2024-10-11 00:35:10,260 - INFO - Watching for file changes with StatReloader
-2024-10-11 03:23:57,985 - INFO - Watching for file changes with StatReloader
-2024-10-11 12:47:55,933 - INFO - Watching for file changes with StatReloader
-2024-10-11 12:54:39,766 - INFO - Watching for file changes with StatReloader
-2024-10-12 17:09:47,185 - INFO - Watching for file changes with StatReloader
-2024-10-12 17:11:28,842 - INFO - Watching for file changes with StatReloader
-2024-10-12 17:11:48,031 - INFO - Watching for file changes with StatReloader
-2024-10-12 17:15:15,572 - INFO - Watching for file changes with StatReloader
-2024-10-12 17:15:20,027 - INFO - Middleware: Interceptando requisição
-2024-10-12 17:15:20,033 - INFO - Middleware: Interceptando resposta
-2024-10-12 17:15:20,033 - WARNING - Not Found: /
-2024-10-12 17:15:20,172 - INFO - Middleware: Interceptando requisição
-2024-10-12 17:15:20,178 - INFO - Middleware: Interceptando resposta
-2024-10-12 17:15:20,178 - WARNING - Not Found: /favicon.ico
-2024-10-12 17:15:26,109 - INFO - Middleware: Interceptando requisição
-2024-10-12 17:15:26,118 - INFO - Middleware: Interceptando resposta
-2024-10-12 17:15:26,126 - INFO - Middleware: Interceptando requisição
-2024-10-12 17:15:26,142 - INFO - Middleware: Interceptando resposta
-2024-10-12 17:15:26,147 - INFO - Middleware: Interceptando requisição
-2024-10-12 17:15:26,157 - INFO - Middleware: Interceptando resposta
-2024-10-12 17:15:51,236 - INFO - Middleware: Interceptando requisição
-2024-10-12 17:15:51,473 - INFO - Middleware: Interceptando resposta
-2024-10-12 17:18:16,107 - INFO - Watching for file changes with StatReloader
-2024-10-12 17:18:18,490 - INFO - Middleware: Interceptando requisição
-2024-10-12 17:18:18,495 - INFO - Middleware: Interceptando resposta
-2024-10-12 17:18:18,495 - WARNING - Not Found: /
-2024-10-12 17:18:22,743 - INFO - Middleware: Interceptando requisição
-2024-10-12 17:18:22,753 - INFO - Middleware: Interceptando resposta
-2024-10-12 17:18:22,758 - INFO - Middleware: Interceptando requisição
-2024-10-12 17:18:22,774 - INFO - Middleware: Interceptando resposta
-2024-10-12 17:18:26,273 - INFO - Middleware: Interceptando requisição
-2024-10-12 17:18:26,537 - INFO - Middleware: Interceptando resposta
-2024-10-12 17:18:26,543 - INFO - Middleware: Interceptando requisição
-2024-10-12 17:18:26,572 - INFO - Middleware: Interceptando resposta
-2024-10-12 17:18:36,493 - INFO - Middleware: Interceptando requisição
-2024-10-12 17:18:36,559 - INFO - Middleware: Interceptando resposta
-2024-10-12 17:18:36,596 - INFO - Middleware: Interceptando requisição
-2024-10-12 17:18:36,631 - INFO - Middleware: Interceptando resposta
-2024-10-12 17:18:39,463 - INFO - Middleware: Interceptando requisição
-2024-10-12 17:18:39,485 - INFO - Middleware: Interceptando resposta
-2024-10-12 17:18:39,522 - INFO - Middleware: Interceptando requisição
-2024-10-12 17:18:39,535 - INFO - Middleware: Interceptando resposta
-2024-10-12 17:18:40,767 - INFO - Middleware: Interceptando requisição
-2024-10-12 17:18:40,811 - INFO - Middleware: Interceptando resposta
-2024-10-12 17:18:40,833 - INFO - Middleware: Interceptando requisição
-2024-10-12 17:18:40,853 - INFO - Middleware: Interceptando resposta
-2024-10-12 17:18:46,565 - INFO - Middleware: Interceptando requisição
-2024-10-12 17:18:46,600 - INFO - Middleware: Interceptando resposta
-2024-10-12 17:18:46,656 - INFO - Middleware: Interceptando requisição
-2024-10-12 17:18:46,672 - INFO - Middleware: Interceptando resposta
-2024-10-12 17:18:53,805 - INFO - Middleware: Interceptando requisição
-2024-10-12 17:18:53,831 - INFO - Middleware: Interceptando resposta
-2024-10-12 17:18:53,841 - INFO - Middleware: Interceptando requisição
-2024-10-12 17:18:53,875 - INFO - Middleware: Interceptando resposta
-2024-10-12 17:18:53,960 - INFO - Middleware: Interceptando requisição
-2024-10-12 17:18:53,975 - INFO - Middleware: Interceptando resposta
-2024-10-12 17:18:57,097 - INFO - Middleware: Interceptando requisição
-2024-10-12 17:18:57,148 - INFO - Middleware: Interceptando resposta
-2024-10-12 17:18:57,182 - INFO - Middleware: Interceptando requisição
-2024-10-12 17:18:57,193 - INFO - Middleware: Interceptando resposta
-2024-10-12 17:19:25,489 - INFO - Middleware: Interceptando requisição
-2024-10-12 17:19:25,537 - DEBUG - STREAM b'IHDR' 16 13
-2024-10-12 17:19:25,537 - DEBUG - STREAM b'pHYs' 41 9
-2024-10-12 17:19:25,537 - DEBUG - STREAM b'tEXt' 62 59
-2024-10-12 17:19:25,537 - DEBUG - STREAM b'iTXt' 133 1253
-2024-10-12 17:19:25,537 - DEBUG - STREAM b'IDAT' 1398 233799
-2024-10-12 17:19:25,538 - DEBUG - Importing BlpImagePlugin
-2024-10-12 17:19:25,538 - DEBUG - Importing BmpImagePlugin
-2024-10-12 17:19:25,538 - DEBUG - Importing BufrStubImagePlugin
-2024-10-12 17:19:25,538 - DEBUG - Importing CurImagePlugin
-2024-10-12 17:19:25,539 - DEBUG - Importing DcxImagePlugin
-2024-10-12 17:19:25,539 - DEBUG - Importing DdsImagePlugin
-2024-10-12 17:19:25,541 - DEBUG - Importing EpsImagePlugin
-2024-10-12 17:19:25,541 - DEBUG - Importing FitsImagePlugin
-2024-10-12 17:19:25,541 - DEBUG - Importing FliImagePlugin
-2024-10-12 17:19:25,541 - DEBUG - Importing FpxImagePlugin
-2024-10-12 17:19:25,542 - DEBUG - Image: failed to import FpxImagePlugin: No module named 'olefile'
-2024-10-12 17:19:25,542 - DEBUG - Importing FtexImagePlugin
-2024-10-12 17:19:25,542 - DEBUG - Importing GbrImagePlugin
-2024-10-12 17:19:25,542 - DEBUG - Importing GifImagePlugin
-2024-10-12 17:19:25,542 - DEBUG - Importing GribStubImagePlugin
-2024-10-12 17:19:25,542 - DEBUG - Importing Hdf5StubImagePlugin
-2024-10-12 17:19:25,542 - DEBUG - Importing IcnsImagePlugin
-2024-10-12 17:19:25,543 - DEBUG - Importing IcoImagePlugin
-2024-10-12 17:19:25,543 - DEBUG - Importing ImImagePlugin
-2024-10-12 17:19:25,543 - DEBUG - Importing ImtImagePlugin
-2024-10-12 17:19:25,544 - DEBUG - Importing IptcImagePlugin
-2024-10-12 17:19:25,544 - DEBUG - Importing JpegImagePlugin
-2024-10-12 17:19:25,544 - DEBUG - Importing Jpeg2KImagePlugin
-2024-10-12 17:19:25,544 - DEBUG - Importing McIdasImagePlugin
-2024-10-12 17:19:25,544 - DEBUG - Importing MicImagePlugin
-2024-10-12 17:19:25,544 - DEBUG - Image: failed to import MicImagePlugin: No module named 'olefile'
-2024-10-12 17:19:25,544 - DEBUG - Importing MpegImagePlugin
-2024-10-12 17:19:25,544 - DEBUG - Importing MpoImagePlugin
-2024-10-12 17:19:25,546 - DEBUG - Importing MspImagePlugin
-2024-10-12 17:19:25,546 - DEBUG - Importing PalmImagePlugin
-2024-10-12 17:19:25,547 - DEBUG - Importing PcdImagePlugin
-2024-10-12 17:19:25,547 - DEBUG - Importing PcxImagePlugin
-2024-10-12 17:19:25,547 - DEBUG - Importing PdfImagePlugin
-2024-10-12 17:19:25,550 - DEBUG - Importing PixarImagePlugin
-2024-10-12 17:19:25,551 - DEBUG - Importing PngImagePlugin
-2024-10-12 17:19:25,551 - DEBUG - Importing PpmImagePlugin
-2024-10-12 17:19:25,551 - DEBUG - Importing PsdImagePlugin
-2024-10-12 17:19:25,551 - DEBUG - Importing QoiImagePlugin
-2024-10-12 17:19:25,551 - DEBUG - Importing SgiImagePlugin
-2024-10-12 17:19:25,552 - DEBUG - Importing SpiderImagePlugin
-2024-10-12 17:19:25,552 - DEBUG - Importing SunImagePlugin
-2024-10-12 17:19:25,552 - DEBUG - Importing TgaImagePlugin
-2024-10-12 17:19:25,552 - DEBUG - Importing TiffImagePlugin
-2024-10-12 17:19:25,552 - DEBUG - Importing WebPImagePlugin
-2024-10-12 17:19:25,553 - DEBUG - Importing WmfImagePlugin
-2024-10-12 17:19:25,553 - DEBUG - Importing XbmImagePlugin
-2024-10-12 17:19:25,553 - DEBUG - Importing XpmImagePlugin
-2024-10-12 17:19:25,554 - DEBUG - Importing XVThumbImagePlugin
-2024-10-12 17:19:25,558 - INFO - Middleware: Interceptando resposta
-2024-10-12 17:19:25,563 - INFO - Middleware: Interceptando requisição
-2024-10-12 17:19:25,584 - INFO - Middleware: Interceptando resposta
-2024-10-12 17:19:25,673 - INFO - Middleware: Interceptando requisição
-2024-10-12 17:19:25,688 - INFO - Middleware: Interceptando resposta
-2024-10-12 17:19:29,094 - INFO - Middleware: Interceptando requisição
-2024-10-12 17:19:29,120 - INFO - Middleware: Interceptando resposta
-2024-10-12 17:19:29,155 - INFO - Middleware: Interceptando requisição
-2024-10-12 17:19:29,166 - INFO - Middleware: Interceptando resposta
-2024-10-12 17:19:44,184 - INFO - Middleware: Interceptando requisição
-2024-10-12 17:19:44,214 - INFO - Middleware: Interceptando resposta
-2024-10-12 17:19:44,222 - INFO - Middleware: Interceptando requisição
-2024-10-12 17:19:44,253 - INFO - Middleware: Interceptando resposta
-2024-10-12 17:19:44,331 - INFO - Middleware: Interceptando requisição
-2024-10-12 17:19:44,345 - INFO - Middleware: Interceptando resposta
-2024-10-12 19:03:18,340 - INFO - Watching for file changes with StatReloader
-2024-10-12 19:25:13,110 - INFO - Watching for file changes with StatReloader
+2024-10-14 18:41:22,877 - INFO - Middleware: Interceptando resposta
+2024-10-14 18:43:09,034 - INFO - Middleware: Interceptando requisição
+2024-10-14 18:43:09,044 - INFO - Middleware: Interceptando resposta
+2024-10-14 18:43:16,044 - INFO - Middleware: Interceptando requisição
+2024-10-14 18:43:16,112 - ERROR - Internal Server Error: /admin/login/
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.12/site-packages/django/db/backends/utils.py", line 105, in _execute
+    return self.cursor.execute(sql, params)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+psycopg2.errors.UndefinedTable: relation "auth_user" does not exist
+LINE 1: ...user"."is_active", "auth_user"."date_joined" FROM "auth_user...
+                                                             ^
+
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.12/site-packages/django/core/handlers/exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/local/lib/python3.12/site-packages/django/core/handlers/base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/local/lib/python3.12/site-packages/django/utils/decorators.py", line 48, in _wrapper
+    return bound_method(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/local/lib/python3.12/site-packages/django/views/decorators/cache.py", line 80, in _view_wrapper
+    response = view_func(request, *args, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/local/lib/python3.12/site-packages/django/contrib/admin/sites.py", line 444, in login
+    return LoginView.as_view(**defaults)(request)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/local/lib/python3.12/site-packages/django/views/generic/base.py", line 104, in view
+    return self.dispatch(request, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/local/lib/python3.12/site-packages/django/utils/decorators.py", line 48, in _wrapper
+    return bound_method(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/local/lib/python3.12/site-packages/django/utils/decorators.py", line 48, in _wrapper
+    return bound_method(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/local/lib/python3.12/site-packages/django/views/decorators/debug.py", line 143, in sensitive_post_parameters_wrapper
+    return view(request, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/local/lib/python3.12/site-packages/django/utils/decorators.py", line 48, in _wrapper
+    return bound_method(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/local/lib/python3.12/site-packages/django/utils/decorators.py", line 188, in _view_wrapper
+    result = _process_exception(request, e)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/local/lib/python3.12/site-packages/django/utils/decorators.py", line 186, in _view_wrapper
+    response = view_func(request, *args, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/local/lib/python3.12/site-packages/django/utils/decorators.py", line 48, in _wrapper
+    return bound_method(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/local/lib/python3.12/site-packages/django/views/decorators/cache.py", line 80, in _view_wrapper
+    response = view_func(request, *args, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/local/lib/python3.12/site-packages/django/contrib/auth/views.py", line 89, in dispatch
+    return super().dispatch(request, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/local/lib/python3.12/site-packages/django/views/generic/base.py", line 143, in dispatch
+    return handler(request, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/local/lib/python3.12/site-packages/django/views/generic/edit.py", line 150, in post
+    if form.is_valid():
+       ^^^^^^^^^^^^^^^
+  File "/usr/local/lib/python3.12/site-packages/django/forms/forms.py", line 197, in is_valid
+    return self.is_bound and not self.errors
+                                 ^^^^^^^^^^^
+  File "/usr/local/lib/python3.12/site-packages/django/forms/forms.py", line 192, in errors
+    self.full_clean()
+  File "/usr/local/lib/python3.12/site-packages/django/forms/forms.py", line 326, in full_clean
+    self._clean_form()
+  File "/usr/local/lib/python3.12/site-packages/django/forms/forms.py", line 342, in _clean_form
+    cleaned_data = self.clean()
+                   ^^^^^^^^^^^^
+  File "/usr/local/lib/python3.12/site-packages/django/contrib/auth/forms.py", line 356, in clean
+    self.user_cache = authenticate(
+                      ^^^^^^^^^^^^^
+  File "/usr/local/lib/python3.12/site-packages/django/views/decorators/debug.py", line 75, in sensitive_variables_wrapper
+    return func(*func_args, **func_kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/local/lib/python3.12/site-packages/django/contrib/auth/__init__.py", line 79, in authenticate
+    user = backend.authenticate(request, **credentials)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/local/lib/python3.12/site-packages/django/contrib/auth/backends.py", line 42, in authenticate
+    user = UserModel._default_manager.get_by_natural_key(username)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/local/lib/python3.12/site-packages/django/contrib/auth/base_user.py", line 37, in get_by_natural_key
+    return self.get(**{self.model.USERNAME_FIELD: username})
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/local/lib/python3.12/site-packages/django/db/models/manager.py", line 87, in manager_method
+    return getattr(self.get_queryset(), name)(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/local/lib/python3.12/site-packages/django/db/models/query.py", line 645, in get
+    num = len(clone)
+          ^^^^^^^^^^
+  File "/usr/local/lib/python3.12/site-packages/django/db/models/query.py", line 382, in __len__
+    self._fetch_all()
+  File "/usr/local/lib/python3.12/site-packages/django/db/models/query.py", line 1928, in _fetch_all
+    self._result_cache = list(self._iterable_class(self))
+                         ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/local/lib/python3.12/site-packages/django/db/models/query.py", line 91, in __iter__
+    results = compiler.execute_sql(
+              ^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/local/lib/python3.12/site-packages/django/db/models/sql/compiler.py", line 1574, in execute_sql
+    cursor.execute(sql, params)
+  File "/usr/local/lib/python3.12/site-packages/django/db/backends/utils.py", line 122, in execute
+    return super().execute(sql, params)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/local/lib/python3.12/site-packages/django/db/backends/utils.py", line 79, in execute
+    return self._execute_with_wrappers(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/local/lib/python3.12/site-packages/django/db/backends/utils.py", line 92, in _execute_with_wrappers
+    return executor(sql, params, many, context)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/local/lib/python3.12/site-packages/django/db/backends/utils.py", line 100, in _execute
+    with self.db.wrap_database_errors:
+         ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/local/lib/python3.12/site-packages/django/db/utils.py", line 91, in __exit__
+    raise dj_exc_value.with_traceback(traceback) from exc_value
+  File "/usr/local/lib/python3.12/site-packages/django/db/backends/utils.py", line 105, in _execute
+    return self.cursor.execute(sql, params)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+django.db.utils.ProgrammingError: relation "auth_user" does not exist
+LINE 1: ...user"."is_active", "auth_user"."date_joined" FROM "auth_user...
+                                                             ^
+
+2024-10-14 18:43:16,114 - INFO - Middleware: Interceptando resposta
+2024-10-14 18:44:15,481 - INFO - Middleware: Interceptando requisição
+2024-10-14 18:44:15,710 - INFO - Middleware: Interceptando resposta
+2024-10-14 18:44:18,772 - INFO - Middleware: Interceptando requisição
+2024-10-14 18:44:19,007 - INFO - Middleware: Interceptando resposta
+2024-10-14 18:45:30,259 - INFO - Middleware: Interceptando requisição
+2024-10-14 18:45:30,260 - INFO - Middleware: Interceptando resposta
+2024-10-14 18:45:30,270 - INFO - Middleware: Interceptando requisição
+2024-10-14 18:45:30,276 - INFO - Middleware: Interceptando resposta
+2024-10-14 18:45:36,931 - INFO - Middleware: Interceptando requisição
+2024-10-14 18:45:37,170 - INFO - Middleware: Interceptando resposta
+2024-10-14 18:45:37,181 - INFO - Middleware: Interceptando requisição
+2024-10-14 18:45:37,206 - INFO - Middleware: Interceptando resposta

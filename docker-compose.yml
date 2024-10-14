@@ -13,10 +13,10 @@ services:
       - DEBUG=1
     networks:
       - backend
-    # restart: always # Adiciona uma política de reinício
+    restart: always # Adiciona uma política de reinício
 
   db:
-    image: postgres:16
+    image: postgres:15
     environment:
       POSTGRES_DB: boost_code_db
       POSTGRES_USER: postgres
@@ -30,9 +30,9 @@ services:
     restart: always # Adiciona uma política de reinício
     healthcheck:
       test: ['CMD-SHELL', 'pg_isready -U postgres']
-      interval: 10s
-      retries: 5
+      interval: 5s
       timeout: 5s
+      retries: 10
 
 volumes:
   postgres_data:
